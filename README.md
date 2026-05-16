@@ -1,10 +1,10 @@
 # TFRRS Scraper
 
-A Python scraper that pulls NCAA Division I track and field performance lists from TFRRS going back to 2012. Outputs a clean CSV per season covering all individual events for both men and women.
+A Python scraper that pulls NCAA Division I track and field performance lists from TFRRS going back to 2012. Outputs a CSV per season covering all individual events for both men and women.
 
 ## What it does
 
-Scrapes TFRRS performance lists and extracts athlete, team, event, result, and meet data into CSVs ready for analysis. Handles running events, field events, and combined events, and flags altitude and track-size converted marks.
+Scrapes TFRRS performance lists and extracts athlete, team, event, result, and meet data into CSVs for analysis. Handles running events, field events, and combined events, and flags altitude and track-size converted marks.
 
 ## Setup
 

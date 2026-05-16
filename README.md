@@ -1,30 +1,22 @@
 # TFRRS Scraper
 
-A Python scraper that pulls NCAA Division I track and field performance lists from TFRRS going back to 2012. Outputs a CSV per season covering all individual events for both men and women.
-
-## What it does
-
-Scrapes TFRRS performance lists and extracts athlete, team, event, result, and meet data into CSVs for analysis. Handles running events, field events, and combined events, and flags altitude and track-size converted marks.
+Scrapes NCAA Division I track and field performance lists from TFRRS going back to 2012. One CSV per season, all individual events, both men and women.
 
 ## Setup
-
-Install dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-Add URLs to `config/urls.txt` (one per line) and set your result limit in `config/settings.py`, then run:
+Add URLs to `config/urls.txt` and adjust the result limit in `config/settings.py`, then run:
 
 ```
 python src/scraper.py
 ```
 
-CSVs will be exported to `data/processed/`.
+CSVs land in `data/processed/`.
 
 ## Output
-
-Each CSV contains the following columns:
 
 | Column | Description |
 |--------|-------------|
@@ -35,7 +27,7 @@ Each CSV contains the following columns:
 | year | Academic year (e.g. JR-3) |
 | team | School name |
 | result | Performance mark or time |
-| converted | True if mark was altitude or track-size converted |
+| converted | True if altitude or track-size adjusted |
 | meet | Meet name |
 | meet_date | Date of performance |
 
@@ -45,7 +37,7 @@ Each CSV contains the following columns:
 tfrrs-scraper/
 ├── config/
 │   ├── settings.py       # result limit and other constants
-│   └── urls.txt          # list of TFRRS performance list URLs
+│   └── urls.txt          # TFRRS performance list URLs
 ├── data/
 │   └── processed/        # output CSVs, one per season
 └── src/
@@ -57,4 +49,6 @@ tfrrs-scraper/
 
 ## Notes
 
-Relay events are intentionally excluded. This scraper focuses on individual performances only. Results flagged with `@` (altitude) or `#` (track size conversion) are marked in the `converted` column. Marks with no comma-separated name format are stored as a full name string in the athlete column.
+The result limit in `config/settings.py` controls how many results are fetched per event per page. At `500` (max), scraping all years takes roughly 5–10 minutes. At `5`, it runs in seconds. Adjust based on your needs.
+
+Relay events are excluded therefore, individual performances only. Marks flagged with `@` (altitude) or `#` (track size) are noted in the `converted` column. Names not stored in Last, First format are kept as a full string in the athlete column.

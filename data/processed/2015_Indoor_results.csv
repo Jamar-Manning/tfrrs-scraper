@@ -1,0 +1,155 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+60 Meters,m,1,"Teeters, John",JR-3,Oklahoma State,6.52,False,Tyson Invitational,2015-02-13
+60 Meters,m,2,"Bromell, Trayvon",SO-2,Baylor,6.54,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+60 Meters,m,3,"Miller, Jalen",SO-2,Mississippi,6.55,False,2015 Armory Track Invitational,2015-01-30
+60 Meters,m,4,"Williams, Kendal",FR-1,Florida State,6.56,False,ACC Indoor Track and Field Championships,2015-02-26
+60 Meters,m,4,"Hester, Tevin",JR-3,Clemson,6.56,False,ACC Indoor Track and Field Championships,2015-02-26
+60 Meters,f,1,"Burchell, Remona",SR-4,Alabama,7.08,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+60 Meters,f,2,"Todd, Jasmine",SO-2,Oregon,7.15,False,2015 UW Indoor Preview,2015-01-17
+60 Meters,f,3,"Bryant, Dezerea",SR-4,Kentucky,7.18,False,2015 Kentucky Track and Field Invitational,2015-01-16
+60 Meters,f,3,"Westbrook, Ky",FR-1,USC,7.18,False,2015 UW Indoor Preview,2015-01-17
+60 Meters,f,5,"Prandini, Jenna",JR-3,Oregon,7.19,True,Don Kirby Open & Elite,2015-02-13
+200 Meters,m,1,"Hart, Shavez",SR-4,Texas A&M,20.57,False,Texas A&M Aggie Invitational,2015-02-06
+200 Meters,m,2,"Ernest, Aaron",SR-4,LSU,20.67,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+200 Meters,m,3,"Bromell, Trayvon",SO-2,Baylor,20.69,False,Tyson Invitational,2015-02-13
+200 Meters,m,3,"Rodney, Brendon",JR-3,LIU Brooklyn,20.69,False,BU David Hemery Valentine Invitaional,2015-02-13
+200 Meters,m,5,"Watts, Sam",JR-3,TCU,20.70,False,Tyson Invitational,2015-02-13
+200 Meters,f,1,"Jefferson, Kyra",JR-3,Florida,22.81,False,Tyson Invitational,2015-02-13
+200 Meters,f,2,"Prandini, Jenna",JR-3,Oregon,22.94,True,Don Kirby Open & Elite,2015-02-13
+200 Meters,f,3,"Brown, Kamaria",SR-4,Texas A&M,22.97,False,Tyson Invitational,2015-02-13
+200 Meters,f,4,"White, Cierra",SR-4,Texas Tech,22.98,False,Big 12 Indoor Track & Field Championships,2015-02-27
+200 Meters,f,5,"Bryant, Dezerea",SR-4,Kentucky,23.02,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+400 Meters,m,1,"Glass, Najee",JR-3,Florida,45.34,False,Razorback Invitational,2015-01-30
+400 Meters,m,2,"Lendore, Deon",SR-4,Texas A&M,45.38,False,Tyson Invitational,2015-02-13
+400 Meters,m,3,"Taplin, Bralon",SR-4,Texas A&M,45.39,False,Tyson Invitational,2015-02-13
+400 Meters,m,4,"Norwood, Vernon",SR-4,LSU,45.56,False,Razorback Invitational,2015-01-30
+400 Meters,m,5,"Zahn, DJ",SR-4,Illinois,45.63,False,Big Ten Indoor Track and Field Championships,2015-02-27
+400 Meters,f,1,"Little, Shamier",SO-2,Texas A&M,51.37,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+400 Meters,f,2,"Okolo, Courtney",JR-3,Texas,51.46,True,New Mexico Classic,2015-02-06
+400 Meters,f,3,"Ellis-Watson, Taylor",JR-3,Arkansas,51.72,False,Tyson Invitational,2015-02-13
+400 Meters,f,4,"Baisden, Kendall",SO-2,Texas,51.81,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+400 Meters,f,5,"Wimbley, Shakima",SO-2,Miami,51.82,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+800 Meters,m,1,"Kemboi, Edward",SR-4,Iowa State,1:46.09,False,Iowa State Classic,2015-02-13
+800 Meters,m,2,"Arroyo, Andres",SO-2,Florida,1:46.78,False,Iowa State Classic,2015-02-13
+800 Meters,m,3,"McBride, Brandon",JR-3,Miss State,1:46.80,False,SPIRE NCAA D-1 Indoor T&F Invitational,2015-02-13
+800 Meters,m,4,"Capwell, Dylan",SO-2,Monmouth,1:46.82,False,Metro Atlantic Indoor Track & Field Championships,2015-02-21
+800 Meters,m,5,"Amankwah, Alex",JR-3,Alabama,1:46.86,False,Vanderbilt Indoor Invitational,2015-01-23
+800 Meters,f,1,"Goule, Natoya",SR-4,Clemson,2:02.78,False,2015 Armory Track Invitational,2015-01-30
+800 Meters,f,2,"Williams, Chrishuna",SR-4,Arkansas,2:02.95,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+800 Meters,f,3,"Williams, Olicia",JR-3,Baylor,2:03.21,False,Iowa State Classic,2015-02-13
+800 Meters,f,4,"Green, Hanna",SO-2,Virginia Tech,2:03.43,False,ACC Indoor Track and Field Championships,2015-02-26
+800 Meters,f,5,"Edwards, Kaela",SO-2,Oklahoma State,2:03.70,False,Iowa State Classic,2015-02-13
+Mile,m,1,"Soratos, Cristian",SR-4,Montana State,3:55.27,False,2015 UW Husky Classic,2015-02-13
+Mile,m,2,"Cheserek, Edward",SO-2,Oregon,3:56.43,False,108th NYRR Millrose Games,2015-02-14
+Mile,m,3,"Kidder, Brannon",JR-3,Penn State,3:57.13,False,2015 UW Husky Classic,2015-02-13
+Mile,m,4,"Oakley, Julian",JR-3,Providence,3:57.22,False,BU David Hemery Valentine Invitaional,2015-02-13
+Mile,m,5,"Joseph, Patrick",FR-1,Virginia Tech,3:57.44,True,Hilton Garden Innvitational,2015-01-30
+Mile,f,1,"Quigley, Colleen",SR-4,Florida State,4:29.67,False,BU David Hemery Valentine Invitaional,2015-02-13
+Mile,f,2,"Houlihan, Shelby",SR-4,Arizona State,4:30.77,False,108th NYRR Millrose Games,2015-02-14
+Mile,f,3,"Clarke, Rosie",JR-3,Iona,4:31.78,False,108th NYRR Millrose Games,2015-02-14
+Mile,f,4,"Teschuk, Erin",JR-3,North Dakota St.,4:32.09,True,Jack Johnson Classic,2015-01-30
+Mile,f,5,"O'Connor, Leah",SR-4,Michigan State,4:32.29,False,Big Ten Indoor Track and Field Championships,2015-02-27
+3000 Meters,m,1,"Jenkins, Eric",SR-4,Oregon,7:44.91,False,108th NYRR Millrose Games,2015-02-14
+3000 Meters,m,2,"Geoghegan, Will",SR-4,Oregon,7:45.71,False,108th NYRR Millrose Games,2015-02-14
+3000 Meters,m,3,"Campbell, Kemoy",SR-4,Arkansas,7:48.13,False,2015 UW Husky Classic,2015-02-13
+3000 Meters,m,4,"Elkaim, Jeramy",JR-3,Oregon,7:48.48,False,MPSF Indoor Track & Field Championships,2015-02-27
+3000 Meters,m,5,"Gilbert, Colby",FR-1,Washington,7:49.25,False,2015 UW Husky Classic,2015-02-13
+3000 Meters,f,1,"Scott, Dominique",SR-4,Arkansas,8:52.57,False,2015 UW Husky Classic,2015-02-13
+3000 Meters,f,2,"Sisson, Emily",SR-4,Providence,8:52.60,False,108th NYRR Millrose Games,2015-02-14
+3000 Meters,f,3,"Avery, Kate",JR-3,Iona,8:53.12,False,108th NYRR Millrose Games,2015-02-14
+3000 Meters,f,4,"Schulist, Rachele",SO-2,Michigan State,9:01.25,False,Big Ten Indoor Track and Field Championships,2015-02-27
+3000 Meters,f,5,"Cranny, Elise",FR-1,Stanford,9:02.36,False,2015 UW Husky Classic,2015-02-13
+5000 Meters,m,1,"Jenkins, Eric",SR-4,Oregon,13:31.76,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+5000 Meters,m,2,"Curtin, Thomas",JR-3,Virginia Tech,13:38.56,False,Iowa State Classic,2015-02-13
+5000 Meters,m,3,"Stinson, Parker",SR-4,Oregon,13:38.68,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+5000 Meters,m,4,"Murphy, Pierce",JR-3,Colorado,13:39.29,False,2015 UW Husky Classic,2015-02-13
+5000 Meters,m,5,"Rotich, Anthony",SR-4,UTEP,13:40.14,False,2015 UW Husky Classic,2015-02-13
+5000 Meters,f,1,"Sisson, Emily",SR-4,Providence,15:12.22,False,BIG EAST Indoor Track & Field Championships,2015-02-28
+5000 Meters,f,2,"Disanza, Sarah",FR-1,Wisconsin,15:20.57,False,Boston University Opener,2014-12-06
+5000 Meters,f,3,"Westphal, Liv",JR-3,Boston College,15:31.62,False,Boston University Opener,2014-12-06
+5000 Meters,f,4,"Johnson, Rachel",SR-4,Baylor,15:40.45,False,Texas A&M Reveille Invitational,2014-12-13
+5000 Meters,f,5,"Tonn, Jessica",SR-4,Stanford,15:47.65,False,2015 UW Husky Classic,2015-02-13
+60 Hurdles,m,1,"McLeod, Omar",SO-2,Arkansas,7.49,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+60 Hurdles,m,2,"Echols, Dondre",JR-3,South Carolina,7.72,False,2015 Armory Track Invitational,2015-01-30
+60 Hurdles,m,2,"Williams, Isaac",JR-3,Houston,7.72,False,Houston Indoor Opener,2015-01-09
+60 Hurdles,m,2,"Barth , Sebastian",SR-4,Northern Iowa,7.72,False,2015 UNI Team Invitational,2015-01-31
+60 Hurdles,m,2,"Akinmoladun, Oladapo",JR-3,Nebraska,7.72,False,Big Ten Indoor Track and Field Championships,2015-02-27
+60 Hurdles,f,1,"Harrison, Kendra",SR-4,Kentucky,7.92,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+60 Hurdles,f,2,"Owens, Bridgette",SR-4,Florida,8.02,False,Tyson Invitational,2015-02-13
+60 Hurdles,f,3,"Bougard, Erica",SR-4,Miss State,8.03,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+60 Hurdles,f,4,"Snow, Morgan",SR-4,Texas,8.07,False,Tyson Invitational,2015-02-13
+60 Hurdles,f,5,"Hall, Dior",FR-1,USC,8.09,True,Don Kirby Open & Elite,2015-02-13
+High Jump,m,1,"Bryan, Christoff",FR-1,Kansas State,2.28m,False,Tyson Invitational,2015-02-13
+High Jump,m,1,"Duffield, Jacorian",SR-4,Texas Tech,2.28m,False,Texas A&M Quadrangular Meet,2015-01-24
+High Jump,m,1,"Ellenson, Wally",SO-2,Marquette,2.28m,False,Wisconsin Open,2015-01-17
+High Jump,m,4,"McBride, Bryan",SR-4,Arizona State,2.26m,False,MPSF Indoor Track & Field Championships,2015-02-27
+High Jump,m,5,"Adkins, Bradley",JR-3,Texas Tech,2.25m,False,Tyson Invitational,2015-02-13
+High Jump,f,1,"Kallenou, Leontia",SO-2,Georgia,1.90m,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+High Jump,f,2,"Garcia Jou, Claudia",SR-4,Akron,1.88m,False,Tyson Invitational,2015-02-13
+High Jump,f,3,"Williamson, Kimberly",SO-2,Kansas State,1.87m,False,Big 12 Indoor Track & Field Championships,2015-02-27
+High Jump,f,3,"Gusin, Tatiana",SO-2,Georgia,1.87m,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+High Jump,f,5,"Cernjul, Marusa",SR-4,Nebraska,1.86m,False,Mark Colligan Memorial,2015-01-24
+High Jump,f,5,"Melville, Amber",SR-4,Maryland,1.86m,False,Terrapin Invitational,2015-01-17
+High Jump,f,5,"Hurd , Erika",JR-3,Cincinnati,1.86m,False,2014 Hoosier Open,2014-12-12
+Pole Vault,m,1,"Barber, Shawn",JR-3,Akron,5.90m,False,Tyson Invitational,2015-02-13
+Pole Vault,m,2,"Irwin, Andrew",SR-4,Arkansas,5.75m,False,Tyson Invitational,2015-02-13
+Pole Vault,m,3,"Blankenship, Jake",JR-3,Tennessee,5.70m,False,Hokie Invitational,2015-01-23
+Pole Vault,m,4,"Pillow, Chris",SR-4,Rice,5.60m,False,USATF Indoor Championships,2015-02-27
+Pole Vault,m,5,"Woepse, Michael",SR-4,UCLA,5.55m,False,Don Kirby Open & Elite,2015-02-13
+Pole Vault,m,5,"Uhle, Joey",SR-4,Air Force,5.55m,False,Air Force Invitational,2015-01-22
+Pole Vault,f,1,"Payne, Demi",JR-3,Stephen F. Austin,4.75m,False,Lobo Collegiate Open,2015-01-24
+Pole Vault,f,2,"Morris, Sandi",SR-4,Arkansas,4.66m,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+Pole Vault,f,3,"Richartz, Stephanie",SR-4,Illinois,4.39m,False,Big Ten Indoor Track and Field Championships,2015-02-27
+Pole Vault,f,3,"Petrillose, Kaitlin",JR-3,Texas,4.39m,False,Big 12 Indoor Track & Field Championships,2015-02-27
+Pole Vault,f,5,"Leleux, Morgann",JR-3,Georgia,4.37m,False,Doc Hale VT Elite,2015-02-06
+Pole Vault,f,5,"Clark, Megan",JR-3,Duke,4.37m,False,Doc Hale VT Elite,2015-02-06
+Long Jump,m,1,"Lawson, Jarrion",JR-3,Arkansas,8.03m,False,Tyson Invitational,2015-02-13
+Long Jump,m,2,"Dendy, Marquis",SR-4,Florida,8.02m,False,Razorback Invitational,2015-01-30
+Long Jump,m,3,"Pienaar, Roelf",SO-2,Arkansas State,7.97m,False,Don Kirby Open & Elite,2015-02-13
+Long Jump,m,4,"Addison, Jonathan",JR-3,North Carolina St.,7.88m,False,Doc Hale VT Elite,2015-02-06
+Long Jump,m,5,"George, Aaron",SO-2,Texas State,7.87m,False,Sun Belt Indoor Track & Field Championships,2015-02-23
+Long Jump,f,1,"Jones, Akela",JR-3,Kansas State,6.64m,False,Tyson Invitational,2015-02-13
+Long Jump,f,2,"Saunders, Sha'Keela",SO-2,Kentucky,6.55m,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+Long Jump,f,3,"Williams, Kendell",SO-2,Georgia,6.54m,False,Doc Hale VT Elite,2015-02-06
+Long Jump,f,4,"Hackworth, Kenyattia",SR-4,Kentucky,6.49m,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+Long Jump,f,5,"Prandini, Jenna",JR-3,Oregon,6.46m,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+Triple Jump,m,1,"Dendy, Marquis",SR-4,Florida,17.23m,False,Tyson Invitational,2015-02-13
+Triple Jump,m,2,"Scott, Donald",SR-4,Eastern Michigan,16.70m,False,Meyo Invitational,2015-02-06
+Triple Jump,m,3,"Collie, Latario",JR-3,Texas A&M,16.69m,False,Tyson Invitational,2015-02-13
+Triple Jump,m,4,"Ziegler, Manuel",SR-4,Virginia Tech,16.61m,False,ACC Indoor Track and Field Championships,2015-02-26
+Triple Jump,m,5,"Williams, Ben",JR-3,Louisville,16.55m,False,Doc Hale VT Elite,2015-02-06
+Triple Jump,f,1,"Orji, Keturah",FR-1,Georgia,13.98m,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+Triple Jump,f,2,"Brewer, Ciarra",SR-4,Florida,13.77m,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+Triple Jump,f,3,"Myers, Tamara",SR-4,Arkansas,13.40m,False,Razorback Invitational,2015-01-30
+Triple Jump,f,4,"Franklin, Tori",SR-4,Michigan State,13.38m,False,Meyo Invitational,2015-02-06
+Triple Jump,f,5,"Eke, Nadia",SR-4,Columbia,13.32m,False,Ivy League Indoor Track & Field Championships,2015-02-28
+Shot Put,m,1,"Crouser, Ryan",JR-3,Texas,21.14m,False,Big 12 Indoor Track & Field Championships,2015-02-27
+Shot Put,m,2,"Zunic, Stipe",SR-4,Florida,20.61m,False,Doc Hale VT Elite,2015-02-06
+Shot Put,m,3,"Hill, Darrell",SR-4,Penn State,20.51m,False,Penn State National Invitational,2015-01-30
+Shot Put,m,4,"Miller, Ashinia",JR-3,Georgia,20.31m,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+Shot Put,m,5,"Jones, Jonathan",SR-4,Buffalo,20.06m,False,Mid-American Conference Championship,2015-02-27
+Shot Put,f,1,"Bliss, Tori",SR-4,LSU,18.31m,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+Shot Put,f,2,"Saunders, Raven",FR-1,Southern Illinois,17.99m,False,Fred Wilt Invitational,2015-02-13
+Shot Put,f,3,"Uke, Claire",SR-4,Rice,17.95m,False,Conference USA Indoor Track & Field Championships,2015-02-25
+Shot Put,f,4,"Thomas, Danniel",JR-3,Kent State,17.71m,False,Mid-American Conference Championship,2015-02-27
+Shot Put,f,5,"Rushin, Jill",SR-4,Missouri,17.61m,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+Weight Throw,m,1,"Lihrman, Michael",SR-4,Wisconsin,25.58m,False,Big Ten Indoor Track and Field Championships,2015-02-27
+Weight Throw,m,2,"Enekwechi, Chukwuebuka",JR-3,Purdue,24.39m,False,Fred Wilt Invitational,2015-02-13
+Weight Throw,m,3,"McCullough, Conor",SR-4,USC,23.60m,False,MPSF Indoor Track & Field Championships,2015-02-27
+Weight Throw,m,4,"Brown , Cameron",JR-3,Tennessee,23.38m,False,Doc Hale VT Elite,2015-02-06
+Weight Throw,m,5,"Young, Jordan",SO-2,Virginia,22.92m,False,ACC Indoor Track and Field Championships,2015-02-26
+Weight Throw,f,1,"Peoples, Kearsten",SR-4,Missouri,22.84m,False,Missouri Collegiate Challenge,2015-02-20
+Weight Throw,f,2,"Storm, Ida",SR-4,UCLA,22.40m,False,MPSF Indoor Track & Field Championships,2015-02-27
+Weight Throw,f,3,"Garrett, Brea",SR-4,Texas A&M,22.28m,False,Tyson Invitational,2015-02-13
+Weight Throw,f,4,"Funk, Brittany",SR-4,Akron,21.86m,False,Mid-American Conference Championship,2015-02-27
+Weight Throw,f,5,"Card, Kelsey",JR-3,Wisconsin,21.82m,False,Iowa State Classic,2015-02-13
+Pentathlon,f,1,"Williams, Kendell",SO-2,Georgia,4609,False,2015 Rod McCravy Memorial Track & Field Meet,2015-01-23
+Pentathlon,f,2,"Jones, Akela",JR-3,Kansas State,4423,False,2015 Jayhawk Classic,2015-01-29
+Pentathlon,f,3,"Bougard, Erica",SR-4,Miss State,4419,False,Samford Multi's,2015-01-21
+Pentathlon,f,4,"Vollmer, Lindsay",SR-4,Kansas,4404,False,Big 12 Indoor Track & Field Championships,2015-02-27
+Pentathlon,f,5,"Herauf, Jess",JR-3,Minnesota,4361,False,Big Ten Indoor Track and Field Championships,2015-02-27
+Heptathlon,m,1,"Scantling, Garrett",JR-3,Georgia,6036,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+Heptathlon,m,2,"Uibo, Maicel",JR-3,Georgia,5909,False,2015 SEC Indoor  Track and Field Championships,2015-02-27
+Heptathlon,m,3,"Kregers, Reinis",JR-3,Kansas State,5801,False,2015 Jayhawk Classic,2015-01-29
+Heptathlon,m,4,"Morgan, Mike",JR-3,Buffalo,5797,False,Upstate Challenge 2015 Indoors,2015-01-24
+Heptathlon,m,5,"Wieland, Luca",SO-2,Minnesota,5787,False,Big Ten Indoor Track and Field Championships,2015-02-27

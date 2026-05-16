@@ -1,0 +1,154 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+60 Meters,m,1,"Ewers, Andre",JR-3,Florida State,6.52,False,Larry Wieczorek Invitational,2018-01-19
+60 Meters,m,2,"Brazil, Jeryl",SR-4,UL-Lafayette,6.55,False,LSU Bayou Bengal,2018-02-02
+60 Meters,m,3,"Hall, Elijah",SR-4,Houston,6.58,False,Tyson Invitational,2018-02-09
+60 Meters,m,4,"Cotton, Kenzo",SR-4,Arkansas,6.59,False,Tyson Invitational,2018-02-09
+60 Meters,m,4,"Kemp, Demek",SR-4,South Carolina St.,6.59,False,Dunamis Super Meet,2018-02-08
+60 Meters,f,1,"Brisco, Mikiah",SR-4,LSU,7.10,True,New Mexico Classic,2018-02-02
+60 Meters,f,2,"Hobbs, Aleia",SR-4,LSU,7.12,False,Tyson Invitational,2018-02-09
+60 Meters,f,3,"Smith, Jonielle",SR-4,Auburn,7.18,False,Tyson Invitational,2018-02-09
+60 Meters,f,3,"Johnson, Kortnei",JR-3,LSU,7.18,False,Razorback Invitational,2018-01-26
+60 Meters,f,5,"Whyte, Natalliah",FR-1,Auburn,7.19,False,Tyson Invitational,2018-02-09
+200 Meters,m,1,"Oduduru, Divine",SO-2,Texas Tech,20.25,True,Texas Tech Open,2018-02-02
+200 Meters,m,2,"Titi, Ncincilili",SR-4,South Carolina,20.45,False,Clemson Invitational,2018-01-19
+200 Meters,m,2,"Gray, Nick",JR-3,Ohio State,20.45,False,Big Ten Indoor Track and Field Championships,2018-02-23
+200 Meters,m,4,"Hudson, Andrew",JR-3,Texas Tech,20.49,True,Texas Tech Open,2018-02-02
+200 Meters,m,5,"Hall, Elijah",SR-4,Houston,20.51,False,Charlie Thomas Invitational,2018-02-02
+200 Meters,f,1,"Irby, Lynna",FR-1,Georgia,22.66,False,SEC Indoor Championships,2018-02-24
+200 Meters,f,2,"Brisco, Mikiah",SR-4,LSU,22.81,False,SEC Indoor Championships,2018-02-24
+200 Meters,f,3,"Hill, Deanna",SR-4,USC,22.82,False,Clemson Tiger Paw Invitational,2018-02-09
+200 Meters,f,4,"Clarke, Kayelle",SR-4,Kentucky,22.83,False,SEC Indoor Championships,2018-02-24
+200 Meters,f,5,"Seymour, Ka'Tia",FR-1,Florida State,22.85,False,ACC Championships,2018-02-22
+400 Meters,m,1,"Norman, Michael",SO-2,USC,45.00,False,Clemson Tiger Paw Invitational,2018-02-09
+400 Meters,m,2,"Bloomfield, Akeem",SO-2,Auburn,45.02,False,Clemson Tiger Paw Invitational,2018-02-09
+400 Meters,m,3,"Igbokwe, Obi",JR-3,Arkansas,45.38,False,Tyson Invitational,2018-02-09
+400 Meters,m,4,"Solomon, Steven",SR-4,Duke,45.44,False,ACC Championships,2018-02-22
+400 Meters,m,5,"Montgomery, Kahmari",JR-3,Houston,45.53,False,The American Indoor Track & Field Championships,2018-02-23
+400 Meters,f,1,"McLaughlin, Sydney",FR-1,Kentucky,50.52,False,SEC Indoor Championships,2018-02-24
+400 Meters,f,2,"Irby, Lynna",FR-1,Georgia,50.62,False,SEC Indoor Championships,2018-02-24
+400 Meters,f,3,"Ellis, Kendall",SR-4,USC,51.53,False,Razorback Invitational,2018-01-26
+400 Meters,f,4,"Barnett, Sharrika",JR-3,Florida,51.64,False,Razorback Invitational,2018-01-26
+400 Meters,f,5,"Guillory, Briana",JR-3,Iowa,52.08,False,Big Ten Indoor Track and Field Championships,2018-02-23
+800 Meters,m,1,"Saruni, Michael",SO-2,UTEP,1:44.89,True,Texas Tech Classic,2018-01-26
+800 Meters,m,2,"Gourley, Neil",SR-4,Virginia Tech,1:47.04,False,ACC Championships,2018-02-22
+800 Meters,m,3,"Hoppel, Bryce",SO-2,Kansas,1:47.09,False,Iowa State Classic,2018-02-09
+800 Meters,m,4,"Lewis, John",JR-3,Clemson,1:47.14,False,ACC Championships,2018-02-22
+800 Meters,m,5,"Heppenstall, Robert",JR-3,Wake Forest,1:47.19,False,ACC Championships,2018-02-22
+800 Meters,f,1,"Fray, Jazmine",JR-3,Texas A&M,2:02.30,False,Razorback Invitational,2018-01-26
+800 Meters,f,1,"Abu, Agnes",SR-4,Mid. Tenn. State,2:02.30,False,Boston University Last Chance Qualifier,2018-02-25
+800 Meters,f,3,"Rivers, Danae",SO-2,Penn State,2:03.13,False,Clemson Invitational,2018-01-19
+800 Meters,f,4,"Pocratsky, Rachel",JR-3,Virginia Tech,2:03.17,False,ACC Championships,2018-02-22
+800 Meters,f,5,"Henderson, Sadi",SR-4,Boise State,2:03.26,True,Mountain West Indoor Track & Field Championships,2018-02-22
+Mile,m,1,"Kerr, Josh",SO-2,New Mexico,3:54.72,False,NYRR Millrose Games,2018-02-03
+Mile,m,2,"Davis, Jonathan",FR-1,Illinois,3:55.46,True,Illini Classic,2018-01-27
+Mile,m,3,"Koech, Jonah",JR-3,UTEP,3:55.81,True,Don Kirby Elite,2018-02-09
+Mile,m,4,"Knight, Justyn",JR-3,Syracuse,3:55.82,False,Boston University John Thomas Terrier Classic,2018-01-26
+Mile,m,5,"Knevelbaard, Kasey",SO-2,Southern Utah,3:55.95,True,Mountain T's Invitational and Multi's,2018-02-02
+Mile,f,1,"Purrier, Elinor",SR-4,New Hampshire,4:26.55,False,Boston University David Hemery Valentine Invitational,2018-02-09
+Mile,f,2,"Schweizer, Karissa",SR-4,Missouri,4:27.54,False,Dr Sander Invitational Columbia Challenge,2018-01-26
+Mile,f,3,"Jones, Dani",JR-3,Colorado,4:29.32,True,Colorado Invitational 2018,2018-02-01
+Mile,f,4,"Cranny, Elise",SR-4,Stanford,4:31.29,False,MPSF Indoor Track & Field Championships,2018-02-23
+Mile,f,5,"Hull, Jessica",JR-3,Oregon,4:31.76,False,MPSF Indoor Track & Field Championships,2018-02-23
+3000 Meters,m,1,"Knight, Justyn",JR-3,Syracuse,7:45.86,False,NYRR Millrose Games,2018-02-03
+3000 Meters,m,2,"Trouard, Andy",SR-4,Northern Arizona,7:48.21,False,Iowa State Classic,2018-02-09
+3000 Meters,m,3,"Fisher, Grant",SO-2,Stanford,7:48.56,False,Iowa State Classic,2018-02-09
+3000 Meters,m,4,"Gilbert, Colby",SR-4,Washington,7:49.42,False,2018 Husky Classic,2018-02-09
+3000 Meters,m,5,"Griffith, Cameron",SO-2,Arkansas,7:49.78,False,2018 Husky Classic,2018-02-09
+3000 Meters,f,1,"Schweizer, Karissa",SR-4,Missouri,8:41.60,False,NYRR Millrose Games,2018-02-03
+3000 Meters,f,2,"Purrier, Elinor",SR-4,New Hampshire,8:55.68,False,Boston University Season Opener,2017-12-02
+3000 Meters,f,3,"Kurgat, Ednah",JR-3,New Mexico,8:57.47,False,2018 Husky Classic,2018-02-09
+3000 Meters,f,4,"Hull, Jessica",JR-3,Oregon,8:58.50,False,2018 Husky Classic,2018-02-09
+3000 Meters,f,5,"Finn, Erin",SR-4,Michigan,8:58.69,False,Michigan Simmons-Harvey Quad,2018-01-20
+5000 Meters,m,1,"Tate, Mike",SR-4,Southern Utah,13:37.33,False,2018 Husky Classic,2018-02-09
+5000 Meters,m,2,"Knight, Justyn",JR-3,Syracuse,13:39.59,False,Iowa State Classic,2018-02-09
+5000 Meters,m,3,"Maggard, Dillon",SR-4,Utah State,13:40.59,False,Iowa State Classic,2018-02-09
+5000 Meters,m,4,"Kiprop, Vincent",JR-3,Alabama,13:40.97,False,Iowa State Classic,2018-02-09
+5000 Meters,m,5,"Linkletter, Rory",JR-3,BYU,13:41.01,False,Iowa State Classic,2018-02-09
+5000 Meters,f,1,"Schweizer, Karissa",SR-4,Missouri,15:17.31,False,Boston University Season Opener,2017-12-02
+5000 Meters,f,2,"Kurgat, Ednah",JR-3,New Mexico,15:19.03,False,Boston University Season Opener,2017-12-02
+5000 Meters,f,3,"Henes, Elly",SO-2,North Carolina St.,15:36.67,True,UCS Invitational,2018-02-16
+5000 Meters,f,4,"Kelati, Weini",FR-1,New Mexico,15:37.03,False,Boston University Season Opener,2017-12-02
+5000 Meters,f,5,"Clark, Erin",SR-4,Colorado,15:37.64,False,2018 Husky Classic,2018-02-09
+60 Hurdles,m,1,"Holloway, Grant",SO-2,Florida,7.42,False,Clemson Tiger Paw Invitational,2018-02-09
+60 Hurdles,m,2,"Walters, Ruebin",SR-4,Alabama,7.61,False,Clemson Tiger Paw Invitational,2018-02-09
+60 Hurdles,m,3,"McConico, Jaylan",SO-2,Illinois State,7.64,False,Missouri Valley Indoor Conference Championships,2018-02-24
+60 Hurdles,m,4,"Zallow, Chad",JR-3,Youngstown St.,7.65,False,Youngstown St. Icebreaker,2017-12-01
+60 Hurdles,m,5,"Lloyd, Antoine",SR-4,Nebraska,7.68,False,Big Ten Indoor Track and Field Championships,2018-02-23
+60 Hurdles,f,1,"Camacho-Quinn, Jasmine",JR-3,Kentucky,7.95,False,Clemson Tiger Paw Invitational,2018-02-09
+60 Hurdles,f,2,"Hall, Dior",JR-3,USC,7.96,True,Dr. Martin Luther King Jr. Collegiate Invitational,2018-01-19
+60 Hurdles,f,2,"Cockrell, Anna",SO-2,USC,7.96,False,Clemson Tiger Paw Invitational,2018-02-09
+60 Hurdles,f,4,"Williams, Jeanine",JR-3,Georgia Tech,8.02,False,Clemson Invitational,2018-01-19
+60 Hurdles,f,5,"Johnson, Alaysha",JR-3,Oregon,8.03,False,MPSF Indoor Track & Field Championships,2018-02-23
+60 Hurdles,f,5,"Davis, Tara",FR-1,Georgia,8.03,False,SEC Indoor Championships,2018-02-24
+High Jump,m,1,"Culver, Trey",SR-4,Texas Tech,2.33m,False,Corky Classic,2018-01-13
+High Jump,m,1,"Turner, Vernon",FR-1,Oklahoma,2.33m,False,Tyson Invitational,2018-02-09
+High Jump,m,3,"Shankar, Tejaswin",FR-1,Kansas State,2.28m,False,Big 12 Indoor Track & Field Championships,2018-02-23
+High Jump,m,4,"Laine, Keenon",JR-3,Georgia,2.27m,False,Clemson Orange & Purple Invitational,2018-01-06
+High Jump,m,5,"Cunningham, Randall",SR-4,USC,2.26m,False,Clemson Tiger Paw Invitational,2018-02-09
+High Jump,f,1,"Boss, Logan",SR-4,Miss State,1.92m,False,Crimson Elite,2018-02-02
+High Jump,f,2,"Willis, Zarriea",JR-3,Texas Tech,1.89m,False,Texas Tech Shootout,2018-02-09
+High Jump,f,3,"Greene, Nicole",JR-3,North Carolina,1.88m,False,Dick Taylor Carolina Cup,2018-01-13
+High Jump,f,3,"Decoud, Chelsie",SR-4,Texas State,1.88m,False,Sun Belt Indoor Track & Field Championships,2018-02-19
+High Jump,f,5,"Blaut, Loretta",JR-3,Cincinnati,1.87m,False,The American Indoor Track & Field Championships,2018-02-23
+Pole Vault,m,1,"Nilsen, Chris",SO-2,South Dakota,5.80m,False,2018 Nebraska Tune-Up,2018-02-16
+Pole Vault,m,2,"Ludwig, Matthew",JR-3,Akron,5.66m,False,Penn State National,2018-01-26
+Pole Vault,m,3,"Oates, Tray",SR-4,Samford,5.63m,False,USATF Indoor Championships,2018-02-16
+Pole Vault,m,4,"Valles, Adrian",SR-4,Cincinnati,5.61m,False,2018 Notre Dame Invitational,2018-01-20
+Pole Vault,m,5,"Ehrhardt, Tim",SR-4,Michigan State,5.60m,False,Univ. of Akron - College Invitational,2018-02-02
+Pole Vault,m,5,"Wooten, Jacob",JR-3,Texas A&M,5.60m,False,Clemson Tiger Paw Invitational,2018-02-09
+Pole Vault,f,1,"Gruver, Olivia",JR-3,Kentucky,4.67m,False,SEC Indoor Championships,2018-02-24
+Pole Vault,f,2,"Jacobus, Alexis",JR-3,Arkansas,4.64m,False,Texas Tech Open,2018-02-02
+Pole Vault,f,3,"Hoggard, Victoria",JR-3,Arkansas,4.54m,False,Texas Tech Open,2018-02-02
+Pole Vault,f,4,"Bryan, Lucy",SO-2,Akron,4.47m,False,Univ. of Akron - College Invitational,2018-02-02
+Pole Vault,f,5,"Gunnarsson, Lisa",FR-1,Virginia Tech,4.46m,False,Clemson Bob Pollock Invitational,2018-01-26
+Long Jump,m,1,"Bazile, Zack",SR-4,Ohio State,8.13m,False,Music City Challenge,2018-02-09
+Long Jump,m,2,"Brown, Charles",JR-3,Texas Tech,8.03m,False,Corky Classic,2018-01-13
+Long Jump,m,3,"Knight, Corion",SR-4,Florida State,8.02m,False,Tyson Invitational,2018-02-09
+Long Jump,m,4,"Williams, Will",SR-4,Texas A&M,7.99m,False,SEC Indoor Championships,2018-02-24
+Long Jump,m,5,"Holloway, Grant",SO-2,Florida,7.97m,False,Razorback Invitational,2018-01-26
+Long Jump,m,5,"Ward, Ja'Mari",FR-1,Missouri,7.97m,False,Missouri Collegiate Challenge,2018-02-16
+Long Jump,f,1,"Hall, Kate",JR-3,Georgia,6.64m,False,Clemson Orange & Purple Invitational,2018-01-06
+Long Jump,f,2,"Brooks, Taliyah",SR-4,Arkansas,6.57m,False,Tyson Invitational,2018-02-09
+Long Jump,f,3,"Champagnie, Ayesha",JR-3,Minnesota,6.56m,False,MN / WI Dual,2018-01-13
+Long Jump,f,4,"Orji, Keturah",SR-4,Georgia,6.53m,False,SEC Indoor Championships,2018-02-24
+Long Jump,f,5,"McQueen, Darrielle",SR-4,Florida,6.51m,False,SEC Indoor Championships,2018-02-24
+Triple Jump,m,1,"Newton, Scotty",SR-4,TCU,16.63m,False,Big 12 Indoor Track & Field Championships,2018-02-23
+Triple Jump,m,2,"Bates, KeAndre",SR-4,Florida,16.48m,False,Razorback Invitational,2018-01-26
+Triple Jump,m,3,"Wasome, O'Brien",SO-2,Texas,16.47m,False,Big 12 Indoor Track & Field Championships,2018-02-23
+Triple Jump,m,4,"Green, Jeremiah",SR-4,Clemson,16.39m,False,ACC Championships,2018-02-22
+Triple Jump,m,5,"Scott, Jordan",SO-2,Virginia,16.35m,False,ACC Championships,2018-02-22
+Triple Jump,f,1,"Orji, Keturah",SR-4,Georgia,14.53m,False,Clemson Invitational,2018-01-19
+Triple Jump,f,2,"David, Yanis",JR-3,Florida,14.11m,False,SEC Indoor Championships,2018-02-24
+Triple Jump,f,3,"Ebwea-Bile, Marie-Josee",JR-3,Kentucky,13.91m,False,SEC Indoor Championships,2018-02-24
+Triple Jump,f,4,"Maduka, Jessie",SR-4,UCLA,13.74m,False,Dr. Martin Luther King Jr. Collegiate Invitational,2018-01-19
+Triple Jump,f,5,"Luque, Jhoanmy",FR-1,Iowa State,13.51m,False,Big 12 Indoor Track & Field Championships,2018-02-23
+Shot Put,m,1,"Geist, Jordan",FR-1,Arizona,21.45m,False,2018 UW Invitational,2018-01-26
+Shot Put,m,2,"Awotunde, Josh",SR-4,South Carolina,21.33m,False,SEC Indoor Championships,2018-02-24
+Shot Put,m,3,"Hassan, Mostafa",SR-4,Colorado St.,20.62m,False,Mountain West Indoor Track & Field Championships,2018-02-22
+Shot Put,m,4,"Comenentia, Denzel",JR-3,Georgia,20.44m,False,Clemson Tiger Paw Invitational,2018-02-09
+Shot Put,m,5,"Demaline, Nicholas",SR-4,Ohio State,20.24m,False,Big Ten Indoor Track and Field Championships,2018-02-23
+Shot Put,f,1,"Ewen, Maggie",SR-4,Arizona State,19.20m,False,Don Kirby Elite,2018-02-09
+Shot Put,f,2,"Henderson, Emmonnie",SR-4,Louisville,18.14m,False,ACC Championships,2018-02-22
+Shot Put,f,3,"Giger, Lena",JR-3,Stanford,17.78m,False,2018 Husky Classic,2018-02-09
+Shot Put,f,4,"Scarvelis, Stamatia",JR-3,Tennessee,17.77m,False,2017 Hoosier Open,2017-12-08
+Shot Put,f,5,"Cameron, Lloydricia",SR-4,Florida,17.65m,False,SEC Indoor Championships,2018-02-24
+Weight Throw,m,1,"Davis, Josh",SR-4,North Carolina St.,23.83m,False,ACC Championships,2018-02-22
+Weight Throw,m,2,"Comenentia, Denzel",JR-3,Georgia,23.71m,False,SEC Indoor Championships,2018-02-24
+Weight Throw,m,3,"Ellis, Joseph",JR-3,Michigan,23.64m,False,Big Ten Indoor Track and Field Championships,2018-02-23
+Weight Throw,m,4,"Lucas, David",SO-2,Penn State,23.31m,False,Big Ten Indoor Track and Field Championships,2018-02-23
+Weight Throw,m,5,"Clay, Alton",SR-4,UL-Monroe,22.99m,False,Sun Belt Indoor Track & Field Championships,2018-02-19
+Weight Throw,f,1,"Echikunwoke, Annette",SR-4,Cincinnati,24.78m,False,Ohio State Univ. - Buckeye Tune-Up,2018-02-16
+Weight Throw,f,2,"Long, Kaitlyn",SR-4,Minnesota,24.37m,False,Big Ten Indoor Track and Field Championships,2018-02-23
+Weight Throw,f,3,"Stewart, Janeah",SR-4,Ole Miss,24.12m,False,Music City Challenge,2018-02-09
+Weight Throw,f,4,"Olatoye, Sade",JR-3,Ohio State,23.84m,False,Big Ten Indoor Track and Field Championships,2018-02-23
+Weight Throw,f,5,"Scarvelis, Stamatia",JR-3,Tennessee,22.27m,False,UAB Vulcan Invitational,2018-01-13
+Pentathlon,f,1,"Schultz, Nina",SO-2,Kansas State,4502,False,Texas Tech Shootout,2018-02-09
+Pentathlon,f,2,"Brooks, Taliyah",SR-4,Arkansas,4422,False,SEC Indoor Championships,2018-02-24
+Pentathlon,f,3,"Grauvogel, Louisa",SO-2,Georgia,4312,False,SEC Indoor Championships,2018-02-24
+Pentathlon,f,4,"Siefring, Jaclyn",SR-4,Akron,4308,False,Univ. of Akron - College Invitational,2018-02-02
+Pentathlon,f,5,"Ellenwood, Georgia",SR-4,Wisconsin,4264,False,Big Ten Indoor Track and Field Championships,2018-02-23
+Heptathlon,m,1,"Duckworth, Tim",SR-4,Kentucky,6071,False,Clemson Invitational,2018-01-19
+Heptathlon,m,2,"Veith, Hunter",SR-4,Wichita State,6023 h,False,Wichita State Shocker Multi,2017-11-30
+Heptathlon,m,3,"Adams, Tyler",SR-4,Sam Houston St.,6016,False,Texas Tech Classic,2018-01-26
+Heptathlon,m,4,"Saluri, Karl",SR-4,Georgia,5866,False,Razorback Invitational,2018-01-26
+Heptathlon,m,5,"Lawson, TJ",SO-2,Kent State,5865,False,Kent St. Golden Flash Gala,2017-12-08

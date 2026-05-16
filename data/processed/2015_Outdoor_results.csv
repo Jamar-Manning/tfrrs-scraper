@@ -1,0 +1,195 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+100 Meters,m,1,"De Grasse, Andre",JR-3,USC,9.87,False,Mt. SAC Relays,2015-04-16
+100 Meters,m,1,"Hester, Tevin",JR-3,Clemson,9.87,False,ACC Outdoor Track & Field Championships,2015-05-14
+100 Meters,m,3,"Bromell, Trayvon",SO-2,Baylor,9.90,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+100 Meters,m,4,"Vaughn, Clayton",SR-4,Texas-Arlington,9.93,False,Sun Belt Outdoor Track and Field Championships,2015-05-08
+100 Meters,m,5,"Lee, Beejay",SR-4,USC,9.96,False,Mt. SAC Relays,2015-04-16
+100 Meters,f,1,"Prandini, Jenna",JR-3,Oregon,10.92,False,Mt. SAC Relays,2015-04-16
+100 Meters,f,2,"Akinosun, Morolake",JR-3,Texas,11.00,False,Big 12 Outdoor Track & Field Championships,2015-05-15
+100 Meters,f,3,"Todd, Jasmine",SO-2,Oregon,11.03,False,Mt. SAC Relays,2015-04-16
+100 Meters,f,4,"Burchell, Remona",SR-4,Alabama,11.04,False,Florida Relays,2015-04-02
+100 Meters,f,5,"Baisden, Kendall",SO-2,Texas,11.12,False,Longhorn Invitational,2015-05-02
+200 Meters,m,1,"Dukes, Dedric",SR-4,Florida,19.99,False,SEC Championships,2015-05-14
+200 Meters,m,2,"De Grasse, Andre",JR-3,USC,20.03,False,Pac-12 Track & Field Championships,2015-05-15
+200 Meters,m,3,"Hester, Tevin",JR-3,Clemson,20.18,False,ACC Outdoor Track & Field Championships,2015-05-14
+200 Meters,m,4,"Bromell, Trayvon",SO-2,Baylor,20.19,False,Longhorn Invitational,2015-05-02
+200 Meters,m,5,"Hart, Shavez",SR-4,Texas A&M,20.23,False,SEC Championships,2015-05-14
+200 Meters,f,1,"Jefferson, Kyra",SO-2,Florida,22.39,False,SEC Championships,2015-05-14
+200 Meters,f,2,"Prandini, Jenna",JR-3,Oregon,22.42,False,Mt. SAC Relays,2015-04-16
+200 Meters,f,3,"Wimbley, Shakima",SO-2,Miami,22.43,False,ACC Outdoor Track & Field Championships,2015-05-14
+200 Meters,f,4,"Brown, Kamaria",SR-4,Texas A&M,22.64,False,SEC Championships,2015-05-14
+200 Meters,f,5,"Bryant, Dezerea",SR-4,Kentucky,22.65,False,SEC Championships,2015-05-14
+400 Meters,m,1,"Lendore, Deon",SR-4,Texas A&M,44.41,False,SEC Championships,2015-05-14
+400 Meters,m,2,"Norwood, Vernon",SR-4,LSU,44.44,False,LSU Alumni Gold,2015-04-18
+400 Meters,m,3,"Glass, Najee",JR-3,Florida,44.79,False,UF Tom Jones Memorial,2015-04-24
+400 Meters,m,4,"Taplin, Bralon",SR-4,Texas A&M,44.89,False,36th Sun Angel Classic,2015-04-09
+400 Meters,m,5,"Chambers, Marcus",SO-2,Oregon,45.21,False,Pac-12 Track & Field Championships,2015-05-15
+400 Meters,f,1,"Wimbley, Shakima",SO-2,Miami,50.84,False,ACC Outdoor Track & Field Championships,2015-05-14
+400 Meters,f,2,"Okolo, Courtney",JR-3,Texas,50.99,False,Michael Johnson Classic,2015-04-18
+400 Meters,f,3,"Ellis-Watson, Taylor",JR-3,Arkansas,51.18,False,SEC Championships,2015-05-14
+400 Meters,f,4,"Baisden, Kendall",SO-2,Texas,51.22,False,Michael Johnson Classic,2015-04-18
+400 Meters,f,5,"Bamgbose, Margaret",JR-3,Notre Dame,51.42,False,ACC Outdoor Track & Field Championships,2015-05-14
+800 Meters,m,1,"Kidder, Brannon",JR-3,Penn State,1:45.58,False,Payton Jordan Invitational,2015-05-02
+800 Meters,m,2,"Walker, Shaquille",SO-2,BYU,1:45.78,False,36th Sun Angel Classic,2015-04-09
+800 Meters,m,3,"McBride, Brandon",JR-3,Miss State,1:45.87,False,SEC Championships,2015-05-14
+800 Meters,m,4,"Amankwah, Alex",SR-4,Alabama,1:45.91,False,Florida Relays,2015-04-02
+800 Meters,m,5,"Engels, Craig",SO-2,Mississippi,1:46.13,False,LSU Invitational,2015-05-02
+800 Meters,f,1,"Goule, Natoya",SR-4,Clemson,2:01.32,False,ACC Outdoor Track & Field Championships,2015-05-14
+800 Meters,f,2,"Williams, Chrishuna",SR-4,Arkansas,2:01.61,False,Payton Jordan Invitational,2015-05-02
+800 Meters,f,3,"Rogers, Raevyn",FR-1,Oregon,2:01.67,False,Pac-12 Track & Field Championships,2015-05-15
+800 Meters,f,4,"Green, Hanna",SO-2,Virginia Tech,2:01.72,False,ACC Outdoor Track & Field Championships,2015-05-14
+800 Meters,f,5,"Saunders, Claudia",JR-3,Stanford,2:01.79,False,Payton Jordan Invitational,2015-05-02
+1500 Meters,m,1,"Noelle, Chad",JR-3,Oklahoma State,3:38.35,False,Payton Jordan Invitational,2015-05-02
+1500 Meters,m,2,"Creese, Robby",JR-3,Penn State,3:39.02,False,Payton Jordan Invitational,2015-05-02
+1500 Meters,m,3,"Erassa, Kirubel",SR-4,Oklahoma State,3:39.05,False,Payton Jordan Invitational,2015-05-02
+1500 Meters,m,4,"Joyce, Thomas",JR-3,California,3:39.43,False,Big Meet: Cal vs. Stanford,2015-04-11
+1500 Meters,m,5,"Williamsz, Jordan",JR-3,Villanova,3:39.53,False,Larry Ellis (College),2015-04-17
+1500 Meters,m,5,"Jenkins, Eric",SR-4,Oregon,3:39.53 (1),False,Oregon Twilight,2015-05-08
+1500 Meters,f,1,"O'Connor, Leah",SR-4,Michigan State,4:11.04,False,Ohio State - Jesse Owens Classic,2015-05-01
+1500 Meters,f,2,"Houlihan, Shelby",SR-4,Arizona State,4:11.06,False,Pac-12 Track & Field Championships,2015-05-15
+1500 Meters,f,3,"Quigley, Colleen",JR-3,Florida State,4:11.61,False,Mt. SAC Relays,2015-04-16
+1500 Meters,f,4,"Price, Rhianwedd",SO-2,Miss State,4:11.67,False,Florida Relays,2015-04-02
+1500 Meters,f,5,"Clarke, Rosie",JR-3,Iona,4:12.10,False,Virginia Challenge,2015-04-17
+5000 Meters,m,1,"Campbell, Kemoy",SR-4,Arkansas,13:20.39,False,Payton Jordan Invitational,2015-05-02
+5000 Meters,m,2,"Stabler, Sam",SR-4,Lamar,13:30.50,False,Stanford Invitational,2015-04-03
+5000 Meters,m,3,"Rotich, Anthony",SR-4,UTEP,13:31.59,False,Stanford Invitational,2015-04-03
+5000 Meters,m,4,"Awad, Thomas",JR-3,Penn,13:33.29,False,Stanford Invitational,2015-04-03
+5000 Meters,m,5,"Joyce, Thomas",JR-3,California,13:34.42,False,Payton Jordan Invitational,2015-05-02
+5000 Meters,f,1,"Tonn, Jessica",SR-4,Stanford,15:18.85,False,Payton Jordan Invitational,2015-05-02
+5000 Meters,f,2,"Avery, Kate",JR-3,Iona,15:25.63,False,Stanford Invitational,2015-04-03
+5000 Meters,f,3,"Bates, Emma",SR-4,Boise State,15:32.46,False,Stanford Invitational,2015-04-03
+5000 Meters,f,4,"Scott, Dominique",JR-3,Arkansas,15:32.55,False,Payton Jordan Invitational,2015-05-02
+5000 Meters,f,5,"Finn, Erin",SO-2,Michigan,15:32.88,False,Payton Jordan Invitational,2015-05-02
+"10,000 Meters",m,1,"Witt, Jason",SR-4,BYU,27:54.25,False,Payton Jordan Invitational,2015-05-02
+"10,000 Meters",m,2,"Hehir, Martin",SR-4,Syracuse,28:27.70,False,Stanford Invitational,2015-04-03
+"10,000 Meters",m,3,"Scott, Marc",SO-2,Tulsa,28:30.33,False,Stanford Invitational,2015-04-03
+"10,000 Meters",m,4,"Lutz, Craig",SR-4,Texas,28:33.48,False,Stanford Invitational,2015-04-03
+"10,000 Meters",m,5,"Zienasellassie, Futsum",JR-3,Northern Arizona,28:35.76,False,Stanford Invitational,2015-04-03
+"10,000 Meters",f,1,"Sisson, Emily",SR-4,Providence,31:38.03,False,Payton Jordan Invitational,2015-05-02
+"10,000 Meters",f,2,"Avery, Kate",JR-3,Iona,31:41.44,False,Payton Jordan Invitational,2015-05-02
+"10,000 Meters",f,3,"Scott, Dominique",JR-3,Arkansas,32:11.60,False,Stanford Invitational,2015-04-03
+"10,000 Meters",f,4,"Bates, Emma",SR-4,Boise State,32:13.28,False,Payton Jordan Invitational,2015-05-02
+"10,000 Meters",f,5,"Blaase, Chelsea",SO-2,Tennessee,32:28.39,False,Stanford Invitational,2015-04-03
+100 Hurdles,f,1,"Harrison, Kendra",SR-4,Kentucky,12.50,False,SEC Championships,2015-05-14
+100 Hurdles,f,2,"McReynolds, Tiffani",SR-4,Baylor,12.70,False,Big 12 Outdoor Track & Field Championships,2015-05-15
+100 Hurdles,f,3,"Owens, Bridgette",SR-4,Florida,12.73,False,SEC Championships,2015-05-14
+100 Hurdles,f,4,"Barber, Jade",SR-4,Notre Dame,12.81,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+100 Hurdles,f,5,"Ofili, Cindy",JR-3,Michigan,12.89,False,Big Ten Outdoor Track & Field Championships,2015-05-15
+100 Hurdles,f,5,"Hall, Dior",FR-1,USC,12.89,False,Mt. SAC Relays,2015-04-16
+110 Hurdles,m,1,"McLeod, Omar",SO-2,Arkansas,13.21,False,2015 Drake Relays presented by Hy-Vee,2015-04-22
+110 Hurdles,m,2,"Mallett, Aaron",SO-2,Iowa,13.43,False,Big Ten Outdoor Track & Field Championships,2015-05-15
+110 Hurdles,m,3,"Echols, Dondre",JR-3,South Carolina,13.46,False,SEC Championships,2015-05-14
+110 Hurdles,m,4,"Moore, Jordan",SO-2,LSU,13.47,False,SEC Championships,2015-05-14
+110 Hurdles,m,5,"Viney, Cam",JR-3,Illinois,13.52,False,Big Ten Outdoor Track & Field Championships,2015-05-15
+400 Hurdles,m,1,"Stigler, Michael",SR-4,Kansas,48.44,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+400 Hurdles,m,2,"Hearn, Scottie",JR-3,Miss State,49.39,False,SEC Championships,2015-05-14
+400 Hurdles,m,3,"Palmer, Desmond",SO-2,Pittsburgh,49.41,False,ACC Outdoor Track & Field Championships,2015-05-14
+400 Hurdles,m,4,"Futch, Eric",SO-2,Florida,49.45,False,UF Tom Jones Memorial,2015-04-24
+400 Hurdles,m,5,"Hayes, Keyunta",SR-4,UTSA,49.48,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+400 Hurdles,f,1,"Little, Shamier",SO-2,Texas A&M,54.68,False,SEC Championships,2015-05-14
+400 Hurdles,f,2,"Harrison, Kendra",SR-4,Kentucky,54.94,False,Florida Relays,2015-04-02
+400 Hurdles,f,3,"Stepter, Jaide",JR-3,USC,55.83,False,Florida Relays,2015-04-02
+400 Hurdles,f,4,"Iuel, Amalie",SO-2,USC,55.92,False,Florida Relays,2015-04-02
+400 Hurdles,f,5,"Nugent, Leah",SR-4,Kentucky,56.46,False,UF Tom Jones Memorial,2015-04-24
+3000 Steeplechase,m,1,"Kebenei, Stanley",SR-4,Arkansas,8:23.93,False,Payton Jordan Invitational,2015-05-02
+3000 Steeplechase,m,2,"Hesselbjerg, Ole",SR-4,Eastern Kentucky,8:33.22,False,Payton Jordan Invitational,2015-05-02
+3000 Steeplechase,m,3,"Kibichiy, Edwin",SO-2,Louisville,8:33.78,False,ACC Outdoor Track & Field Championships,2015-05-14
+3000 Steeplechase,m,4,"Seddon, Zak",JR-3,Florida State,8:36.55,False,Stanford Invitational,2015-04-03
+3000 Steeplechase,m,5,"Ferlic, Mason",JR-3,Michigan,8:36.82,False,Virginia Challenge,2015-04-17
+3000 Steeplechase,f,1,"Frerichs, Courtney",JR-3,UMKC,9:32.12,False,Payton Jordan Invitational,2015-05-02
+3000 Steeplechase,f,2,"Quigley, Colleen",JR-3,Florida State,9:33.63,False,Payton Jordan Invitational,2015-05-02
+3000 Steeplechase,f,3,"O'Connor, Leah",SR-4,Michigan State,9:41.88,False,Virginia Challenge,2015-04-17
+3000 Steeplechase,f,4,"Teschuk, Erin",JR-3,North Dakota State,9:43.83,False,Mt. SAC Relays,2015-04-16
+3000 Steeplechase,f,5,"Loevnes, Ingeborg",JR-3,Oklahoma State,9:48.89,False,Payton Jordan Invitational,2015-05-02
+High Jump,m,1,"Duffield, Jacorian",SR-4,Texas Tech,2.31m,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+High Jump,m,2,"McBride, Bryan",SR-4,Arizona State,2.30m,False,Duel in the Desert- ASU vs ARIZONA,2015-05-01
+High Jump,m,3,"Jackson, Marcus",SR-4,Miss State,2.28m,False,Florida Relays,2015-04-02
+High Jump,m,4,"Adkins, Bradley",JR-3,Texas Tech,2.24m,False,Texas Tech Outdoor Open,2015-04-03
+High Jump,m,4,"Bryan, Christoff",FR-1,Kansas State,2.24m,False,Kansas  Relays,2015-04-15
+High Jump,m,4,"Cunningham, Randall",FR-1,USC,2.24m,False,Florida Relays,2015-04-02
+High Jump,f,1,"Scheper, Jeannelle",SR-4,South Carolina,1.96m,False,SEC Championships,2015-05-14
+High Jump,f,2,"Kallenou, Leontia",SO-2,Georgia,1.93m,False,SEC Championships,2015-05-14
+High Jump,f,3,"Garcia Jou, Claudia",JR-3,Akron,1.88m,False,Longhorn Invitational,2015-05-02
+High Jump,f,4,"Jones, Akela",JR-3,Kansas State,1.87m,False,Big 12 Outdoor Track & Field Championships,2015-05-15
+High Jump,f,4,"Williamson, Kimberly",JR-3,Kansas State,1.87m,False,Big 12 Outdoor Track & Field Championships,2015-05-15
+High Jump,f,4,"Daniel, Deandra",JR-3,Coppin State,1.87m,False,Morgan State Legacy Track & Field Meet,2015-04-17
+Pole Vault,m,1,"Barber, Shawn",JR-3,Akron,5.91m,False,Longhorn Invitational,2015-05-02
+Pole Vault,m,2,"Blankenship, Jake",JR-3,Tennessee,5.80m,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+Pole Vault,m,3,"Valles, Adrian",FR-1,Cincinnati,5.65m,False,The American Outdoor Track & Field Championships,2015-05-14
+Pole Vault,m,3,"Thoirs, Jax",JR-3,Washington,5.65m,False,Pac-12 Track & Field Championships,2015-05-15
+Pole Vault,m,3,"Irwin, Andrew",SR-4,Arkansas,5.65m,False,John McDonnell Invitational,2015-04-10
+Pole Vault,f,1,"Morris, Sandi",SR-4,Arkansas,4.72m,False,SEC Championships,2015-05-14
+Pole Vault,f,2,"Payne, Demi",JR-3,Stephen F. Austin,4.71m,False,Southland Conference Championship,2015-05-08
+Pole Vault,f,3,"Clark, Megan",JR-3,Duke,4.50m,False,Duke Invitational,2015-04-10
+Pole Vault,f,3,"Carmichael, Carolina",SR-4,Memphis,4.50m,False,The American Outdoor Track & Field Championships,2015-05-14
+Pole Vault,f,5,"Petrillose, Kaitlin",JR-3,Texas,4.43m,False,Big 12 Outdoor Track & Field Championships,2015-05-15
+Long Jump,m,1,"Dendy, Marquis",SR-4,Florida,8.19m,False,SEC Championships,2015-05-14
+Long Jump,m,2,"Pienaar, Roelf",SO-2,Arkansas State,8.13m,False,ASU Red Wolf Open,2015-04-24
+Long Jump,m,3,"Asekun, Olabanji",SR-4,Texas A&M,8.04m,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+Long Jump,m,4,"Lawson, Jarrion",JR-3,Arkansas,8.00m,False,SEC Championships,2015-05-14
+Long Jump,m,5,"Otuonye, Ifeanyichukwu",JR-3,Kansas State,7.98m,False,Rock Chalk Classic,2015-05-02
+Long Jump,f,1,"Burks, Quanesha",SO-2,Alabama,6.84m,False,SEC Championships,2015-05-14
+Long Jump,f,2,"Friar, Nataliyah",SO-2,LSU,6.67m,False,SEC Championships,2015-05-14
+Long Jump,f,3,"Orji, Keturah",FR-1,Georgia,6.63m,False,Georgia Invitational,2015-05-09
+Long Jump,f,4,"Conley, Sydney",JR-3,Kansas,6.57m,False,Rock Chalk Classic,2015-05-02
+Long Jump,f,5,"Porter, Chanice",JR-3,Georgia,6.53m,False,SEC Championships,2015-05-14
+Triple Jump,m,1,"Dendy, Marquis",SR-4,Florida,17.35m,False,SEC Championships,2015-05-14
+Triple Jump,m,2,"Collie, Latario",JR-3,Texas A&M,17.25m,False,SEC Championships,2015-05-14
+Triple Jump,m,3,"Wamer, Michael",SO-2,South Carolina,16.47m,False,Florida Relays,2015-04-02
+Triple Jump,m,4,"Scott, Donald",SR-4,Eastern Michigan,16.42m,False,Virginia Challenge,2015-04-17
+Triple Jump,m,5,"Williams, Ben",SO-2,Louisville,16.38m,False,Louisville Twilight,2015-05-08
+Triple Jump,f,1,"Orji, Keturah",FR-1,Georgia,14.13m,False,SEC Championships,2015-05-14
+Triple Jump,f,2,"Brewer, Ciarra",SR-4,Florida,13.49m,False,Florida Relays,2015-04-02
+Triple Jump,f,3,"LaFond, Thea",SR-4,Maryland,13.48m,False,Big Ten Outdoor Track & Field Championships,2015-05-15
+Triple Jump,f,4,"Greenlee, Chardae",SO-2,Memphis,13.47m,False,The American Outdoor Track & Field Championships,2015-05-14
+Triple Jump,f,5,"Revell, Paetyn",SO-2,Texas Tech,13.43m,False,Texas Tech Red Raider Open,2015-04-30
+Shot Put,m,1,"Crouser, Ryan",SR-4,Texas,21.11m,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+Shot Put,m,2,"Hill, Darrell",SR-4,Penn State,20.86m,False,Jim Thorpe Open,2015-05-08
+Shot Put,m,3,"Jones, Jonathan",SR-4,Buffalo,20.70m,False,Florida Relays,2015-04-02
+Shot Put,m,4,"Zunic, Stipe",SR-4,Florida,20.38m,False,UF Tom Jones Memorial,2015-04-24
+Shot Put,m,5,"Mozia, Stephen",SR-4,Cornell,20.18m,False,Cornell Outdoor Upstate Challenge,2015-04-18
+Shot Put,f,1,"Bliss, Tori",SR-4,LSU,18.49m,False,LSU Invitational,2015-05-02
+Shot Put,f,2,"Saunders, Raven",FR-1,Southern Illinois,18.23m,False,Mt. SAC Relays,2015-04-16
+Shot Put,f,3,"Winters, Dani",JR-3,Kansas State,17.75m,False,Big 12 Outdoor Track & Field Championships,2015-05-15
+Shot Put,f,4,"Card, Kelsey",JR-3,Wisconsin,17.73m,False,Wisconsin Open,2015-05-08
+Shot Put,f,5,"Rushin, Jill",SR-4,Missouri,17.72m,False,Tom Botts Invitational,2015-05-01
+Discus,m,1,"Brown, Rodney",SR-4,LSU,65.04m,False,2015 Penn Relays,2015-04-23
+Discus,m,2,"Mihaljevic, Filip",SO-2,Virginia,63.11m,False,2015 Penn Relays,2015-04-23
+Discus,m,3,"Bailey, Tavis",SR-4,Tennessee,62.20m,False,2015 UT Challenge,2015-05-02
+Discus,m,4,"Mattis, Sam",JR-3,Penn,61.80m,False,2015 Penn Relays,2015-04-23
+Discus,m,5,"Tudor, Macklin",JR-3,Cincinnati,61.41m,False,Louisville Twilight,2015-05-08
+Discus,f,1,"Vaughan, Shelbi",JR-3,Texas A&M,64.52m,False,SEC Championships,2015-05-14
+Discus,f,2,"Hicks, Kiah",SR-4,Colorado St.,59.92m,False,Mountain West Outdoor Track & Field Championships,2015-05-13
+Discus,f,3,"Novy, Tera",JR-3,USC,59.12m,False,CSULA 2015 Twilight Open,2015-04-16
+Discus,f,4,"Daniels, Katelyn",FR-1,Michigan State,59.06m,False,Big Ten Outdoor Track & Field Championships,2015-05-15
+Discus,f,5,"Thomas, Danniel",JR-3,Kent State,58.77m,False,Mid-American Outdoor Track & Field Championships,2015-05-14
+Hammer,m,1,"McCullough, Conor",SR-4,USC,75.88m,False,UCLA vs. USC,2015-05-03
+Hammer,m,2,"Lihrman, Michael",SR-4,Wisconsin,75.29m,False,Wisconsin Open,2015-05-08
+Hammer,m,3,"Enekwechi, Chukwuebuka",JR-3,Purdue,72.77m,False,Big Ten Outdoor Track & Field Championships,2015-05-15
+Hammer,m,4,"Tayala, Matthias",SR-4,Kent State,71.20m,False,Mid-American Outdoor Track & Field Championships,2015-05-14
+Hammer,m,5,"Poursanidis, Alex",SO-2,Georgia,70.08m,False,Florida Relays,2015-04-02
+Hammer,f,1,"Pleger, Brooke",SR-4,Bowling Green,69.72m,False,Mid-American Outdoor Track & Field Championships,2015-05-14
+Hammer,f,2,"Ratcliffe, Julia",JR-3,Princeton,68.53m,False,2015 IC4A/ECAC Outdoor Track & Field Championships,2015-05-15
+Hammer,f,3,"Price, DeAnna",JR-3,Southern Illinois,67.72m,False,Pacesetter Sports Invitational,2015-05-02
+Hammer,f,4,"Savatovic, Sara",JR-3,Kansas State,66.41m,False,Big 12 Outdoor Track & Field Championships,2015-05-15
+Hammer,f,5,"Peoples, Kearsten",SR-4,Missouri,66.17m,False,Tom Botts Invitational,2015-05-01
+Javelin,m,1,"Ampomah, John",JR-3,Mid. Tenn. State,81.55m,False,2015 Penn Relays,2015-04-23
+Javelin,m,2,"Crouser, Sam",SR-4,Oregon,78.94m,False,Trojan Invitational,2015-03-20
+Javelin,m,3,"Kyriazis, Ioannis",FR-1,Texas A&M,78.41m,False,SEC Championships,2015-05-14
+Javelin,m,4,"Dykstra, Raymond",SR-4,Kentucky,77.63m,False,SEC Championships,2015-05-14
+Javelin,m,5,"Garton, MaCauley",SR-4,Missouri,77.47m,False,SEC Championships,2015-05-14
+Javelin,f,1,"Sediva, Irena",SO-2,Virginia Tech,58.66m,False,ACC Outdoor Track & Field Championships,2015-05-14
+Javelin,f,2,"Herrs, Elizabeth",JR-3,Oklahoma,57.77m,False,John Jacobs Invitational,2015-04-17
+Javelin,f,3,"Carson, Hannah",JR-3,Texas Tech,56.36m,False,Big 12 Outdoor Track & Field Championships,2015-05-15
+Javelin,f,4,"Firestone, Sarah",SO-2,Nebraska,56.15m,False,Big Ten Outdoor Track & Field Championships,2015-05-15
+Javelin,f,5,"Miller, Fawn",SR-4,Florida,56.01m,False,LSU Invitational,2015-05-02
+Heptathlon,f,1,"Bougard, Erica",JR-3,Miss State,6250,False,SEC Championships,2015-05-14
+Heptathlon,f,2,"Chapman, Quintunya",SR-4,Georgia,6146,False,Georgia Bulldog Decathlon/Heptathlon,2015-04-08
+Heptathlon,f,3,"Rahn, Xenia",SR-4,North Carolina,6057,False,ACC Outdoor Track & Field Championships,2015-05-14
+Heptathlon,f,4,"Jones, Akela",JR-3,Kansas State,6049,False,2015 Jim Click Combined Events,2015-04-09
+Heptathlon,f,5,"Gochenour, Alex",JR-3,Arkansas,6027,False,2015 Clyde Littlefield Texas Relays,2015-03-25
+Decathlon,m,1,"Uibo, Maicel",JR-3,Georgia,8326,False,SEC Championships,2015-05-14
+Decathlon,m,2,"Scantling, Garrett",SR-4,Georgia,8232,False,Georgia Bulldog Decathlon/Heptathlon,2015-04-08
+Decathlon,m,3,"Ijah, Solomon",JR-3,Eastern Michigan,7862,False,Mid-American Outdoor Track & Field Championships,2015-05-14
+Decathlon,m,4,"Keys, Dakotah",SR-4,Oregon,7833,False,Oregon Relays,2015-04-16
+Decathlon,m,5,"Tonnesen, Pau",JR-3,Arizona,7823,False,Pac-12 Combined Events Championships,2015-05-09

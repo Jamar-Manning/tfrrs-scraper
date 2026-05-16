@@ -1,0 +1,153 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+60 Meters,m,1,"Okon, Israel",FR-1,Auburn,6.51,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+60 Meters,m,1,"Ajayi, Kanyinsola",SO-2,Auburn,6.51,False,Tiger Paw Invitational,2025-02-14
+60 Meters,m,3,"Stevenson, Chrstyn John (JC)",JR-3,USC,6.52,True,TTU Red Raider Invitational,2025-01-24
+60 Meters,m,4,"Fuseini, Ibrahim",JR-3,East Texas A&M,6.53,True,Jarvis Scott Invite,2025-02-14
+60 Meters,m,4,"Thomas, Max",JR-3,USC,6.53,False,2025 Spokane Sports Showcase,2025-01-17
+60 Meters,f,1,"Godbless, Tima",SO-2,LSU,7.08,False,Tyson Invitational,2025-02-14
+60 Meters,f,2,"Defrand, Dajaz",JR-3,USC,7.10,False,Big Ten Indoor Championships,2025-02-28
+60 Meters,f,3,"Jackson, Kaila",JR-3,Georgia,7.12,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+60 Meters,f,4,"Lyston, Brianna",JR-3,LSU,7.13,False,Tyson Invitational,2025-02-14
+60 Meters,f,4,"Mayberry, Indya",FR-1,TCU,7.13,True,Corky Classic,2025-01-17
+200 Meters,m,1,"Charamba, Makanakaishe",SR-4,Auburn,20.13,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+200 Meters,m,2,"Makarawu, Carli",JR-3,Kentucky,20.20,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+200 Meters,m,3,"McCoy, Wanya",SR-4,Florida,20.25,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+200 Meters,m,4,"Miller, Cameron",SR-4,Purdue,20.27,False,Big Ten Indoor Championships,2025-02-28
+200 Meters,m,4,"Reid, Jaiden",SO-2,LSU,20.27,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+200 Meters,f,1,"Ford, JaMeesia",SO-2,South Carolina,22.34,False,Tiger Paw Invitational,2025-02-14
+200 Meters,f,2,"Burgher, Niesha",SR-4,UTEP,22.46,True,Don Kirby Elite Invitational 2025,2025-02-14
+200 Meters,f,3,"Mayberry, Indya",FR-1,TCU,22.48,True,New Mexico Collegiate Classic 2025 (16 Team Invite),2025-02-07
+200 Meters,f,4,"Mays, Jadyn",SR-4,Oregon,22.61,False,Big Ten Indoor Championships,2025-02-28
+200 Meters,f,5,"Defrand, Dajaz",JR-3,USC,22.62,False,Big Ten Indoor Championships,2025-02-28
+400 Meters,m,1,"Ezekiel, Nathaniel",SR-4,Baylor,44.85,True,Big 12 Championships,2025-02-28
+400 Meters,m,2,"Davis, Jayden",SO-2,Arizona State,45.06,True,Big 12 Championships,2025-02-28
+400 Meters,m,3,"Robinson, Auhmad",SR-4,Texas A&M,45.07,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+400 Meters,m,4,"McKiver, Jenoah",SR-4,Florida,45.19,False,Razorback Invitational,2025-01-31
+400 Meters,m,5,"Floyd, Will",SO-2,Georgia,45.24,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+400 Meters,f,1,"Butler, Aaliyah",JR-3,Georgia,49.78,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+400 Meters,f,2,"Whittaker, Isabella",JR-3,Arkansas,49.90,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+400 Meters,f,3,"Brown, Kaylyn",SO-2,Arkansas,50.70,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+400 Meters,f,4,"Oakley, Dejanea",JR-3,Georgia,50.90,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+400 Meters,f,5,"Joseph, Rachel",JR-3,Iowa State,50.99,True,Big 12 Championships,2025-02-28
+800 Meters,m,1,"McCarthy, Aidan",JR-3,Cal Poly,1:45.19,False,2025 Last Chance Indoor Nat'nl Qualifier at Boston Univ.,2025-03-02
+800 Meters,m,2,"Matsatsa, Tinoda",SO-2,Georgetown,1:45.21,False,Boston University David Hemery Valentine Invitational,2025-02-14
+800 Meters,m,3,"Hassan, Abdullahi",SR-4,Miss State,1:45.53,False,Orange & Purple Invitational,2025-01-24
+800 Meters,m,4,"Kweyei, Brian",SO-2,Clemson,1:46.26,False,Orange & Purple Invitational,2025-01-24
+800 Meters,m,5,"Smallwood, Darius",SR-4,Penn State,1:46.28,False,Penn State National Open,2025-01-31
+800 Meters,f,1,"Whittaker, Juliette",JR-3,Stanford,1:59.44,False,2025 Husky Classic,2025-02-14
+800 Meters,f,2,"Jallow, Sanu",JR-3,Arkansas,1:59.77,False,Tyson Invitational,2025-02-14
+800 Meters,f,3,"Hunter, Meghan",SR-4,BYU,2:00.21,False,Boston University John Thomas Terrier Classic,2025-01-31
+800 Meters,f,4,"Rose, Michaela",SR-4,LSU,2:00.25,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+800 Meters,f,5,"Paige, Makayla",SR-4,North Carolina,2:00.57,False,Boston University John Thomas Terrier Classic,2025-01-31
+Mile,m,1,"Strand, Ethan",SR-4,North Carolina,3:48.32,False,Boston University John Thomas Terrier Classic,2025-01-31
+Mile,m,2,"Martin, Gary",JR-3,Virginia,3:48.82,False,117th Millrose Games,2025-02-06
+Mile,m,3,"Green, Nathan",JR-3,Washington,3:50.74,False,2025 UW Preview/Mile City,2025-01-17
+Mile,m,4,"McMahon-Staggs, Ronan",JR-3,Washington,3:51.85,False,2025 UW Preview/Mile City,2025-01-17
+Mile,m,5,"Teffra, Abel",SR-4,Georgetown,3:52.44,False,Bruce Lehane Scarlet and White Invitational,2025-02-08
+Mile,f,1,"Ayyildiz, Silan",JR-3,Oregon,4:23.46,False,Boston University David Hemery Valentine Invitational,2025-02-14
+Mile,f,2,"Hartman, Grace",SO-2,NC State,4:24.76,False,Boston University David Hemery Valentine Invitational,2025-02-14
+Mile,f,3,"Riggins, Melissa",SR-4,Georgetown,4:24.98,False,Boston University David Hemery Valentine Invitational,2025-02-14
+Mile,f,4,"Appleton, Margot",SR-4,Virginia,4:25.03,False,Boston University David Hemery Valentine Invitational,2025-02-14
+Mile,f,5,"Pellicoro, Laura",SR-4,Portland,4:25.60,False,2025 UW Invite,2025-01-31
+3000 Meters,m,1,"Strand, Ethan",SR-4,North Carolina,7:30.15,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+3000 Meters,m,2,"Wolfe, Parker",SR-4,North Carolina,7:30.23,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+3000 Meters,m,3,"Abdalla, Yaseen",SR-4,Arkansas,7:34.17,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+3000 Meters,m,4,"Murphy, Liam",SR-4,Villanova,7:35.47,False,Bruce Lehane Scarlet and White Invitational,2025-02-08
+3000 Meters,m,5,"Martin, Gary",JR-3,Virginia,7:36.09,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+3000 Meters,f,1,"Halladay-Lowry, Lexy",SR-4,BYU,8:40.60,False,2025 Husky Classic,2025-02-14
+3000 Meters,f,2,"Chamberlain, Riley",JR-3,BYU,8:40.89,False,2025 Husky Classic,2025-02-14
+3000 Meters,f,3,"Stearns, Elise",SR-4,Northern Arizona,8:41.07,False,2025 Husky Classic,2025-02-14
+3000 Meters,f,4,"Lemngole, Doris",SO-2,Alabama,8:41.83,False,Boston University David Hemery Valentine Invitational,2025-02-14
+3000 Meters,f,5,"Kennedy, Sophia",SO-2,Stanford,8:42.53,False,2025 Husky Classic,2025-02-14
+5000 Meters,m,1,"Blanks, Graham",JR-3,Harvard,12:59.89,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+5000 Meters,m,2,"Samuel, Habtom",SO-2,New Mexico,13:04.92,False,Boston University John Thomas Terrier Classic,2025-01-31
+5000 Meters,m,3,"Abdalla, Yaseen",SR-4,Arkansas,13:09.99,False,Boston University David Hemery Valentine Invitational,2025-02-14
+5000 Meters,m,4,"Murphy, Liam",SR-4,Villanova,13:10.42,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+5000 Meters,m,5,"Musau, Brian",SO-2,Oklahoma State,13:11.29,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+5000 Meters,f,1,"Lemngole, Doris",SO-2,Alabama,14:52.57,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+5000 Meters,f,2,"Olemomoi, Hilda",SR-4,Florida,14:52.84,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+5000 Meters,f,3,"Halladay-Lowry, Lexy",SR-4,BYU,14:57.63,False,Boston University John Thomas Terrier Classic,2025-01-31
+5000 Meters,f,4,"Kosgei, Pamela",FR-1,New Mexico,15:00.36,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+5000 Meters,f,5,"Bunnage, Amy",SO-2,Stanford,15:00.75,False,Boston University Sharon Colyear-Danville Season Opener,2024-12-07
+60 Hurdles,m,1,"Brackins, Johnny",SR-4,USC,7.43,False,2025 USATF Indoor Championships,2025-02-22
+60 Hurdles,m,2,"Tharp, Ja'Kobe",SO-2,Auburn,7.48,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+60 Hurdles,m,2,"Snow, Malachi",SO-2,Texas Tech,7.48,True,Jarvis Scott Invite,2025-02-14
+60 Hurdles,m,4,"Scott, Ja'Qualon",JR-3,Texas A&M,7.51,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+60 Hurdles,m,5,"Vascianna, Vashaun",JR-3,Arkansas,7.52,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+60 Hurdles,f,1,"Bebe, Myreanna",SR-4,Tennessee,7.95,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+60 Hurdles,f,1,"Wilson, Oneka",JR-3,Clemson,7.95,False,Tiger Paw Invitational,2025-02-14
+60 Hurdles,f,3,"McCormick, Aaliyah",JR-3,Oregon,7.97,False,Big Ten Indoor Championships,2025-02-28
+60 Hurdles,f,3,"Laurencin, Aasia",SR-4,Michigan,7.97,False,Big Ten Indoor Championships,2025-02-28
+60 Hurdles,f,5,"Krebs, Naomi",JR-3,Texas Tech,7.98,True,Big 12 Championships,2025-02-28
+60 Hurdles,f,5,"Anderson, Layla",SR-4,Tennessee,7.98,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+High Jump,m,1,"Vines, Scottie",FR-1,Arkansas,2.29m,False,Tyson Invitational,2025-02-14
+High Jump,m,2,"Mita, Antrea",SO-2,Houston,2.26m,False,Howie Ryan Invitational,2025-02-14
+High Jump,m,3,"Wilson, Tyus",SR-4,Nebraska,2.25m,False,Big Ten Indoor Championships,2025-02-28
+High Jump,m,3,"Washington, Kyren",SO-2,Oklahoma,2.25m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+High Jump,m,3,"O'Riley, Kason",SR-4,Texas State,2.25m,False,2025 Texas A&M Charlie Thomas Invitational,2025-02-07
+High Jump,f,1,"Glenn, Rachel",JR-3,Arkansas,1.98m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+High Jump,f,2,"Kulichenko, Elena",SR-4,Georgia,1.95m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+High Jump,f,3,"Rogers, Jenna",SR-4,Nebraska,1.94m,False,2025 Mark Colligan Memorial,2025-01-25
+High Jump,f,4,"Adeshina, Temitope",SO-2,Texas Tech,1.93m,False,TTU Red Raider Invitational,2025-01-24
+High Jump,f,5,"Yeboah, Rose",JR-3,Illinois,1.92m,False,New Mexico Collegiate Classic 2025 (16 Team Invite),2025-02-07
+Pole Vault,m,1,"Solovev, Aleksandr",JR-3,Texas A&M,5.80m,False,New Mexico Team Open 2025,2025-01-31
+Pole Vault,m,2,"Garretson, Hunter",SR-4,Akron,5.76m,False,Doc Hale VT Meet,2025-02-07
+Pole Vault,m,3,"Rademeyer, Kyle",SR-4,South Alabama,5.73m,False,Sun Belt Conference Indoor Track Championship 2025,2025-02-24
+Pole Vault,m,4,"Guttormsen, Simen",SR-4,Duke,5.67m,False,ACC Indoor Track & Field Championships,2025-03-01
+Pole Vault,m,5,"Gribble, Sean",FR-1,Texas Tech,5.65m,False,Jarvis Scott Invite,2025-02-14
+Pole Vault,f,1,"Moll, Amanda",SO-2,Washington,4.91m,False,Big Ten Indoor Championships,2025-02-28
+Pole Vault,f,2,"Moll, Hana",SO-2,Washington,4.81m,False,Big Ten Indoor Championships,2025-02-28
+Pole Vault,f,3,"Timberg, Chloe",SR-4,Rutgers,4.72m,False,Scarlet Knight Open,2025-01-31
+Pole Vault,f,4,"Haywood, Molly",SO-2,Baylor,4.61m,False,Big 12 Championships,2025-02-28
+Pole Vault,f,5,"Lueking, Olivia",SR-4,Oklahoma,4.59m,False,Tyson Invitational,2025-02-14
+Long Jump,m,1,"Stevenson, Chrstyn John (JC)",JR-3,USC,8.17m,False,New Mexico Collegiate Classic 2025 (16 Team Invite),2025-02-07
+Long Jump,m,2,"Daniel, Kelsey",SR-4,Texas,8.03m,False,Arkansas Invitational,2025-01-17
+Long Jump,m,3,"Williams, Nikaoli",SR-4,Oklahoma,8.02m,False,Tyson Invitational,2025-02-14
+Long Jump,m,4,"Brackins, Johnny",SR-4,USC,7.99m,False,Big Ten Indoor Championships,2025-02-28
+Long Jump,m,5,"Keys, Jayden",FR-1,Georgia,7.92m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Long Jump,m,5,"Sathyanathan, Lokesh",SO-2,Tarleton State,7.92m,False,Don Kirby Elite Invitational 2025,2025-02-14
+Long Jump,f,1,"Charlton, Anthaya",JR-3,Florida,6.98m,False,Razorback Invitational,2025-01-31
+Long Jump,f,2,"Humphrey, Tacoria",SR-4,Illinois,6.94m,False,Big Ten Indoor Championships,2025-02-28
+Long Jump,f,3,"Brown, Alexis",SR-4,Baylor,6.80m,False,Jarvis Scott Invite,2025-02-14
+Long Jump,f,4,"Beckmon, Sophia",SO-2,Illinois,6.71m,False,Fighting Illini Open,2025-01-11
+Long Jump,f,5,"Olajide, Funminiyi",SR-4,Arkansas,6.67m,False,Tyson Invitational,2025-02-14
+Triple Jump,m,1,"Seremes, Jonathan",SO-2,Missouri,16.97m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Triple Jump,m,2,"Brown, Luke",JR-3,Kentucky,16.87m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Triple Jump,m,3,"Green Jr, Brandon",JR-3,Oklahoma,16.85m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Triple Jump,m,4,"Edwards, Apalos",SR-4,Arkansas,16.61m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Triple Jump,m,5,"Morozov, Viktor",JR-3,Illinois,16.35m,False,Fighting Illini Challenge and Combined Events,2025-01-24
+Triple Jump,f,1,"Bii, Winny",JR-3,Texas A&M,14.01m,False,Tiger Paw Invitational,2025-02-14
+Triple Jump,f,1,"Sjostrand, Emilia",SR-4,San Jose St.,14.01m,False,2025 Mountain West Indoor Track and Field Championships,2025-02-27
+Triple Jump,f,3,"Lasmane, Ruta",SR-4,Texas Tech,14.00m,False,TTU Red Raider Invitational,2025-01-24
+Triple Jump,f,4,"Foreman, Shantae",JR-3,Clemson,13.84m,False,Clemson Invitational,2025-01-11
+Triple Jump,f,5,"Johnson, Simone",SR-4,San Jose St.,13.78m,False,Don Kirby Elite Invitational 2025,2025-02-14
+Shot Put,m,1,"Robinson-O'Hagan, Tarik",JR-3,Ole Miss,21.11m,False,Music City Challenge,2025-02-14
+Shot Put,m,2,"Moudani Likibi, Fred",SR-4,Cincinnati,20.62m,False,Music City Challenge,2025-02-14
+Shot Put,m,3,"Kitchell, Thomas",SR-4,North Carolina,20.47m,False,Tiger Paw Invitational,2025-02-14
+Shot Put,m,4,"Swarens, Jason",SR-4,Wisconsin,20.24m,False,Big Ten Indoor Championships,2025-02-28
+Shot Put,m,5,"Licata, Christopher",SR-4,South Carolina,20.06m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Shot Put,f,1,"Dove, KeAyla",SR-4,Houston,19.46m,False,Howie Ryan Invitational,2025-02-14
+Shot Put,f,2,"Johansson, Axelina",JR-3,Nebraska,19.31m,False,Big Ten Indoor Championships,2025-02-28
+Shot Put,f,3,"Lesnar, Mya",SR-4,Colorado St.,19.02m,False,2025 Mountain West Indoor Track and Field Championships,2025-02-27
+Shot Put,f,4,"Ross, Jaida",SR-4,Oregon,18.47m,False,Big Ten Indoor Championships,2025-02-28
+Shot Put,f,5,"Ulrich, Jayden",SR-4,Louisville,18.40m,False,PNC Lenny Lyles Invite,2025-01-31
+Weight Throw,m,1,"Reynolds, Daniel",SR-4,Wyoming,25.06m,False,2025 Mountain West Indoor Track and Field Championships,2025-02-27
+Weight Throw,m,2,"Knight, Trey",SR-4,CSUN,24.87m,False,Nevada Invitational & Multi,2025-01-23
+Weight Throw,m,3,"Johnson, Ryan",SO-2,Iowa,24.59m,False,Tiffin University Robinson Family Open,2025-02-15
+Weight Throw,m,4,"Robinson-O'Hagan, Tarik",JR-3,Ole Miss,24.35m,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Weight Throw,m,5,"Nubbe, Jeremiah",JR-3,Virginia,23.94m,False,Virginia Tech Invitational,2025-01-17
+Weight Throw,f,1,"Nabwe, Anthonett",SO-2,Minnesota,24.22m,False,Big Ten Indoor Championships,2025-02-28
+Weight Throw,f,2,"Meeks, Giavonna",SO-2,California,23.59m,False,ACC Indoor Track & Field Championships,2025-03-01
+Weight Throw,f,3,"Frank, Shelby",SR-4,Texas Tech,23.45m,False,Jarvis Scott Invite,2025-02-14
+Weight Throw,f,4,"Lindeman, Chloe",SR-4,Wisconsin,23.24m,False,the 4th Annual Wisconsin Badgers WINDY CITY INVITE,2025-02-14
+Weight Throw,f,5,"Makhethe, Phethisang",JR-3,Illinois,23.11m,False,Tyson Invitational,2025-02-14
+Pentathlon,f,1,"Enok, Pippi Lotta",SR-4,Oklahoma,4593,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Pentathlon,f,2,"O'Brien, Jadin",SR-4,Notre Dame,4580,False,ACC Indoor Track & Field Championships,2025-03-01
+Pentathlon,f,3,"Iakushina, Sofia",FR-1,Texas A&M,4556,False,2025 SEC Indoor Track and Field Championships,2025-02-27
+Pentathlon,f,4,"Kienast, Lucie",FR-1,Illinois,4428,True,Fighting Illini Challenge and Combined Events,2025-01-24
+Pentathlon,f,5,"Bikembo, Pauline",FR-1,Iowa,4330,False,Big Ten Indoor Championships,2025-02-28
+Heptathlon,m,1,"Bair, Peyton",JR-3,Miss State,6104,False,2025 Texas A&M Charlie Thomas Invitational,2025-02-07
+Heptathlon,m,2,"DeGreef, Jip",SO-2,Illinois,6070,True,Fighting Illini Challenge and Combined Events,2025-01-24
+Heptathlon,m,3,"Levesque, Grant",SR-4,Houston,5971,False,Big 12 Championships,2025-02-28
+Heptathlon,m,4,"Barton, Ben",JR-3,BYU,5944,False,Big 12 Championships,2025-02-28
+Heptathlon,m,5,"Byrd, Kenneth",FR-1,Louisville,5903,False,ACC Indoor Track & Field Championships,2025-03-01

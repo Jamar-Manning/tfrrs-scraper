@@ -1,0 +1,55 @@
+import re
+
+import requests
+from bs4 import BeautifulSoup
+
+
+def get_season(url):
+    # Parse season from URL — grab last 4-digit year and detect Indoor/Outdoor
+    parts = url.split("/")[-1].split("_")
+    year = [p for p in parts if p.isdigit() and len(p) == 4][-1]
+    season_type = "Indoor" if "Indoor" in parts else "Outdoor"
+    return f"{year}_{season_type}"
+
+
+def fetch_page(url):
+    # Spoof as a browser to avoid being blocked
+    headers = {"User-Agent": "Mozilla/5.0"}
+    page = requests.get(url, headers=headers)
+    return BeautifulSoup(page.text, "html.parser")
+
+
+def scrape_list(url, parse_event):
+    # Fetch and parse the page
+    soup = fetch_page(url)
+
+    # Find all event anchors on the page
+    events = soup.find_all("a", id=re.compile("^event"))
+
+    all_results = []
+
+    # Loop through each event, navigate to its container, and extract data
+    for event in events:
+        event_container = event.find_next_sibling()
+
+        # Skip if no sibling container found
+        if event_container is None or event_container.name == "a":
+            continue
+
+        event_name = event_container.find("h3").text.strip()
+        event_name = event_name.split("(")[0].strip()
+        header = event_container.find("div", class_="performance-list-header")
+
+        # Skip relay events
+        if "is-relay" in header.get("class", []):
+            continue
+
+        # Detect gender from event container classes
+        classes = event_container.get("class", [])
+        gender = "m" if "gender_m" in classes else "f"
+
+        # Parse the event and collect results
+        result = parse_event(event_container, event_name, gender)
+        all_results.append(result)
+
+    return all_results

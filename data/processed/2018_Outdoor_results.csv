@@ -1,0 +1,193 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+100 Meters,m,1,"Bacon, Jaylen",SR-4,Arkansas State,9.99,False,Sun Belt Outdoor Track and Field Championships,2018-05-11
+100 Meters,m,1,"Williams, Kendal",JR-3,Georgia,9.99,False,SEC Outdoor Track and Field Championships,2018-05-11
+100 Meters,m,3,"Mitchell, Jaylan",SO-2,N. Carolina A&T,10.00,False,NCAT Aggie Invitational,2018-04-13
+100 Meters,m,4,"Larkins, Micah",JR-3,Northwestern St.,10.02,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+100 Meters,m,5,"Ewers, Andre",JR-3,Florida State,10.04,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+100 Meters,f,1,"Hobbs, Aleia",SR-4,LSU,10.86,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+100 Meters,f,2,"Terry, Twanisha",FR-1,USC,10.96,False,2018 Pac-12 Track & Field Championships,2018-05-12
+100 Meters,f,3,"Johnson, Kortnei",JR-3,LSU,10.97,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+100 Meters,f,4,"Henderson, Ashley",JR-3,San Diego St.,10.98,False,2018 Desert Heat Classic,2018-04-28
+100 Meters,f,4,"Hill, Deanna",SR-4,USC,10.98,False,USC Power 5 Challenge,2018-03-23
+200 Meters,m,1,"Norman, Michael",SO-2,USC,19.84,False,2018 Pac-12 Track & Field Championships,2018-05-12
+200 Meters,m,2,"Ewers, Andre",JR-3,Florida State,19.98,False,ACC Outdoor Championships,2018-05-10
+200 Meters,m,3,"Titi, Ncincilili",SR-4,South Carolina,20.00,False,USC Open,2018-04-21
+200 Meters,m,4,"Hall, Elijah",SR-4,Houston,20.11,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+200 Meters,m,5,"Oduduru, Divine",SO-2,Texas Tech,20.13,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+200 Meters,f,1,"Irby, Lynna",FR-1,Georgia,22.25,False,SEC Outdoor Track and Field Championships,2018-05-11
+200 Meters,f,2,"Thomas, Gabrielle",JR-3,Harvard,22.32,False,Miami Hurricane Alumni Invitational,2018-04-06
+200 Meters,f,3,"Dunmore, Makenzie",SO-2,Oregon,22.37,False,2018 Pac-12 Track & Field Championships,2018-05-12
+200 Meters,f,4,"McLaughlin, Sydney",FR-1,Kentucky,22.39,False,Florida Relays,2018-03-29
+200 Meters,f,5,"Collins, Shania",SR-4,Tennessee,22.40,False,SEC Outdoor Track and Field Championships,2018-05-11
+400 Meters,m,1,"Allen, Nathon",SO-2,Auburn,44.28,False,SEC Outdoor Track and Field Championships,2018-05-11
+400 Meters,m,2,"Strother, Nathan",SR-4,Tennessee,44.34,False,SEC Outdoor Track and Field Championships,2018-05-11
+400 Meters,m,3,"Norman, Michael",SO-2,USC,44.40,False,2018 Pac-12 Track & Field Championships,2018-05-12
+400 Meters,m,4,"London, Wil",JR-3,Baylor,44.73,False,Michael Johnson Invitational,2018-04-21
+400 Meters,m,5,"Benjamin, Rai",JR-3,USC,44.74,False,Mt. SAC Relays,2018-04-19
+400 Meters,f,1,"Ellis, Kendall",SR-4,USC,49.99,False,2018 Pac-12 Track & Field Championships,2018-05-12
+400 Meters,f,2,"McLaughlin, Sydney",FR-1,Kentucky,50.07,False,Florida Relays,2018-03-29
+400 Meters,f,3,"Dunmore, Makenzie",SO-2,Oregon,50.63,False,2018 Pac-12 Track & Field Championships,2018-05-12
+400 Meters,f,4,"Barnett, Sharrika",JR-3,Florida,50.69,False,SEC Outdoor Track and Field Championships,2018-05-11
+400 Meters,f,5,"Irby, Lynna",FR-1,Georgia,50.95,False,Mt. SAC Relays,2018-04-19
+800 Meters,m,1,"Saruni, Michael",SO-2,UTEP,1:43.25,False,2018 Desert Heat Classic,2018-04-28
+800 Meters,m,2,"Harris, Isaiah",JR-3,Penn State,1:45.31,False,Big Ten Championships,2018-05-11
+800 Meters,m,3,"Dixon, Devin",SO-2,Texas A&M,1:45.62,False,LSU Invitational,2018-04-28
+800 Meters,m,4,"Williams, Cooper",SO-2,Indiana,1:46.06,False,Big Ten Championships,2018-05-11
+800 Meters,m,4,"Kuhn, Daniel",JR-3,Indiana,1:46.06,False,Big Ten Championships,2018-05-11
+800 Meters,f,1,"Fray, Jazmine",JR-3,Texas A&M,2:01.18,False,Rafer Johnson & Jackie Joyner-Kersee Invitational,2018-04-14
+800 Meters,f,2,"Southerland, Sabrina",SR-4,Oregon,2:01.44,False,Mt. SAC Relays,2018-04-19
+800 Meters,f,3,"Miller, Aaliyah",FR-1,Baylor,2:02.41,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+800 Meters,f,4,"Watson, Sammy",FR-1,Texas A&M,2:02.49,False,LSU Invitational,2018-04-28
+800 Meters,f,5,"Wilson-Perteete, Avi' Tal",FR-1,UNLV,2:02.87,False,Mountain West Outdoor Track & Field Championships,2018-05-09
+1500 Meters,m,1,"Kerr, Josh",JR-3,New Mexico,3:35.01,False,Bryan Clay Invitational,2018-04-19
+1500 Meters,m,2,"Knight, Justyn",SR-4,Syracuse,3:36.07,False,Bryan Clay Invitational,2018-04-19
+1500 Meters,m,3,"Domanic, Robert",SR-4,Ole Miss,3:36.33,False,Bryan Clay Invitational,2018-04-19
+1500 Meters,m,4,"Prakel, Sam",SR-4,Oregon,3:36.84,False,Bryan Clay Invitational,2018-04-19
+1500 Meters,m,5,"West, James",JR-3,Oregon,3:37.41,False,Bryan Clay Invitational,2018-04-19
+1500 Meters,f,1,"Pocratsky, Rachel",JR-3,Virginia Tech,4:10.03,False,ACC Outdoor Championships,2018-05-10
+1500 Meters,f,2,"Price-Weimer, Rhianwedd",SR-4,Miss State,4:10.31,False,Florida Relays,2018-03-29
+1500 Meters,f,3,"Hull, Jessica",SO-2,Oregon,4:10.46,False,Bryan Clay Invitational,2018-04-19
+1500 Meters,f,4,"Fraser, Vanessa",SR-4,Stanford,4:10.63,False,2018 Cardinal Classic,2018-04-20
+1500 Meters,f,5,"Rivers, Danae",SO-2,Penn State,4:10.82,False,Florida Relays,2018-03-29
+5000 Meters,m,1,"Knight, Justyn",SR-4,Syracuse,13:18.74,False,Payton Jordan Invitational,2018-05-03
+5000 Meters,m,2,"Trouard, Andy",SR-4,Northern Arizona,13:21.07,False,Payton Jordan Invitational,2018-05-03
+5000 Meters,m,3,"Bruce, Jack",SR-4,Arkansas,13:28.57,False,Payton Jordan Invitational,2018-05-03
+5000 Meters,m,4,"Maggard, Dillon",SR-4,Utah State,13:30.02,False,Payton Jordan Invitational,2018-05-03
+5000 Meters,m,5,"Baxter, Matthew",SR-4,Northern Arizona,13:31.00,False,Bryan Clay Invitational,2018-04-19
+5000 Meters,f,1,"Kurgat, Ednah",JR-3,New Mexico,15:20.06,False,Payton Jordan Invitational,2018-05-03
+5000 Meters,f,2,"Fraser, Vanessa",SR-4,Stanford,15:20.10,False,Payton Jordan Invitational,2018-05-03
+5000 Meters,f,3,"Kelati, Weini",FR-1,New Mexico,15:22.71,False,Payton Jordan Invitational,2018-05-03
+5000 Meters,f,4,"Schweizer, Karissa",SR-4,Missouri,15:23.21,False,2018 Drake Relays presented by Hy-Vee,2018-04-25
+5000 Meters,f,5,"Neale, Amy-Eloise",SR-4,Washington,15:24.16,False,Payton Jordan Invitational,2018-05-03
+"10,000 Meters",m,1,"Day, Tyler",SO-2,Northern Arizona,28:04.44,False,Payton Jordan Invitational,2018-05-03
+"10,000 Meters",m,2,"McMillan, Connor",JR-3,BYU,28:09.55,False,Payton Jordan Invitational,2018-05-03
+"10,000 Meters",m,3,"Baxter, Matthew",SR-4,Northern Arizona,28:10.05,False,Payton Jordan Invitational,2018-05-03
+"10,000 Meters",m,4,"Kiprop, Vincent",JR-3,Alabama,28:19.07,False,Stanford Invitational,2018-03-30
+"10,000 Meters",m,5,"Kigen, Gilbert",JR-3,Alabama,28:27.31,False,Stanford Invitational,2018-03-30
+"10,000 Meters",f,1,"Schweizer, Karissa",SR-4,Missouri,32:00.55,False,Stanford Invitational,2018-03-30
+"10,000 Meters",f,2,"Wright, Alice",SR-4,New Mexico,32:15.73,False,Stanford Invitational,2018-03-30
+"10,000 Meters",f,3,"Lokedi, Sharon",JR-3,Kansas,32:21.19,False,Stanford Invitational,2018-03-30
+"10,000 Meters",f,4,"Kurgat, Ednah",JR-3,New Mexico,32:31.55,False,Mountain West Outdoor Track & Field Championships,2018-05-09
+"10,000 Meters",f,5,"Stoner, Paige",JR-3,Syracuse,32:33.72,False,Stanford Invitational,2018-03-30
+100 Hurdles,f,1,"Camacho-Quinn, Jasmine",JR-3,Kentucky,12.40,False,SEC Outdoor Track and Field Championships,2018-05-11
+100 Hurdles,f,2,"Burton, Rushelle",SO-2,Texas,12.64,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+100 Hurdles,f,3,"Charlton, Devynne",SR-4,Purdue,12.70,False,LSU Battle on the Bayou,2018-04-07
+100 Hurdles,f,4,"Seymour, Pedrya",SR-4,Texas,12.72,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+100 Hurdles,f,5,"Brown, Janeek",FR-1,Arkansas,12.73,False,National Relay Championships,2018-04-27
+100 Hurdles,f,5,"Marshall, Tonea",SO-2,LSU,12.73,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+110 Hurdles,m,1,"Holloway, Grant",SO-2,Florida,13.15,False,SEC Outdoor Track and Field Championships,2018-05-11
+110 Hurdles,m,2,"Roberts, Daniel",SO-2,Kentucky,13.27,False,SEC Outdoor Track and Field Championships,2018-05-11
+110 Hurdles,m,3,"Walters, Ruebin",SR-4,Alabama,13.28,False,SEC Outdoor Track and Field Championships,2018-05-11
+110 Hurdles,m,4,"Thomas, Damion",FR-1,LSU,13.39,False,SEC Outdoor Track and Field Championships,2018-05-11
+110 Hurdles,m,5,"Kendziera, David",SR-4,Illinois,13.46,False,Ole Miss Classic,2018-03-31
+400 Hurdles,m,1,"Benjamin, Rai",JR-3,USC,48.46,False,2018 Pac-12 Track & Field Championships,2018-05-12
+400 Hurdles,m,2,"Selmon, Kenny",SR-4,North Carolina,48.98,False,Virginia Grand Prix,2018-04-28
+400 Hurdles,m,3,"Mowatt, Kemar",SR-4,Arkansas,49.32,False,SEC Outdoor Track and Field Championships,2018-05-11
+400 Hurdles,m,4,"Grimes, Norman",FR-1,Texas Tech,49.38,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+400 Hurdles,m,5,"Kendziera, David",SR-4,Illinois,49.39,False,Mt. SAC Relays,2018-04-19
+400 Hurdles,f,1,"McLaughlin, Sydney",FR-1,Kentucky,52.75,False,SEC Outdoor Track and Field Championships,2018-05-11
+400 Hurdles,f,2,"Payne, Kymber",SR-4,LSU,55.92,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+400 Hurdles,f,3,"McKenzie, Ranae",JR-3,Kansas State,56.06,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+400 Hurdles,f,4,"Black, Symone",SR-4,Purdue,56.16,False,Big Ten Championships,2018-05-11
+400 Hurdles,f,5,"Cockrell, Anna",SO-2,USC,56.24,False,UCLA vs. USC Dual,2018-04-29
+3000 Steeplechase,m,1,"Uchikoshi, Yusuke",SR-4,Boise State,8:38.32,False,Stanford Invitational,2018-03-30
+3000 Steeplechase,m,2,"Owens, Matt",FR-1,BYU,8:39.41,False,Stanford Invitational,2018-03-30
+3000 Steeplechase,m,3,"Grannetia, Simon",JR-3,Portland,8:40.07,False,Payton Jordan Invitational,2018-05-03
+3000 Steeplechase,m,4,"Rotich, Emmanuel",JR-3,Tulane,8:40.66,False,Payton Jordan Invitational,2018-05-03
+3000 Steeplechase,m,5,"Carney, Daniel",JR-3,BYU,8:41.22,False,Payton Jordan Invitational,2018-05-03
+3000 Steeplechase,f,1,"Ostrander, Allie",SO-2,Boise State,9:38.57,False,Stanford Invitational,2018-03-30
+3000 Steeplechase,f,2,"Bouchard, Marie",SR-4,San Francisco,9:41.32,False,Payton Jordan Invitational,2018-05-03
+3000 Steeplechase,f,3,"Stoner, Paige",JR-3,Syracuse,9:50.42,False,ACC Outdoor Championships,2018-05-10
+3000 Steeplechase,f,4,"Prouse, Charlotte",SO-2,New Mexico,9:50.47,False,Payton Jordan Invitational,2018-05-03
+3000 Steeplechase,f,5,"Murphy, Grayson",SR-4,Utah,9:51.36,False,Stanford Invitational,2018-03-30
+High Jump,m,1,"Shankar, Tejaswin",FR-1,Kansas State,2.29m,False,Texas Tech Corky/Crofoot Shootout,2018-04-27
+High Jump,m,2,"Turner, Vernon",FR-1,Oklahoma,2.28m,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+High Jump,m,3,"Laine, Keenon",JR-3,Georgia,2.26m,False,Spec Towns Invitational,2018-04-06
+High Jump,m,3,"Wells, Jonathan",JR-3,Illinois,2.26m,False,Big Ten Championships,2018-05-11
+High Jump,m,3,"Campbell, Matthew",SR-4,Albany,2.26m,False,Florida Relays,2018-03-29
+High Jump,f,1,"Gusin, Tatiana",SR-4,Georgia,1.88m,False,Mt. SAC Relays,2018-04-19
+High Jump,f,1,"Blaut, Loretta",JR-3,Cincinnati,1.88m,False,The American Outdoor Track & Field Championships,2018-05-11
+High Jump,f,3,"Henry, Alexus",JR-3,UT-Arlington,1.87m,False,Bryan Clay Invitational,2018-04-19
+High Jump,f,4,"Willis, Zarriea",JR-3,Texas Tech,1.86m,False,39th Sun Angel Classic,2018-04-05
+High Jump,f,4,"Gittens, Tyra",FR-1,Texas A&M,1.86m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Pole Vault,m,1,"Nilsen, Chris",SO-2,South Dakota,5.86m,False,Howard Wood Dakota Relays,2018-05-04
+Pole Vault,m,2,"King, Devin",SR-4,SE Louisiana,5.80m,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+Pole Vault,m,3,"Ludwig, Matthew",JR-3,Akron,5.71m,False,Beach Invitational,2018-04-20
+Pole Vault,m,4,"Richartz, Nate",SR-4,Notre Dame,5.70m,False,ACC Outdoor Championships,2018-05-10
+Pole Vault,m,5,"Oates, Tray",SR-4,Samford,5.66m,False,Florida Relays,2018-03-29
+Pole Vault,f,1,"Jacobus, Alexis",JR-3,Arkansas,4.65m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Pole Vault,f,2,"Gunnarsson, Lisa",FR-1,Virginia Tech,4.60m,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+Pole Vault,f,3,"Hoggard, Victoria",JR-3,Arkansas,4.51m,False,National Relay Championships,2018-04-27
+Pole Vault,f,4,"Guy, Bridget",JR-3,Virginia,4.46m,False,Virginia Challenge,2018-04-20
+Pole Vault,f,5,"Heath, Madison",SR-4,Duke,4.45m,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+Long Jump,m,1,"Simpson, Damarcus",SR-4,Oregon,8.33m,False,2018 Pac-12 Track & Field Championships,2018-05-12
+Long Jump,m,2,"Holloway, Grant",SO-2,Florida,8.32m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Long Jump,m,3,"Williams, Will",SR-4,Texas A&M,8.25m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Long Jump,m,4,"Duckworth, Tim",SR-4,Kentucky,8.19m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Long Jump,m,5,"McClain, Terrell",SR-4,Akron,8.18m,False,Beach Invitational,2018-04-20
+Long Jump,f,1,"Orji, Keturah",SR-4,Georgia,6.81m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Long Jump,f,2,"Brooks, Taliyah",SR-4,Arkansas,6.78m,False,Arkansas Spring Invitational,2018-03-23
+Long Jump,f,3,"David, Yanis",JR-3,Florida,6.69m,False,UF Tom Jones Memorial,2018-04-13
+Long Jump,f,4,"McQueen, Darrielle",SR-4,Florida,6.65m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Long Jump,f,5,"Davis, Tara",FR-1,Georgia,6.63m,False,Spec Towns Invitational,2018-04-06
+Long Jump,f,5,"Hall, Kate",SO-2,Georgia,6.63m,False,Torrin Lawrence Memorial,2018-05-05
+Triple Jump,m,1,"Triki, Tahar",SO-2,Texas A&M,16.91m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Triple Jump,m,2,"Newton, Scotty",SR-4,TCU,16.85m,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+Triple Jump,m,3,"Bates, KeAndre",SR-4,Florida,16.69m,False,National Relay Championships,2018-04-27
+Triple Jump,m,4,"Adams, Barden",SR-4,Kansas,16.59m,False,National Relay Championships,2018-04-27
+Triple Jump,m,5,"Lewis, Odaine",JR-3,Texas Tech,16.55m,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+Triple Jump,f,1,"Orji, Keturah",SR-4,Georgia,14.62m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Triple Jump,f,2,"David, Yanis",JR-3,Florida,14.13m,False,National Relay Championships,2018-04-27
+Triple Jump,f,3,"Ebwea-Bile, Marie-Josee",JR-3,Kentucky,14.00m,False,National Relay Championships,2018-04-27
+Triple Jump,f,4,"Cook, Chaquinn",JR-3,Oregon,13.89m,False,Mt. SAC Relays,2018-04-19
+Triple Jump,f,5,"Luque, Jhoanmy",SR-4,Iowa State,13.69m,False,2018 Drake Relays presented by Hy-Vee,2018-04-25
+Shot Put,m,1,"Otterdahl, Payton",JR-3,North Dakota State,20.96m,False,2018 Summit League Championships,2018-05-10
+Shot Put,m,2,"Comenentia, Denzel",JR-3,Georgia,20.88m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Shot Put,m,3,"Awotunde, Josh",SR-4,South Carolina,20.77m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Shot Put,m,4,"Geist, Jordan",FR-1,Arizona,20.41m,False,2018 Desert Heat Classic,2018-04-28
+Shot Put,m,5,"Kern, Jared",SR-4,Southern Illinois,20.39m,False,2018 MVC Outdoor Track & Field Championships,2018-05-11
+Shot Put,f,1,"Ewen, Maggie",SR-4,Arizona State,19.46m,False,2018 Desert Heat Classic,2018-04-28
+Shot Put,f,2,"Giger, Lena",SR-4,Stanford,18.09m,False,UCSD Triton Invitational,2018-04-13
+Shot Put,f,3,"Woodard, Jessica",SR-4,Oklahoma,18.07m,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+Shot Put,f,4,"Stewart, Janeah",SR-4,Ole Miss,17.97m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Shot Put,f,5,"Blake, Ashlie",JR-3,UCLA,17.73m,False,Jim Bush / Bob Larsen Invitational,2018-03-31
+Discus,m,1,"Lucas, Ashmon",SO-2,Purdue,62.91m,False,UCSD Triton Invitational,2018-04-13
+Discus,m,2,"Percy, Nicholas",SR-4,Nebraska,62.50m,False,Pac-12+ vs Big Ten Invitational,2018-03-23
+Discus,m,3,"Vaughn, Luke",SR-4,Memphis,62.18m,False,Mt. SAC Relays,2018-04-19
+Discus,m,4,"Williams, Brian",SR-4,Ole Miss,61.54m,False,LSU Invitational,2018-04-28
+Discus,m,5,"Thompson, Greg",JR-3,Maryland,61.29m,False,Penn Relays,2018-04-26
+Discus,f,1,"Ewen, Maggie",SR-4,Arizona State,61.27m,False,39th Sun Angel Classic,2018-04-05
+Discus,f,2,"Lawrence, Shadae",JR-3,Kansas State,61.08m,False,Roadrunner Invitational,2018-03-22
+Discus,f,3,"Barnett, Tarasue",SR-4,Grand Canyon,60.74m,False,Western Athletic Conference Outdoor Track and Field Champion,2018-05-09
+Discus,f,4,"Allman, Valarie",SR-4,Stanford,60.65m,False,Stanford Invitational,2018-03-30
+Discus,f,5,"Brown, Serena",SO-2,Texas A&M,60.39m,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+Hammer,m,1,"Dudarev, Gleb",SO-2,Kansas,78.04m,False,Kansas Relays,2018-04-18
+Hammer,m,2,"Comenentia, Denzel",JR-3,Georgia,76.29m,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+Hammer,m,3,"Eriksson, Anders",JR-3,Florida,74.19m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Hammer,m,4,"Winkler, Rudy",SR-4,Rutgers,73.85m,False,Big Ten Championships,2018-05-11
+Hammer,m,5,"Haugh, Daniel",JR-3,Alabama,73.50m,False,LSU Invitational,2018-04-28
+Hammer,f,1,"Ewen, Maggie",SR-4,Arizona State,74.53m,False,39th Sun Angel Classic,2018-04-05
+Hammer,f,2,"Andersen, Brooke",SR-4,Northern Arizona,74.20m,False,2018 Desert Heat Classic,2018-04-28
+Hammer,f,3,"Scarvelis, Stamatia",JR-3,Tennessee,68.37m,False,USC Power 5 Challenge,2018-03-23
+Hammer,f,4,"Kassanavoid, Janee'",SR-4,Kansas State,68.21m,False,Big 12 Conference Outdoor Track and Field Championships,2018-05-11
+Hammer,f,5,"Stewart, Janeah",SR-4,Ole Miss,67.70m,False,USC Power 5 Challenge,2018-03-23
+Javelin,m,1,"Peters, Anderson",FR-1,Miss State,82.04m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Javelin,m,2,"Gudmundsson, Sindri",SO-2,Utah State,80.49m,False,UC Irvine Spring Break Classic,2018-03-16
+Javelin,m,3,"Kyriazis, Ioannis",SR-4,Texas A&M,80.33m,False,SEC Outdoor Track and Field Championships,2018-05-11
+Javelin,m,4,"Quijera, Nicolas",SR-4,Miss State,79.75m,False,Tennessee Relays,2018-04-12
+Javelin,m,5,"True, Aaron",JR-3,Wichita State,77.49m,False,The American Outdoor Track & Field Championships,2018-05-11
+Javelin,f,1,"Little, Mackenzie",JR-3,Stanford,58.63m,False,2018 Big Meet,2018-04-07
+Javelin,f,2,"Olin, Alyssa",SR-4,North Dakota State,58.36m,False,2018 Baldy Castillo Invitational,2018-03-16
+Javelin,f,3,"Fiamoncini, Maura",FR-1,Bucknell,56.21m,False,Jim Taylor Invitational,2018-03-31
+Javelin,f,4,"Clark, Kristen",SR-4,Texas A&M,56.20m,False,LSU Invitational,2018-04-28
+Javelin,f,5,"Murphy, Nicolle",SR-4,Minnesota,56.17m,False,Ole Miss Classic,2018-03-31
+Heptathlon,f,1,"Ellenwood, Georgia",SR-4,Wisconsin,6173,False,Big Ten Championships,2018-05-11
+Heptathlon,f,2,"Gittens, Tyra",FR-1,Texas A&M,6074,False,SEC Outdoor Track and Field Championships,2018-05-11
+Heptathlon,f,3,"Schultz, Nina",SO-2,Kansas State,6018,False,Roadrunner Invitational,2018-03-22
+Heptathlon,f,4,"Brooks-Johnson, Alissa",SR-4,Washington St.,5977,False,Pac-12 Combined Events Championships,2018-05-05
+Heptathlon,f,5,"Holmberg, Madeline",JR-3,Penn State,5976,False,Big Ten Championships,2018-05-11
+Decathlon,m,1,"Duckworth, Tim",SR-4,Kentucky,8145,False,Spec Towns Invitational,2018-04-06
+Decathlon,m,2,"Veith, Hunter",SR-4,Wichita State,8046,False,Home Depot Clyde Littlefield Texas Relays,2018-03-28
+Decathlon,m,3,"Ehrhardt, Tim",SR-4,Michigan State,8044,False,Virginia Challenge,2018-04-20
+Decathlon,m,4,"Erm, Johannes",FR-1,Georgia,8020,False,Spec Towns Invitational,2018-04-06
+Decathlon,m,5,"Saluri, Karl",SR-4,Georgia,7934,False,SEC Outdoor Track and Field Championships,2018-05-11

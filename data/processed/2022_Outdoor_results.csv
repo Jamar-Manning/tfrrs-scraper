@@ -1,0 +1,197 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+100 Meters,m,1,"Ashe, Favour",FR-1,Tennessee,9.79,False,LSU Invitational,2022-04-30
+100 Meters,m,2,"Williams, Micah",SO-2,Oregon,9.83,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+100 Meters,m,3,"Kone, Ismael",SO-2,New Orleans,9.94,False,Southland Conference Outdoor Track & Field Championships,2022-05-06
+100 Meters,m,4,"Harris, Micaiah",SR-4,Texas,9.96,True,Big 12 Championships,2022-05-13
+100 Meters,m,5,"Boling, Matthew",SO-2,Georgia,9.98,False,UF Tom Jones Memorial,2022-04-15
+100 Meters,f,1,"Barnes, Celera",SR-4,USC,10.82,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+100 Meters,f,2,"Alfred, Julien",SO-2,Texas,10.83,True,Big 12 Championships,2022-05-13
+100 Meters,f,2,"Baylark, Jada",SR-4,Arkansas,10.83,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+100 Meters,f,4,"Davis, Kevona",SO-2,Texas,10.86,True,Big 12 Championships,2022-05-13
+100 Meters,f,5,"Jefferson, Melissa",SO-2,Coastal Carolina,10.88,False,Sun Belt Outdoor Championships,2022-05-12
+200 Meters,m,1,"Harris, Micaiah",SR-4,Texas,19.79,True,Big 12 Championships,2022-05-13
+200 Meters,m,2,"Lindsey, Courtney",JR-3,Texas Tech,19.88,True,Big 12 Championships,2022-05-13
+200 Meters,m,3,"Boling, Matthew",SO-2,Georgia,19.92,False,Georgia Tech Invitational,2022-04-22
+200 Meters,m,3,"Fahnbulleh, Joseph",SO-2,Florida,19.92,False,LSU Invitational,2022-04-30
+200 Meters,m,5,"Camel, Dorian",JR-3,LSU,20.00,False,LSU Invitational,2022-04-30
+200 Meters,f,1,"Ofili, Favour",SO-2,LSU,21.96,False,UF Tom Jones Memorial,2022-04-15
+200 Meters,f,2,"Steiner, Abby",JR-3,Kentucky,22.05,False,2022 Kentucky Track & Field Invitational,2022-04-22
+200 Meters,f,3,"Flannel, Kynnedy",JR-3,Texas,22.30,True,Big 12 Championships,2022-05-13
+200 Meters,f,4,"Davis, Kevona",SO-2,Texas,22.33,True,Big 12 Championships,2022-05-13
+200 Meters,f,5,"Chukwuma, Rosemary",SO-2,Texas Tech,22.40,True,Big 12 Championships,2022-05-13
+400 Meters,m,1,"Jones, Jonathan",JR-3,Texas,44.54,True,Big 12 Championships,2022-05-13
+400 Meters,m,2,"Ross, Randolph",JR-3,N. Carolina A&T,44.61,False,Big South Outdoor Championships,2022-05-09
+400 Meters,m,3,"Allison, Champion",JR-3,Florida,44.74,False,SEC Outdoor Track & Field Championships,2022-05-12
+400 Meters,m,3,"Mckiver, Jenoah",SO-2,Iowa,44.74,False,2022 Jim Click Shootout,2022-04-08
+400 Meters,m,5,"Godwin, Elija",JR-3,Georgia,44.81,False,SEC Outdoor Track & Field Championships,2022-05-12
+400 Meters,f,1,"Young, Charokee",SO-2,Texas A&M,49.87,False,UF Tom Jones Memorial,2022-04-15
+400 Meters,f,2,"Wilson, Britton",SO-2,Arkansas,50.05,False,SEC Outdoor Track & Field Championships,2022-05-12
+400 Meters,f,3,"Williams , Stacey Ann",JR-3,Texas,50.32,True,Big 12 Championships,2022-05-13
+400 Meters,f,4,"Simon, Kennedy",JR-3,Texas,50.68,False,Texas A&M v Texas Dual,2022-04-02
+400 Meters,f,5,"Holmes, Alexis",JR-3,Kentucky,50.74,False,SEC Outdoor Track & Field Championships,2022-05-12
+800 Meters,m,1,"Zahafi, Moad",SR-4,Texas Tech,1:43.69,False,UF Tom Jones Memorial,2022-04-15
+800 Meters,m,2,"Jones, Jonathan",JR-3,Texas,1:45.83,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+800 Meters,m,3,"Anderson, Navasky",JR-3,Miss State,1:45.89,False,SEC Outdoor Track & Field Championships,2022-05-12
+800 Meters,m,4,"Whitmarsh, Sam",FR-1,Texas A&M,1:46.09,False,SEC Outdoor Track & Field Championships,2022-05-12
+800 Meters,m,5,"Rivera, John",SR-4,Ole Miss,1:46.42,False,UF Tom Jones Memorial,2022-04-15
+800 Meters,f,1,"McDonald, Katy-Ann",JR-3,LSU,2:00.98,False,Bryan Clay Invitational,2022-04-13
+800 Meters,f,1,"Hendrick, Sarah",JR-3,Kennesaw State,2:00.98,False,Kennesaw State Invitational,2022-04-15
+800 Meters,f,3,"Vissa, Sintayehu",SO-2,Ole Miss,2:01.06,False,UF Tom Jones Memorial,2022-04-15
+800 Meters,f,4,"Barrett, Imogen",JR-3,Florida,2:01.42,False,SEC Outdoor Track & Field Championships,2022-05-12
+800 Meters,f,5,"Ellsworth, Lauren",SR-4,BYU,2:01.72,False,Bryan Clay Invitational,2022-04-13
+1500 Meters,m,1,"Kipsang, Eliud",SO-2,Alabama,3:33.74,False,Bryan Clay Invitational,2022-04-13
+1500 Meters,m,2,"Nur, Abdihamid",JR-3,Northern Arizona,3:36.33,False,Bryan Clay Invitational,2022-04-13
+1500 Meters,m,3,"Brown, Reed",SR-4,Oregon,3:36.44,False,Oregon Relays (College/Pro/Una),2022-04-22
+1500 Meters,m,4,"Davis, Jonathan",SR-4,Illinois,3:36.85,False,Bryan Clay Invitational,2022-04-13
+1500 Meters,m,5,"Garcia Romo, Mario",JR-3,Ole Miss,3:36.91,False,SEC Outdoor Track & Field Championships,2022-05-12
+1500 Meters,f,1,"Tuohy, Katelyn",SO-2,NC State,4:06.84,False,ACC Outdoor Track & Field Championships,2022-05-12
+1500 Meters,f,2,"Vissa, Sintayehu",SO-2,Ole Miss,4:08.72,False,SEC Outdoor Track & Field Championships,2022-05-12
+1500 Meters,f,3,"Gregory, Lauren",JR-3,Arkansas,4:09.73,False,SEC Outdoor Track & Field Championships,2022-05-12
+1500 Meters,f,4,"Skyring, Maudie",SR-4,Florida State,4:09.83,False,ACC Outdoor Track & Field Championships,2022-05-12
+1500 Meters,f,5,"Heymach, Julia",SR-4,Stanford,4:11.00,False,Payton Jordan Invitational,2022-04-29
+5000 Meters,m,1,"Fay, Brian",JR-3,Washington,13:16.52,False,Bryan Clay Invitational,2022-04-13
+5000 Meters,m,2,"Beadlescomb, Morgan",SR-4,Michigan State,13:17.16,False,Bryan Clay Invitational,2022-04-13
+5000 Meters,m,3,"Hacker, Olin",SR-4,Wisconsin,13:19.34,False,Oregon Relays (College/Pro/Una),2022-04-22
+5000 Meters,m,4,"Herrera, Eduardo",SR-4,Colorado,13:20.30,False,Bryan Clay Invitational,2022-04-13
+5000 Meters,m,5,"Lumb, Kieran",SR-4,Washington,13:23.26,False,Bryan Clay Invitational,2022-04-13
+5000 Meters,f,1,"Tuohy, Katelyn",SO-2,NC State,15:14.61,False,Virginia Challenge,2022-04-22
+5000 Meters,f,2,"Nichols, Abby",SR-4,Colorado,15:15.95,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+5000 Meters,f,3,"Chelangat, Mercy",JR-3,Alabama,15:17.28,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+5000 Meters,f,4,"Roe, Taylor",SO-2,Oklahoma State,15:21.47,False,Bryan Clay Invitational,2022-04-13
+5000 Meters,f,5,"Gregory, Lauren",JR-3,Arkansas,15:25.17,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+"10,000 Meters",m,1,"Wildschutt, Adriaan",SR-4,Florida State,27:38.54,False,Payton Jordan Invitational,2022-04-29
+"10,000 Meters",m,2,"Hicks, Charles",SO-2,Stanford,27:40.16,False,Payton Jordan Invitational,2022-04-29
+"10,000 Meters",m,3,"Sprout, Cole",SO-2,Stanford,27:42.42,False,Payton Jordan Invitational,2022-04-29
+"10,000 Meters",m,4,"Pereira, Matthew",JR-3,Harvard,27:45.77,False,Payton Jordan Invitational,2022-04-29
+"10,000 Meters",m,5,"Robinson, Ky",SO-2,Stanford,27:47.11,False,Payton Jordan Invitational,2022-04-29
+"10,000 Meters",f,1,"Nichols, Abby",SR-4,Colorado,32:27.25,False,Pac-12 Track & Field Championships,2022-05-13
+"10,000 Meters",f,2,"Zarbo, Alessia",SO-2,Oregon,32:28.57,False,Pac-12 Track & Field Championships,2022-05-13
+"10,000 Meters",f,3,"Covert, Emily",FR-1,Colorado,32:30.82,False,Pac-12 Track & Field Championships,2022-05-13
+"10,000 Meters",f,4,"Gregory, Lauren",JR-3,Arkansas,32:34.21,False,Stanford Invitational,2022-04-01
+"10,000 Meters",f,5,"Herberg, Haley",JR-3,Washington,32:34.67,False,Pac-12 Track & Field Championships,2022-05-13
+100 Hurdles,f,1,"Armstrong, Alia",SO-2,LSU,12.33,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+100 Hurdles,f,2,"Roswell, Demisha",JR-3,Texas Tech,12.48,True,Big 12 Championships,2022-05-13
+100 Hurdles,f,3,"Robinson, Kaylah",SR-4,Texas A&M,12.49,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+100 Hurdles,f,3,"Nugent, Ackera",FR-1,Baylor,12.49,True,Big 12 Championships,2022-05-13
+100 Hurdles,f,5,"Stark, Grace",SO-2,Florida,12.58,False,UF Tom Jones Memorial,2022-04-15
+110 Hurdles,m,1,"Cunningham, Trey",SR-4,Florida State,13.10,False,North Florida Collegiate Invitational,2022-04-29
+110 Hurdles,m,2,"Zeller, Joshua",JR-3,Michigan,13.19,False,Big Ten Outdoor Track & Field Championships,2022-05-13
+110 Hurdles,m,3,"Edwards Jr., Eric",SR-4,LSU,13.24,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+110 Hurdles,m,4,"Marshall Jr., Jamar",SO-2,Arizona State,13.39,False,Pac-12 Track & Field Championships,2022-05-13
+110 Hurdles,m,4,"Patterson, Kentre",SR-4,Ohio State,13.39,False,Big Ten Outdoor Track & Field Championships,2022-05-13
+110 Hurdles,m,4,"Gilbert, Tre'Bien",JR-3,Arkansas,13.39,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+400 Hurdles,m,1,"Ezekiel, Nathaniel",FR-1,Baylor,48.53,True,Big 12 Championships,2022-05-13
+400 Hurdles,m,2,"Mpoke, Moitalel",SR-4,Texas A&M,48.84,False,SEC Outdoor Track & Field Championships,2022-05-12
+400 Hurdles,m,3,"Levingston, Isaiah",SR-4,Oklahoma,48.93,True,Big 12 Championships,2022-05-13
+400 Hurdles,m,4,"Baldridge, Jayson",SR-4,Baylor,49.10,False,Michael Johnson Invitational,2022-04-22
+400 Hurdles,m,5,"Metivier, Malik",SR-4,Texas Tech,49.15,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+400 Hurdles,m,5,"Schneider, Drake",SR-4,Montana State,49.15,True,Big Sky Conference Outdoor Track and Field Championships,2022-05-11
+400 Hurdles,f,1,"Wilson, Britton",SO-2,Arkansas,53.75,False,SEC Outdoor Track & Field Championships,2022-05-12
+400 Hurdles,f,2,"Hall, Anna",SO-2,Florida,54.91,False,SEC Outdoor Track & Field Championships,2022-05-12
+400 Hurdles,f,3,"Russell, Masai",JR-3,Kentucky,55.41,False,Florida Relays,2022-03-31
+400 Hurdles,f,4,"Hoffman, Lauren",SR-4,Duke,55.98,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+400 Hurdles,f,5,"Wise, Deshae",SR-4,Texas A&M,55.99,False,SEC Outdoor Track & Field Championships,2022-05-12
+3000 Steeplechase,m,1,"Jaziri, Ahmed",JR-3,Eastern Kentucky,8:24.33,False,Payton Jordan Invitational,2022-04-29
+3000 Steeplechase,m,2,"Hamilton, Duncan",JR-3,Montana State,8:26.44,False,Payton Jordan Invitational,2022-04-29
+3000 Steeplechase,m,3,"Trippas, Ed",SR-4,Princeton,8:30.25,False,Penn Relays,2022-04-28
+3000 Steeplechase,m,4,"Rooks, Kenneth",SO-2,BYU,8:31.19,False,Oregon Twilight,2022-05-06
+3000 Steeplechase,m,5,"Fleming, Ben",SR-4,Virginia Tech,8:31.97,False,ACC Outdoor Track & Field Championships,2022-05-12
+3000 Steeplechase,f,1,"Wayment, Courtney",SR-4,BYU,9:26.88,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+3000 Steeplechase,f,2,"McCabe, Ceili",SO-2,West Virginia,9:32.14,False,Mountaineer Twilight,2022-04-30
+3000 Steeplechase,f,3,"Thorner, Elise",SO-2,New Mexico,9:32.42,False,Payton Jordan Invitational,2022-04-29
+3000 Steeplechase,f,4,"Kimeli, Joyce",SR-4,Auburn,9:41.15,False,War Eagle Invitational 2022,2022-04-15
+3000 Steeplechase,f,5,"Boreman, Madison",JR-3,Colorado,9:42.22,False,Pac-12 Track & Field Championships,2022-05-13
+High Jump,m,1,"Sears III, Earnie",SR-4,USC,2.30m,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+High Jump,m,1,"Carbin, Darius",SR-4,Georgia,2.30m,False,Torrin Lawrence Memorial Invite,2022-04-29
+High Jump,m,1,"Turner, Vernon",SR-4,Oklahoma,2.30m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+High Jump,m,4,"Hill, Dontavious",JR-3,Auburn,2.23m,False,Torrin Lawrence Memorial Invite,2022-04-29
+High Jump,m,4,"Beckford, Romaine",JR-3,South Florida,2.23m,False,Penn Relays,2022-04-28
+High Jump,m,4,"Beckford, Romaine",JR-3,South Florida,2.23m,False,Penn Relays,2022-04-28
+High Jump,m,4,"Miller, Jr., Shaun",SO-2,Ohio State,2.23m,False,Penn Relays,2022-04-28
+High Jump,f,1,"Distin, Lamara",JR-3,Texas A&M,1.97m,False,Alumni Muster,2022-04-30
+High Jump,f,2,"Gittens, Tyra",SR-4,Texas,1.95m,False,Texas A&M v Texas Dual,2022-04-02
+High Jump,f,3,"Kwarteng, Abigail",SR-4,Mid. Tenn. State,1.92m,False,War Eagle Invitational 2022,2022-04-15
+High Jump,f,4,"Glenn, Rachel",SO-2,South Carolina,1.90m,False,Weems Baskin Relays,2022-03-25
+High Jump,f,5,"Sapp, Sidney",JR-3,Texas Tech,1.89m,False,Big 12 Championships,2022-05-13
+Pole Vault,m,1,"Fritsch, Clayton",SR-4,Sam Houston,5.80m,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+Pole Vault,m,2,"McWhorter, Zach",SO-2,BYU,5.76m,False,2022 BYU Cougar Invitational,2022-05-06
+Pole Vault,m,3,"Guttormsen, Sondre",JR-3,Princeton,5.75m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Pole Vault,m,4,"Guttormsen, Simen",JR-3,Princeton,5.65m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Pole Vault,m,5,"Garretson, Hunter",SO-2,Akron,5.61m,False,Clark Wood Invitational 2022,2022-04-29
+Pole Vault,f,1,"Gunnarsson, Lisa",SR-4,LSU,4.65m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Pole Vault,f,2,"Leon, Gabriela",SR-4,Louisville,4.61m,False,Clark Wood Invitational 2022,2022-04-29
+Pole Vault,f,3,"Baxter, Rachel",SR-4,Virginia Tech,4.53m,False,UofSC Open,2022-04-23
+Pole Vault,f,3,"Timberg, Chloe",FR-1,Rutgers,4.53m,False,UofSC Open,2022-04-23
+Pole Vault,f,5,"Fassold, Amanda",SO-2,Arkansas,4.50m,False,SEC Outdoor Track & Field Championships,2022-05-12
+Long Jump,m,1,"Hicklin     , Brandon",SR-4,N. Carolina A&T,8.18m,False,2022 Aggie Classic,2022-04-22
+Long Jump,m,2,"Brackins, Johnny",FR-1,Baylor,8.17m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Long Jump,m,3,"Pinnock, Wayne",FR-1,Tennessee,8.06m,False,War Eagle Invitational 2022,2022-04-15
+Long Jump,m,3,"Shell, Carter",SR-4,Arkansas State,8.06m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Long Jump,m,5,"Grimes, Isaac",SR-4,Florida State,8.05m,False,ACC Outdoor Track & Field Championships,2022-05-12
+Long Jump,m,5,"Collins, Julian",FR-1,Alabama,8.05m,False,LSU Joe May Invitational,2022-04-09
+Long Jump,f,1,"Nichols, Monae'",SR-4,Texas Tech,6.97m,False,Big 12 Championships,2022-05-13
+Long Jump,f,2,"Acquah, Deborah",SR-4,Texas A&M,6.89m,False,Texas A&M v Texas Dual,2022-04-02
+Long Jump,f,3,"Moore, Jasmine",SO-2,Florida,6.82m,False,LSU Invitational,2022-04-30
+Long Jump,f,3,"Gittens, Tyra",SR-4,Texas,6.82m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Long Jump,f,5,"Usoro, Ruth",SR-4,Texas Tech,6.78m,False,Big 12 Championships,2022-05-13
+Triple Jump,m,1,"Ihemeje, Emmanuel",SO-2,Oregon,17.00m,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+Triple Jump,m,2,"Mapaya, Chengetayi",SR-4,TCU,16.84m,False,Big 12 Championships,2022-05-13
+Triple Jump,m,3,"Brumfield, R'Lazon",SR-4,Tennessee St.,16.65m,False,Outdoor Music City Challenge,2022-04-29
+Triple Jump,m,4,"Owens, Owayne",SO-2,Virginia,16.61m,False,Penn Relays,2022-04-28
+Triple Jump,m,5,"Mane, Salif",JR-3,Fairleigh Dickinson,16.50m,False,2022 Aggie Classic,2022-04-22
+Triple Jump,f,1,"Moore, Jasmine",SO-2,Florida,14.46m,False,SEC Outdoor Track & Field Championships,2022-05-12
+Triple Jump,f,2,"Hooper, Natricia",SR-4,Florida,14.18m,False,LSU Invitational,2022-04-30
+Triple Jump,f,3,"Usoro, Ruth",SR-4,Texas Tech,13.94m,False,Big 12 Championships,2022-05-13
+Triple Jump,f,4,"Smith, Ackelia",FR-1,Texas,13.87m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Triple Jump,f,5,"Acquah, Deborah",SR-4,Texas A&M,13.84m,False,Texas A&M v Texas Dual,2022-04-02
+Shot Put,m,1,"Piperi, Adrian",SR-4,Texas,21.54m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Shot Put,m,2,"Washington, Turner",JR-3,Arizona State,20.87m,False,2022 SUN ANGEL CLASSIC INVITATIONAL,2022-04-07
+Shot Put,m,3,"Odugbesan, Isaac",SR-4,Alabama,20.66m,False,Crimson Tide Invitational,2022-04-22
+Shot Put,m,4,"Meyer, John",SO-2,LSU,20.50m,False,UF Tom Jones Memorial,2022-04-15
+Shot Put,m,5,"West, Jordan",JR-3,Tennessee,20.33m,False,Crimson Tide Invitational,2022-04-22
+Shot Put,f,1,"Aquilla, Adelaide",SR-4,Ohio State,18.94m,False,Jesse Owens Track Classic,2022-04-22
+Shot Put,f,2,"da Silva, Ana",JR-3,Georgia,18.46m,False,SEC Outdoor Track & Field Championships,2022-05-12
+Shot Put,f,3,"Van Klinken, Jorinde",SR-4,Arizona State,18.45m,False,Desert Heat Classic 2022,2022-04-30
+Shot Put,f,4,"Johansson, Axelina",FR-1,Nebraska,18.39m,False,Big Ten Outdoor Track & Field Championships,2022-05-13
+Shot Put,f,5,"Oladipo, Divine",SR-4,Vanderbilt,17.97m,False,SEC Outdoor Track & Field Championships,2022-05-12
+Discus,m,1,"Alekna, Mykolas",FR-1,California,68.73m,False,Pac-12 Track & Field Championships,2022-05-13
+Discus,m,2,"Romero, Claudio",FR-1,Virginia,67.02m,False,Penn Relays,2022-04-28
+Discus,m,3,"Mullings , Ralford",FR-1,Arizona State,65.39m,False,62nd Annual Mt. SAC Relays (Collegiate),2022-04-13
+Discus,m,4,"Stona, Roje",JR-3,Clemson,65.11m,False,Penn Relays,2022-04-28
+Discus,m,5,"Welsh, Samuel",SO-2,Harvard,63.26m,False,Ivy League Outdoor Track & Field Championships,2022-05-07
+Discus,f,1,"Van Klinken, Jorinde",SR-4,Arizona State,64.75m,False,Desert Heat Classic 2022,2022-04-30
+Discus,f,2,"Emilianov, Alexandra",SR-4,Kansas,60.51m,False,Michael Johnson Invitational,2022-04-22
+Discus,f,3,"Usual, Seasons",SR-4,Texas Tech,59.49m,False,TTU Masked Rider Open,2022-04-01
+Discus,f,4,"Ulrich, Jayden",FR-1,Indiana,59.01m,False,Big Ten Outdoor Track & Field Championships,2022-05-13
+Discus,f,5,"Frank, Shelby",FR-1,Minnesota,58.85m,False,Big Ten Outdoor Track & Field Championships,2022-05-13
+Hammer,m,1,"Blomquist, Logan",SR-4,SE Missouri,73.18m,False,Memphis Tiger Invitational,2022-04-29
+Hammer,m,2,"Colantonio, Bobby",JR-3,Alabama,72.59m,False,SEC Outdoor Track & Field Championships,2022-05-12
+Hammer,m,3,"Zaltos, Kostas",SO-2,Minnesota,71.95m,False,Drake Relays,2022-04-27
+Hammer,m,3,"Zaltos, Kostas",SO-2,Minnesota,71.95m,False,Drake Relays,2022-04-27
+Hammer,m,5,"Knight, Trey",SO-2,USC,71.81m,False,Pac-12 Track & Field Championships,2022-05-13
+Hammer,f,1,"Rogers, Camryn",SR-4,California,75.73m,False,62nd Annual Mt. SAC Relays (Elite),2022-04-13
+Hammer,f,2,"Wilson, Alyssa",SR-4,Texas State,73.20m,False,Michael Johnson Invitational,2022-04-22
+Hammer,f,3,"Purchase, Anna",JR-3,California,70.63m,False,Brutus Hamilton Invitational,2022-04-09
+Hammer,f,4,"Shippee, Jillian",SR-4,North Carolina,69.76m,False,Penn Relays,2022-04-28
+Hammer,f,5,"Malone, Madi",JR-3,Auburn,69.66m,False,Penn Relays,2022-04-28
+Hammer,f,5,"Jones, Lauren",SR-4,Oklahoma,69.66m,False,Sooner Invitational,2022-04-15
+Javelin,m,1,"Dabbs, Ethan",JR-3,Virginia,82.92m,False,ACC Outdoor Track & Field Championships,2022-05-12
+Javelin,m,2,"Nnamdi , Chinecherem Prosper",FR-1,Baylor,81.07m,False,Michael Johnson Invitational,2022-04-22
+Javelin,m,3,"Petersen, Arthur",SO-2,UT-Arlington,79.90m,False,Michael Johnson Invitational,2022-04-22
+Javelin,m,4,"Minichello, Marc",SO-2,Penn,77.42m,False,Penn Relays,2022-04-28
+Javelin,m,5,"Pedigo, Tzuriel",SO-2,LSU,77.34m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Javelin,f,1,"Riner, Ashton",SR-4,BYU,60.36m,False,2022 BYU Robison Invitational,2022-04-20
+Javelin,f,2,"Wiltrout, Madison",JR-3,North Carolina,60.03m,False,ACC Outdoor Track & Field Championships,2022-05-12
+Javelin,f,3,"Harris, Maddie",SO-2,Nebraska,57.90m,False,Big Ten Outdoor Track & Field Championships,2022-05-13
+Javelin,f,4,"McCarrell, Keira",SR-4,Auburn,56.56m,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23
+Javelin,f,5,"Otabor, Rhema",SO-2,FIU,56.25m,False,UF Tom Jones Memorial,2022-04-15
+Heptathlon,f,1,"Hall, Anna",SO-2,Florida,6458,False,USATF Combined Events Championships,2022-05-06
+Heptathlon,f,2,"Blazevica, Kristine",SO-2,Texas,6064,False,Big 12 Championships,2022-05-13
+Heptathlon,f,3,"Marsh, Erin",SR-4,Duke,5946,False,ACC Outdoor Track & Field Championships,2022-05-12
+Heptathlon,f,4,"Eikeng, Ida",JR-3,Washington,5916,False,62nd Annual Mt. SAC Relays (Collegiate),2022-04-13
+Heptathlon,f,5,"Jones, Callie",SR-4,Texas Tech,5864,False,Big 12 Championships,2022-05-13
+Decathlon,m,1,"Garland, Kyle",SO-2,Georgia,8720,False,USATF Combined Events Championships,2022-05-06
+Decathlon,m,2,"Owens, Ayden",JR-3,Arkansas,8528,False,62nd Annual Mt. SAC Relays (Collegiate),2022-04-13
+Decathlon,m,3,"West, Austin",SO-2,Iowa,8179,False,62nd Annual Mt. SAC Relays (Collegiate),2022-04-13
+Decathlon,m,4,"Erm, Johannes",SR-4,Georgia,8132,False,SEC Outdoor Track & Field Championships,2022-05-12
+Decathlon,m,5,"Neugebauer , Leo",SO-2,Texas,8131,False,2022 94th Clyde Littlefield Texas Relays,2022-03-23

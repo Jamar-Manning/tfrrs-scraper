@@ -1,0 +1,155 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+60 Meters,m,1,"Coleman, Christian",JR-3,Tennessee,6.51,False,Doc Hale VT Elite,2017-02-03
+60 Meters,m,1,"Williams, Kendal",SO-2,Georgia,6.51,False,Clemson Last Chance Indoor Invitational,2017-02-17
+60 Meters,m,3,"Carnes, Brandon",SR-4,Northern Iowa,6.59,False,Larry Wieczorek Invitational,2017-01-20
+60 Meters,m,3,"Burrell, Cameron",SR-4,Houston,6.59,False,The American Indoor Track & Field Championships,2017-02-24
+60 Meters,m,3,"Scott, Rafael",JR-3,South Alabama,6.59,False,Vanderbilt Invitational,2017-01-20
+60 Meters,m,3,"Haraway, Darryl",SO-2,Florida State,6.59,False,Tyson Invitational,2017-02-10
+60 Meters,m,3,"Givans, Senoj-Jay",SR-4,Texas,6.59,False,Big 12 Indoor Track & Field Championships,2017-02-24
+60 Meters,m,3,"Burke, Mario",SO-2,Houston,6.59,False,The American Indoor Track & Field Championships,2017-02-24
+60 Meters,f,1,"Cunliffe, Hannah",JR-3,Oregon,7.09,True,New Mexico Don Kirby Invitational,2017-02-10
+60 Meters,f,2,"Oliver, Javianne",SR-4,Kentucky,7.18,False,2017 Rod McCravy Memorial T&F Meet,2017-01-20
+60 Meters,f,2,"Hobbs, Aleia",JR-3,LSU,7.18,False,SEC Championships,2017-02-24
+60 Meters,f,4,"Brisco, Mikiah",JR-3,LSU,7.19,False,Razorback Invitational,2017-01-27
+60 Meters,f,4,"Henderson, Ashley",JR-3,San Diego St.,7.19,True,2017 Mountain West Indoor Track & Field Championships,2017-02-23
+200 Meters,m,1,"Richards, Jereem",JR-3,Alabama,20.34,False,SEC Championships,2017-02-24
+200 Meters,m,2,"Coleman, Christian",JR-3,Tennessee,20.46,False,Clemson Tiger Paw Indoor,2017-02-10
+200 Meters,m,3,"Thymes, Just'N",SR-4,USC,20.47,False,Tyson Invitational,2017-02-10
+200 Meters,m,4,"Mitchell-Blake, Nethaneel",SR-4,LSU,20.49,False,Tyson Invitational,2017-02-10
+200 Meters,m,5,"Williams, Cameron",SR-4,Boston U.,20.57,False,Patriot League Indoor Track & Field Championships,2017-02-17
+200 Meters,f,1,"Stevens, Deajah",SO-2,Oregon,22.65,False,Columbia East-West Challenge,2017-01-27
+200 Meters,f,2,"Cunliffe, Hannah",JR-3,Oregon,22.67,True,New Mexico Don Kirby Invitational,2017-02-10
+200 Meters,f,3,"Hill, Deanna",JR-3,USC,22.74,False,Tyson Invitational,2017-02-10
+200 Meters,f,4,"Brown, Brittany",JR-3,Iowa,22.79,False,Big Ten Indoor Track and Field Championships,2017-02-24
+200 Meters,f,5,"Wimbley, Shakima",SR-4,Miami,22.83,False,ACC Championships,2017-02-23
+400 Meters,m,1,"Kerley, Fred",SR-4,Texas A&M,44.94,False,SEC Championships,2017-02-24
+400 Meters,m,2,"Brown, Izaiah",SO-2,Rutgers,45.32,False,Big Ten Indoor Track and Field Championships,2017-02-24
+400 Meters,m,3,"Bloomfield, Akeem",FR-1,Auburn,45.43,False,SEC Championships,2017-02-24
+400 Meters,m,4,"Igbokwe, Obi",SO-2,Arkansas,45.73,False,SEC Championships,2017-02-24
+400 Meters,m,5,"Kerley, Mylik",JR-3,Texas A&M,45.75,False,SEC Championships,2017-02-24
+400 Meters,m,5,"Harris, Mar'yea",SO-2,Iowa,45.75,False,Big Ten Indoor Track and Field Championships,2017-02-24
+400 Meters,f,1,"Wimbley, Shakima",SR-4,Miami,51.20,False,ACC Championships,2017-02-23
+400 Meters,f,2,"Ellis, Kendall",JR-3,USC,51.52,False,2017 Rod McCravy Memorial T&F Meet,2017-01-20
+400 Meters,f,3,"Gordon, Chrisann",SR-4,Texas,51.71,False,Tyson Invitational,2017-02-10
+400 Meters,f,4,"Harper, Daina",SR-4,Arkansas,51.77,False,SEC Championships,2017-02-24
+400 Meters,f,5,"Barnett, Sharrika",SO-2,Florida,52.07,False,Razorback Invitational,2017-01-27
+800 Meters,m,1,"Korir, Emmanuel",FR-1,UTEP,1:46.15,True,New Mexico Classic,2017-02-03
+800 Meters,m,2,"Joseph, Patrick",JR-3,Virginia Tech,1:46.23,False,ACC Championships,2017-02-23
+800 Meters,m,3,"Saruni, Michael",FR-1,UTEP,1:46.30,True,New Mexico Classic,2017-02-03
+800 Meters,m,4,"Kuhn, Daniel",JR-3,Indiana,1:46.42,False,2017 Meyo Invitational,2017-02-03
+800 Meters,m,4,"Piazza, Drew",SR-4,Virginia Tech,1:46.42,False,ACC Championships,2017-02-23
+800 Meters,f,1,"Fray, Jazmine",SO-2,Texas A&M,2:00.69,False,Clemson Tiger Paw Indoor,2017-02-10
+800 Meters,f,2,"Collinsworth, Shea",SR-4,BYU,2:01.42,False,Iowa State Classic,2017-02-10
+800 Meters,f,3,"Rogers, Raevyn",JR-3,Oregon,2:01.75,False,Columbia East-West Challenge,2017-01-27
+800 Meters,f,4,"Green, Hanna",SR-4,Virginia Tech,2:01.91,True,Camel City Invitational,2017-02-03
+800 Meters,f,5,"Miller, Aaliyah",FR-1,Baylor,2:02.89,False,Iowa State Classic,2017-02-10
+Mile,m,1,"Cheserek, Edward",SR-4,Oregon,3:52.01,False,BU Last Chance 2017,2017-02-26
+Mile,m,2,"Saarel, Ben",SR-4,Colorado,3:55.60,True,Colorado Open,2017-02-02
+Mile,m,3,"Klecker, Joe",SO-2,Colorado,3:55.82,True,Colorado Open,2017-02-02
+Mile,m,4,"Perrin, Zach",JR-3,Colorado,3:56.36,True,Colorado Open,2017-02-02
+Mile,m,5,"Thompson, Joshua",SR-4,Oklahoma State,3:56.89,False,2017 Husky Classic,2017-02-10
+Mile,f,1,"Edwards, Kaela",SR-4,Oklahoma State,4:28.75,False,110th NYRR Millrose Games,2017-02-11
+Mile,f,2,"Purrier, Elinor",JR-3,New Hampshire,4:29.44,False,110th NYRR Millrose Games,2017-02-11
+Mile,f,3,"Rivers, Danae",FR-1,Penn State,4:32.55,False,2017 Husky Classic,2017-02-10
+Mile,f,4,"Jones, Dani",SO-2,Colorado,4:32.68,True,Colorado Open,2017-02-02
+Mile,f,5,"Cleirigh Buttner, Siofra",JR-3,Villanova,4:33.16,False,Fastrack National Invite,2017-02-10
+3000 Meters,m,1,"Gilbert, Colby",JR-3,Washington,7:45.71,False,2017 UW Invitational,2017-01-27
+3000 Meters,m,2,"Cheserek, Edward",SR-4,Oregon,7:46.85,False,Columbia East-West Challenge,2017-01-27
+3000 Meters,m,3,"Scott, Marc",SR-4,Tulsa,7:47.57,False,Iowa State Classic,2017-02-10
+3000 Meters,m,4,"Knight, Justyn",SO-2,Syracuse,7:47.82,False,Iowa State Classic,2017-02-10
+3000 Meters,m,5,"Young, Clayton",SO-2,BYU,7:49.76,False,2017 UW Invitational,2017-01-27
+3000 Meters,f,1,"Rainsberger, Katie",FR-1,Oregon,9:01.21,False,2017 Husky Classic,2017-02-10
+3000 Meters,f,2,"Buchalski, Allie",JR-3,Furman,9:02.04,True,Camel City Invitational,2017-02-03
+3000 Meters,f,3,"Jones, Dani",SO-2,Colorado,9:02.22,False,2017 Husky Classic,2017-02-10
+3000 Meters,f,4,"Receveur, Katherine",SO-2,Indiana,9:03.71,False,2017 Meyo Invitational,2017-02-03
+3000 Meters,f,5,"Fraser, Vanessa",JR-3,Stanford,9:04.78,False,2017 Husky Classic,2017-02-10
+5000 Meters,m,1,"Cheserek, Edward",SR-4,Oregon,13:32.59,False,2017 Husky Classic,2017-02-10
+5000 Meters,m,2,"Gilbert, Colby",JR-3,Washington,13:34.85,False,2017 Husky Classic,2017-02-10
+5000 Meters,m,3,"Scott, Marc",SR-4,Tulsa,13:38.87,False,2016 Hoosier Open,2016-12-09
+5000 Meters,m,4,"Peterson, Erik",SR-4,Butler,13:40.90,False,2017 Husky Classic,2017-02-10
+5000 Meters,m,5,"Dressel, John",SO-2,Colorado,13:42.57,False,2017 Husky Classic,2017-02-10
+5000 Meters,f,1,"Receveur, Katherine",SO-2,Indiana,15:28.89,False,Big Ten Indoor Track and Field Championships,2017-02-24
+5000 Meters,f,2,"Barrett, Tessa",SO-2,Penn State,15:28.99,False,Big Ten Indoor Track and Field Championships,2017-02-24
+5000 Meters,f,3,"Finn, Erin",JR-3,Michigan,15:32.45,False,Big Ten Indoor Track and Field Championships,2017-02-24
+5000 Meters,f,4,"Schweizer, Karissa",JR-3,Missouri,15:37.40,False,Boston University Season Opener,2016-12-03
+5000 Meters,f,5,"Rohrer, Anna",SO-2,Notre Dame,15:38.11,False,ACC Championships,2017-02-23
+60 Hurdles,m,1,"Holloway, Grant",FR-1,Florida,7.58,False,Tyson Invitational,2017-02-10
+60 Hurdles,m,2,"Zallow, Chad",SO-2,Youngstown St.,7.61,False,Horizon League Indoor Track & Field Championships,2017-02-25
+60 Hurdles,m,3,"Mallett, Aaron",SR-4,Iowa,7.63,False,Big Ten Indoor Track and Field Championships,2017-02-24
+60 Hurdles,m,3,"Dickson, Michael",SO-2,N. Carolina A&T,7.63,False,Camel City Invitational,2017-02-03
+60 Hurdles,m,5,"Crittenden, Freddie III",SR-4,Syracuse,7.65,False,ACC Championships,2017-02-23
+60 Hurdles,f,1,"Wallace, Sasha",SR-4,Oregon,7.91,False,Columbia East-West Challenge,2017-01-27
+60 Hurdles,f,2,"Charlton, Devynne",SR-4,Purdue,7.97,False,Big Ten Indoor Track and Field Championships,2017-02-24
+60 Hurdles,f,3,"Seymour, Pedrya",SO-2,Illinois,7.98,False,2017 Rod McCravy Memorial T&F Meet,2017-01-20
+60 Hurdles,f,3,"Brisco, Mikiah",JR-3,LSU,7.98,False,Tyson Invitational,2017-02-10
+60 Hurdles,f,5,"Amusan, Tobi",SO-2,UTEP,8.00,True,New Mexico Don Kirby Invitational,2017-02-10
+High Jump,m,1,"Cunningham, Randall",JR-3,USC,2.27m,False,MPSF Indoor Track & Field Championships,2017-02-24
+High Jump,m,2,"Brown, Clayton",FR-1,Florida,2.25m,False,Clemson Orange and Purple Indoor,2017-01-07
+High Jump,m,2,"Landon, Kyle",SR-4,Southern Illinois,2.25m,False,2017 MVC Indoor Track & Field Championships,2017-02-25
+High Jump,m,4,"Bryan, Christoff",JR-3,Kansas State,2.24m,False,Big 12 Indoor Track & Field Championships,2017-02-24
+High Jump,m,5,"Culver, Trey",JR-3,Texas Tech,2.23m,False,New Mexico Classic,2017-02-03
+High Jump,f,1,"Fagan, Madeline",JR-3,Georgia,1.90m,False,Texas A&M Aggie Invitational,2017-01-21
+High Jump,f,1,"Gusin, Tatiana",SR-4,Georgia,1.90m,False,Clemson Orange and Purple Indoor,2017-01-07
+High Jump,f,3,"Omoregie, Eleonora",FR-1,Florida State,1.88m,False,ACC Championships,2017-02-23
+High Jump,f,4,"Williamson, Kimberly",SR-4,Kansas State,1.87m,False,Kansas State DeLoss Dodds Invitational,2017-01-20
+High Jump,f,4,"Spires, Shelley",JR-3,Air Force,1.87m,False,Air Force Invitational,2017-01-19
+Pole Vault,m,1,"Nilsen, Chris",FR-1,South Dakota,5.70m,False,Tyson Invitational,2017-02-10
+Pole Vault,m,2,"Volz, Deakin",SO-2,Virginia Tech,5.66m,False,Virginia Tech Challenge,2017-02-17
+Pole Vault,m,3,"Pater, Kyle",SR-4,Air Force,5.65m,False,2017 Mountain West Indoor Track & Field Championships,2017-02-23
+Pole Vault,m,4,"Valles, Adrian",JR-3,Cincinnati,5.60m,False,The American Indoor Track & Field Championships,2017-02-24
+Pole Vault,m,5,"Laidig, Torben",JR-3,Virginia Tech,5.55m,False,ACC Championships,2017-02-23
+Pole Vault,f,1,"Weeks, Alexis",SO-2,Arkansas,4.60m,False,Arkansas Qualifier,2017-02-17
+Pole Vault,f,2,"Weeks, Victoria",SO-2,Arkansas,4.57m,False,SEC Championships,2017-02-24
+Pole Vault,f,3,"Gruver, Olivia",SO-2,Kentucky,4.49m,False,SEC Championships,2017-02-24
+Pole Vault,f,4,"Long, Kally",JR-3,Texas,4.42m,False,Texas A&M Team Invitational,2017-01-13
+Pole Vault,f,5,"Rhodes, Annie",SR-4,Baylor,4.40m,False,2017 Rod McCravy Memorial T&F Meet,2017-01-20
+Long Jump,m,1,"Harvey, Julian",SR-4,SIU Edwardsville,8.17m,False,Ohio Valley Conference Championships,2017-02-24
+Long Jump,m,2,"Holloway, Grant",FR-1,Florida,8.05m,False,Hokie Invitational,2017-01-19
+Long Jump,m,3,"Bates, KeAndre",JR-3,Florida,8.04m,False,SEC Championships,2017-02-24
+Long Jump,m,4,"Simpson, Damarcus",JR-3,Oregon,8.01m,False,Columbia East-West Challenge,2017-01-27
+Long Jump,m,5,"White, Travonn",JR-3,Arkansas,7.93m,False,SEC Championships,2017-02-24
+Long Jump,f,1,"Saunders, Sha'Keela",SR-4,Kentucky,6.82m,False,SEC Championships,2017-02-24
+Long Jump,f,2,"Burks, Quanesha",SR-4,Alabama,6.76m,False,SEC Championships,2017-02-24
+Long Jump,f,3,"Orji, Keturah",JR-3,Georgia,6.72m,False,SEC Championships,2017-02-24
+Long Jump,f,4,"Luque, Jhoanmy",JR-3,Iowa State,6.53m,False,Big 12 Indoor Track & Field Championships,2017-02-24
+Long Jump,f,5,"Williams, Kendell",SR-4,Georgia,6.52m,False,Texas A&M Aggie Invitational,2017-01-21
+Triple Jump,m,1,"Pullen, Clive",SR-4,Arkansas,17.19m,False,Tyson Invitational,2017-02-10
+Triple Jump,m,2,"Bates, KeAndre",JR-3,Florida,16.81m,False,SEC Championships,2017-02-24
+Triple Jump,m,3,"Brown, Clayton",FR-1,Florida,16.58m,False,SEC Championships,2017-02-24
+Triple Jump,m,4,"McClain, Hayden",SR-4,Oklahoma,16.56m,False,Tyson Invitational,2017-02-10
+Triple Jump,m,5,"Wasome, O'Brien",FR-1,Texas,16.38m,False,Big 12 Indoor Track & Field Championships,2017-02-24
+Triple Jump,f,1,"Orji, Keturah",JR-3,Georgia,14.32m,False,SEC Championships,2017-02-24
+Triple Jump,f,2,"David, Yanis",SO-2,Florida,13.93m,False,Tyson Invitational,2017-02-10
+Triple Jump,f,3,"Lawrence, Shardia",SO-2,Kansas State,13.75m,False,Tyson Invitational,2017-02-10
+Triple Jump,f,4,"Luque, Jhoanmy",JR-3,Iowa State,13.65m,False,Big 12 Indoor Track & Field Championships,2017-02-24
+Triple Jump,f,5,"Charley, Simone",SR-4,Vanderbilt,13.54m,False,SEC Championships,2017-02-24
+Shot Put,m,1,"Hassan, Mostafa",JR-3,Colorado St.,21.30m,False,2017 Mountain West Indoor Track & Field Championships,2017-02-23
+Shot Put,m,2,"Kern, Jared",JR-3,Southern Illinois,20.47m,False,Music City Challenge,2017-02-10
+Shot Put,m,3,"Mihaljevic, Filip",JR-3,Virginia,19.97m,False,ACC Championships,2017-02-23
+Shot Put,m,4,"Ceban, Nicolai",JR-3,Kansas,19.85m,False,2017 Jayhawk Classic,2017-01-26
+Shot Put,m,5,"Ogundeji, Dotun",SO-2,UCLA,19.80m,False,MPSF Indoor Track & Field Championships,2017-02-24
+Shot Put,f,1,"Saunders, Raven",JR-3,Ole Miss,19.10m,False,Vanderbilt Commodore Invite,2017-01-13
+Shot Put,f,2,"Thomas, Danniel",FR-1,Kent State,18.32m,False,Kent State Tune-Up,2017-02-18
+Shot Put,f,3,"Ewen, Maggie",JR-3,Arizona State,18.12m,False,New Mexico Don Kirby Invitational,2017-02-10
+Shot Put,f,4,"Farmer, Erin",SR-4,Arkansas State,17.80m,False,2017 Gladstein Invitational,2017-01-20
+Shot Put,f,5,"Woodard, Jessica",JR-3,Oklahoma,17.48m,False,J.D. Martin Invitational,2017-01-27
+Weight Throw,m,1,"Jackson, Johnnie",SR-4,LSU,23.56m,False,Auburn Invitational,2017-01-21
+Weight Throw,m,2,"Dudarev, Gleb",FR-1,Kansas,23.44m,False,Tyson Invitational,2017-02-10
+Weight Throw,m,3,"Winkler, Rudy",SR-4,Cornell,23.32m,False,Sykes & Sabock Challenge Cup,2017-02-03
+Weight Throw,m,4,"Cartwright, Grant",JR-3,Michigan,23.31m,False,Big Ten Indoor Track and Field Championships,2017-02-24
+Weight Throw,m,5,"Haugh, Daniel",JR-3,Alabama,23.06m,False,SEC Championships,2017-02-24
+Weight Throw,f,1,"Stewart, Janeah",JR-3,Ole Miss,23.18m,False,SEC Championships,2017-02-24
+Weight Throw,f,2,"Echikunwoke, Annette",JR-3,Cincinnati,22.69m,False,The American Indoor Track & Field Championships,2017-02-24
+Weight Throw,f,3,"Wells, LaPorscha",SR-4,Georgia State,22.53m,False,Emory Crossplex Invitational,2017-01-22
+Weight Throw,f,4,"Nyemah, Dolly",SR-4,Louisville,22.01m,False,ACC Championships,2017-02-23
+Weight Throw,f,5,"Kassanavoid, Janee'",SR-4,Kansas State,21.81m,False,KSU Steve Miller Open,2017-02-17
+Pentathlon,f,1,"Williams, Kendell",SR-4,Georgia,4686,False,SEC Championships,2017-02-24
+Pentathlon,f,2,"Brooks, Taliyah",JR-3,Arkansas,4450,False,SEC Championships,2017-02-24
+Pentathlon,f,3,"Brown, Leigha",SR-4,Arkansas,4379,False,SEC Championships,2017-02-24
+Pentathlon,f,4,"Atherley, Michelle",SO-2,Miami,4281,False,ACC Championships,2017-02-23
+Pentathlon,f,5,"Herman, Kelsey",SO-2,Arkansas,4278,False,Razorback Invitational,2017-01-27
+Heptathlon,m,1,"Wieland, Luca",SR-4,Minnesota,6089,False,SDSU Holiday Open and Multi,2016-12-02
+Heptathlon,m,2,"Williams, Devon",SR-4,Georgia,6047,False,SEC Championships,2017-02-24
+Heptathlon,m,3,"Duckworth, Tim",JR-3,Kentucky,6006,False,42nd Annual Frank Sevigne Husker Invitational,2017-02-03
+Heptathlon,m,4,"Price, Hunter",JR-3,Colorado St.,5945 h,False,Mines Alumni Classic & Multi,2016-12-08
+Heptathlon,m,5,"Victor, Lindon",SR-4,Texas A&M,5851,False,SEC Championships,2017-02-24

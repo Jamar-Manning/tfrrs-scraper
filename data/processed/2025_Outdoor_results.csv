@@ -1,0 +1,194 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+100 Meters,m,1,"Anthony, Jordan",SO-2,Arkansas,9.75,False,NCAA Division I West First Round,2025-05-28
+100 Meters,m,2,"Saminu, Abdul-Rasheed",SR-4,South Florida,9.86,False,NCAA Division I East First Round,2025-05-28
+100 Meters,m,3,"Okon, Israel",FR-1,Auburn,9.91,False,LSU Invitational,2025-05-03
+100 Meters,m,3,"Banks, Taylor",SR-4,USC,9.91,False,NCAA Division I West First Round,2025-05-28
+100 Meters,m,5,"Thomas, Max",JR-3,USC,9.92,False,2025 Texas A&M 44 Farms Team Invitational,2025-04-11
+100 Meters,f,1,"Mayberry, Indya",FR-1,TCU,10.91,False,2025 97th Clyde Littlefield Texas Relays,2025-03-26
+100 Meters,f,1,"Godbless, Tima",SO-2,LSU,10.91,False,NCAA Division I East First Round,2025-05-28
+100 Meters,f,3,"Bertrand, Leah",SR-4,Ohio State,10.92,False,NCAA Division I East First Round,2025-05-28
+100 Meters,f,4,"Walker, Shenese",JR-3,Florida State,10.98,False,NCAA Division I East First Round,2025-05-28
+100 Meters,f,5,"Defrand, Dajaz",JR-3,USC,11.00,False,NCAA Division I West First Round,2025-05-28
+100 Meters,f,5,"Ford, JaMeesia",SO-2,South Carolina,11.00,False,NCAA Division I East First Round,2025-05-28
+100 Meters,f,5,"Jackson, Kaila",JR-3,Georgia,11.00,False,NCAA Division I East First Round,2025-05-28
+200 Meters,m,1,"Charamba, Makanakaishe",SR-4,Auburn,19.79,False,NCAA Division I East First Round,2025-05-28
+200 Meters,m,2,"McCallum, T'Mars",JR-3,Tennessee,19.83,False,NCAA Division I East First Round,2025-05-28
+200 Meters,m,3,"Kaalund, Garrett",JR-3,USC,19.85,False,NCAA Division I West First Round,2025-05-28
+200 Meters,m,4,"Makarawu, Carli",JR-3,Kentucky,19.92,False,NCAA Division I East First Round,2025-05-28
+200 Meters,m,5,"Anthony, Jordan",SO-2,Arkansas,19.93,False,SEC Outdoor Track & Field Championships,2025-05-15
+200 Meters,f,1,"Ford, JaMeesia",SO-2,South Carolina,22.01,False,SEC Outdoor Track & Field Championships,2025-05-15
+200 Meters,f,2,"Whyte, Madison",SO-2,USC,22.16,False,NCAA Division I West First Round,2025-05-28
+200 Meters,f,3,"Montgomery, Jasmine",JR-3,Texas A&M,22.17,False,2025 Texas A&M Alumni Muster Invitational,2025-05-03
+200 Meters,f,4,"Mayberry, Indya",FR-1,TCU,22.30,False,NCAA Division I West First Round,2025-05-28
+200 Meters,f,5,"Defrand, Dajaz",JR-3,USC,22.33,False,NCAA Division I West First Round,2025-05-28
+400 Meters,m,1,"Danzy, Micahi",FR-1,Florida State,44.38,False,ACC Outdoor Track & Field Championships,2025-05-15
+400 Meters,m,2,"Ogazi, Samuel",SO-2,Alabama,44.43,False,NCAA Division I East First Round,2025-05-28
+400 Meters,m,3,"Robinson, Auhmad",SR-4,Texas A&M,44.61,False,Florida Relays,2025-04-04
+400 Meters,m,4,"Kaalund, Garrett",JR-3,USC,44.73,False,USC vs UCLA,2025-05-04
+400 Meters,m,5,"Ezekiel, Nathaniel",SR-4,Baylor,44.75,False,UCF Knights Invite,2025-04-25
+400 Meters,f,1,"Butler, Aaliyah",JR-3,Georgia,49.44,False,Tom Jones Invitational,2025-04-18
+400 Meters,f,2,"Maisvorewa, Vimbayi",SR-4,Auburn,50.25,False,Tom Jones Invitational,2025-04-18
+400 Meters,f,3,"Brown, Kaylyn",SO-2,Arkansas,50.35,False,LSU Invitational,2025-05-03
+400 Meters,f,3,"Oakley, Dejanea",JR-3,Georgia,50.35,False,Tom Jones Invitational,2025-04-18
+400 Meters,f,5,"Ford, JaMeesia",SO-2,South Carolina,50.43,False,Florida Relays,2025-04-04
+800 Meters,m,1,"Jackson, Christian",JR-3,Virginia Tech,1:44.83,False,ACC Outdoor Track & Field Championships,2025-05-15
+800 Meters,m,2,"Matsatsa, Tinoda",SO-2,Georgetown,1:45.04,False,Florida Relays,2025-04-04
+800 Meters,m,3,"Kweyei, Brian",SO-2,Clemson,1:45.09,False,ACC Outdoor Track & Field Championships,2025-05-15
+800 Meters,m,4,"Roban, Handal",JR-3,Penn State,1:45.16,False,Florida Relays,2025-04-04
+800 Meters,m,5,"Whitmarsh, Sam",SR-4,Texas A&M,1:45.35,False,SEC Outdoor Track & Field Championships,2025-05-15
+800 Meters,f,1,"Rose, Michaela",SR-4,LSU,1:58.12,False,LSU Invitational,2025-05-03
+800 Meters,f,2,"Hunter, Meghan",SR-4,BYU,1:58.95,False,NCAA Division I West First Round,2025-05-28
+800 Meters,f,3,"Kolbe, Smilla",SR-4,North Florida,1:59.02,False,East Coast Relays,2025-05-02
+800 Meters,f,4,"Chepngetich, Gladys",SO-2,Clemson,1:59.47,False,NCAA Division I East First Round,2025-05-28
+800 Meters,f,5,"Bossong, Victoria",SR-4,Harvard,1:59.48,False,Tom Jones Invitational,2025-04-18
+1500 Meters,m,1,"Murphy, Liam",SR-4,Villanova,3:33.02,False,Raleigh Relays,2025-03-27
+1500 Meters,m,2,"Strand, Ethan",JR-3,North Carolina,3:33.22,False,Duke Twilight,2025-05-04
+1500 Meters,m,3,"Langon, Marco",JR-3,Villanova,3:33.38,False,Raleigh Relays,2025-03-27
+1500 Meters,m,4,"Martin, Gary",JR-3,Virginia,3:33.71,False,Raleigh Relays,2025-03-27
+1500 Meters,m,5,"Teffra, Abel",SR-4,Georgetown,3:33.84,False,Duke Twilight,2025-05-04
+1500 Meters,f,1,"Flockhart, Shannon",SR-4,Providence,4:04.97,False,NCAA Division I East First Round,2025-05-28
+1500 Meters,f,2,"El Arfaoui, Bahiya",SO-2,Eastern Kentucky,4:05.20,False,NCAA Division I East First Round,2025-05-28
+1500 Meters,f,3,"Appleton, Margot",SR-4,Virginia,4:05.68,False,Raleigh Relays,2025-03-27
+1500 Meters,f,3,"Jelelgo, Silvia",SO-2,Clemson,4:05.68,False,NCAA Division I East First Round,2025-05-28
+1500 Meters,f,5,"Congdon, Maggi",SR-4,Northern Arizona,4:05.73,False,NCAA Division I West First Round,2025-05-28
+5000 Meters,m,1,"Samuel, Habtom",SO-2,New Mexico,13:05.87,False,2025 Bryan Clay Invitational,2025-04-16
+5000 Meters,m,2,"Kipkurui, Ishmael",FR-1,New Mexico,13:09.24,False,2025 Bryan Clay Invitational,2025-04-16
+5000 Meters,m,3,"Soca, Valentin",JR-3,CBU,13:13.10,False,2025 Bryan Clay Invitational,2025-04-16
+5000 Meters,m,4,"Wolfe, Parker",SR-4,North Carolina,13:13.49,False,ACC Outdoor Track & Field Championships,2025-05-15
+5000 Meters,m,5,"Kurui, Evans",SO-2,Washington St.,13:16.01,False,2025 Bryan Clay Invitational,2025-04-16
+5000 Meters,f,1,"Kosgei, Pamela",FR-1,New Mexico,14:52.45,False,2025 Bryan Clay Invitational,2025-04-16
+5000 Meters,f,2,"Halladay-Lowry, Lexy",SR-4,BYU,14:52.93,False,2025 Bryan Clay Invitational,2025-04-16
+5000 Meters,f,3,"Hartman, Grace",JR-3,NC State,14:58.11,False,Duke Twilight,2025-05-04
+5000 Meters,f,4,"Olemomoi, Hilda",JR-3,Florida,15:04.65,False,2025 Bryan Clay Invitational,2025-04-16
+5000 Meters,f,5,"Scrimgeour, Chloe",SR-4,Georgetown,15:05.40,False,2025 Bryan Clay Invitational,2025-04-16
+"10,000 Meters",m,1,"Kurui, Evans",SO-2,Washington St.,27:37.32,False,Stanford Invitational,2025-04-04
+"10,000 Meters",m,2,"Samuel, Habtom",SO-2,New Mexico,27:38.51,True,Don Kirby Tailwind Twilight,2025-04-25
+"10,000 Meters",m,3,"Kipkurui, Ishmael",FR-1,New Mexico,27:43.66,True,Don Kirby Tailwind Twilight,2025-04-25
+"10,000 Meters",m,4,"Schubert, Dylan",SR-4,Furman,27:45.63,False,2025 Bryan Clay Invitational,2025-04-16
+"10,000 Meters",m,5,"Cheruiyot, Ernest",SO-2,Texas Tech,27:45.65,False,2025 Bryan Clay Invitational,2025-04-16
+"10,000 Meters",f,1,"Kosgei, Pamela",FR-1,New Mexico,30:55.37,True,Don Kirby Tailwind Twilight,2025-04-25
+"10,000 Meters",f,2,"Hartman, Grace",JR-3,NC State,31:20.60,False,Raleigh Relays,2025-03-27
+"10,000 Meters",f,3,"Cherotich, Diana",FR-1,Oregon,31:45.22,False,Stanford Invitational,2025-04-04
+"10,000 Meters",f,4,"Noe, Paityn",SO-2,Arkansas,31:59.22,False,Stanford Invitational,2025-04-04
+"10,000 Meters",f,5,"Cherubet, Juliet",SO-2,Oregon,32:02.78,False,Stanford Invitational,2025-04-04
+100 Hurdles,f,1,"Harris, Habiba",FR-1,Florida,12.62,False,SEC Outdoor Track & Field Championships,2025-05-15
+100 Hurdles,f,2,"McCormick, Aaliyah",JR-3,Oregon,12.74,False,NCAA Division I West First Round,2025-05-28
+100 Hurdles,f,3,"Garrett, Akala",SO-2,Texas,12.75,False,2025 97th Clyde Littlefield Texas Relays,2025-03-26
+100 Hurdles,f,4,"Sey, Marcia",JR-3,Howard,12.76,False,2025 97th Clyde Littlefield Texas Relays,2025-03-26
+100 Hurdles,f,5,"Covington, Jaiya",JR-3,Texas A&M,12.77,False,2025 Texas A&M 44 Farms Team Invitational,2025-04-11
+110 Hurdles,m,1,"Smallwood, Kendrick",JR-3,Texas,13.07,False,2025 97th Clyde Littlefield Texas Relays,2025-03-26
+110 Hurdles,m,2,"Marshall Jr., Jamar",SR-4,Houston,13.13,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+110 Hurdles,m,3,"Tharp, Ja'Kobe",SO-2,Auburn,13.14,False,NCAA Division I East First Round,2025-05-28
+110 Hurdles,m,4,"Scott, Ja'Qualon",SR-4,Texas A&M,13.16,False,NCAA Division I West First Round,2025-05-28
+110 Hurdles,m,5,"Extine, Zachary",JR-3,Arizona,13.17,False,2025 Desert Heat Classic,2025-05-03
+400 Hurdles,m,1,"Ezekiel, Nathaniel",SR-4,Baylor,47.89,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+400 Hurdles,m,2,"Hinti, Saad",FR-1,Tennessee,48.44,False,SEC Outdoor Track & Field Championships,2025-05-15
+400 Hurdles,m,3,"Williams, Jevon",SR-4,Tennessee,48.77,False,Tom Jones Invitational,2025-04-18
+400 Hurdles,m,4,"Blackwood, Kody",JR-3,Texas,48.78,False,SEC Outdoor Track & Field Championships,2025-05-15
+400 Hurdles,m,5,"Scott, Ja'Qualon",SR-4,Texas A&M,48.85,False,SEC Outdoor Track & Field Championships,2025-05-15
+400 Hurdles,f,1,"Sutherland, Savannah",SR-4,Michigan,53.46,False,Tom Jones Invitational,2025-04-18
+400 Hurdles,f,2,"Glenn, Rachel",SR-4,Arkansas,53.48,False,Tom Jones Invitational,2025-04-18
+400 Hurdles,f,3,"Garrett, Akala",SO-2,Texas,53.73,False,Tom Jones Invitational,2025-04-18
+400 Hurdles,f,4,"Smith, Michelle",FR-1,Georgia,54.56,False,Florida Relays,2025-04-04
+400 Hurdles,f,5,"Hebron, Sanaa",SO-2,Miami (Fla.),55.21,False,ACC Outdoor Track & Field Championships,2025-05-15
+3000 Steeplechase,m,1,"Kirwa, Geoffrey",FR-1,Louisville,8:13.89,False,2025 Bryan Clay Invitational,2025-04-16
+3000 Steeplechase,m,2,"Kosgei, Mathew",FR-1,New Mexico,8:22.13,False,Stanford Invitational,2025-04-04
+3000 Steeplechase,m,3,"Corrigan, James",JR-3,BYU,8:22.20,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+3000 Steeplechase,m,4,"Kiprop Kipngok, Collins",FR-1,Kentucky,8:22.67,False,Stanford Invitational,2025-04-04
+3000 Steeplechase,m,5,"Ruto, Joash",FR-1,Iowa State,8:25.42,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+3000 Steeplechase,f,1,"Lemngole, Doris",SO-2,Alabama,9:10.13,False,Wake Forest Invitational 2025,2025-04-17
+3000 Steeplechase,f,2,"Kosgei, Pamela",FR-1,New Mexico,9:15.93,False,Stanford Invitational,2025-04-04
+3000 Steeplechase,f,3,"Halladay-Lowry, Lexy",SR-4,BYU,9:18.05,False,Payton Jordan Invitational,2025-04-25
+3000 Steeplechase,f,4,"Napoleon, Angelina",SO-2,NC State,9:27.85,False,ACC Outdoor Track & Field Championships,2025-05-15
+3000 Steeplechase,f,5,"Jeruto, Leah",FR-1,Oklahoma,9:34.71,False,2025 Bryan Clay Invitational,2025-04-16
+High Jump,m,1,"Rankin, Riyon",SO-2,Georgia,2.29m,False,SEC Outdoor Track & Field Championships,2025-05-15
+High Jump,m,2,"Troupe, Arvesta",JR-3,Ole Miss,2.26m,False,SEC Outdoor Track & Field Championships,2025-05-15
+High Jump,m,3,"Wilson, Tyus",SR-4,Nebraska,2.25m,False,Michael Johnson Invitational,2025-04-18
+High Jump,m,3,"Kam, Kampton",JR-3,Penn,2.25m,False,South Florida Invitational,2025-04-11
+High Jump,m,3,"Hayes, Aiden",JR-3,Texas State,2.25m,False,Sun Belt Outdoor Track & Field Championships,2025-05-08
+High Jump,m,3,"Alofe, Tito",SO-2,Harvard,2.25m,False,Ivy League Heptagonal Outdoor Track and Field Championships,2025-05-10
+High Jump,m,3,"O'Riley, Kason",SR-4,Texas State,2.25m,False,Sun Belt Outdoor Track & Field Championships,2025-05-08
+High Jump,f,1,"Adeshina, Temitope",SO-2,Texas Tech,1.97m,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+High Jump,f,2,"Yeboah, Rose",SR-4,Illinois,1.91m,False,Florida Relays,2025-04-04
+High Jump,f,3,"Perez-Snyman, Kristi",SR-4,Missouri,1.90m,False,SEC Outdoor Track & Field Championships,2025-05-15
+High Jump,f,4,"Glenn, Rachel",SR-4,Arkansas,1.89m,False,LSU Invitational,2025-05-03
+High Jump,f,4,"Kulichenko, Elena",SR-4,Georgia,1.89m,False,2025 Tiger Track Classic,2025-04-26
+Pole Vault,m,1,"Solovev, Aleksandr",JR-3,Texas A&M,5.72m,False,SEC Outdoor Track & Field Championships,2025-05-15
+Pole Vault,m,2,"Hammer, Logan",JR-3,Utah State,5.70m,False,Beach Invite,2025-04-17
+Pole Vault,m,3,"Grunert, Arnie",JR-3,Western Illinois,5.65m,False,Gary Wieneke Memorial,2025-05-02
+Pole Vault,m,4,"Conacher, Benjamin",SR-4,Virginia Tech,5.61m,False,Big Orange Invite,2025-05-02
+Pole Vault,m,4,"Barkdull, Ashton",JR-3,Kansas,5.61m,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+Pole Vault,f,1,"Moll, Amanda",SO-2,Washington,4.78m,False,Big Ten Outdoor Track & Field Championships,2025-05-16
+Pole Vault,f,2,"Moll, Hana",SO-2,Washington,4.65m,False,2025 Desert Heat Classic,2025-05-03
+Pole Vault,f,3,"Haywood, Molly",SO-2,Baylor,4.58m,False,2025 Texas A&M 44 Farms Team Invitational,2025-04-11
+Pole Vault,f,4,"Mulla, Marleen",JR-3,South Dakota,4.57m,False,The Summit League Outdoor T&F championships,2025-05-15
+Pole Vault,f,4,"Lueking, Olivia",SR-4,Oklahoma,4.57m,False,2025 97th Clyde Littlefield Texas Relays,2025-03-26
+Long Jump,m,1,"Sathyanathan, Lokesh",SR-4,Tarleton State,8.14m,False,Michael Johnson Invitational,2025-04-18
+Long Jump,m,2,"Godfred, Charles",SO-2,Minnesota,8.13m,False,Drake Relays,2025-04-23
+Long Jump,m,3,"Foster, Greg",JR-3,Princeton,8.10m,False,Virginia Challenge,2025-04-18
+Long Jump,m,4,"Rodrigues, Reinaldo",SR-4,Arizona,8.05m,False,2025 Desert Heat Classic,2025-05-03
+Long Jump,m,5,"Stevenson, Chrstyn John (JC)",JR-3,USC,8.02m,False,65th Annual Mt. SAC Relays,2025-04-18
+Long Jump,f,1,"Brown, Alexis",SR-4,Baylor,7.03m,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+Long Jump,f,2,"Charlton, Anthaya",JR-3,Florida,6.82m,False,Tom Jones Invitational,2025-04-18
+Long Jump,f,3,"Jones, Alyssa",JR-3,Stanford,6.81m,False,Stanford Invitational,2025-04-04
+Long Jump,f,4,"Johnson, Sydney",SR-4,UCLA,6.79m,False,Vince O'Boyle Invite,2025-03-28
+Long Jump,f,5,"Humphrey, Tacoria",SR-4,Illinois,6.73m,False,Tom Jones Invitational,2025-04-18
+Triple Jump,m,1,"Green Jr, Brandon",JR-3,Oklahoma,16.94m,False,NCAA Division I West First Round,2025-05-28
+Triple Jump,m,2,"Ford, Hakeem",SO-2,Minnesota,16.54m,False,Florida Relays,2025-04-04
+Triple Jump,m,3,"Prabhu, Selva",FR-1,Kansas State,16.49m,False,NCAA Division I West First Round,2025-05-28
+Triple Jump,m,4,"Drumgoole, Xavier",FR-1,Stanford,16.42m,False,NCAA Division I West First Round,2025-05-28
+Triple Jump,m,5,"Tosti, Gabriele",SR-4,Tarleton State,16.39m,False,Joe Gillespie Invitational,2025-04-25
+Triple Jump,f,1,"Bii, Winny",JR-3,Texas A&M,14.01m,False,SEC Outdoor Track & Field Championships,2025-05-15
+Triple Jump,f,1,"Dwol, Agur",JR-3,Oklahoma,14.01m,False,2025 97th Clyde Littlefield Texas Relays,2025-03-26
+Triple Jump,f,1,"Foreman, Shantae",JR-3,Clemson,14.01m,False,NCAA Division I East First Round,2025-05-28
+Triple Jump,f,4,"Gorlova, Victoria",SR-4,Texas Tech,13.99m,False,NCAA Division I West First Round,2025-05-28
+Triple Jump,f,5,"Sjostrand, Emilia",SR-4,San Jose St.,13.78m,False,Mountain West Outdoor Track & Field Championships,2025-05-15
+Shot Put,m,1,"Swarens, Jason",SR-4,Wisconsin,21.37m,False,Badger Challenge,2025-05-02
+Shot Put,m,2,"Robinson-O'Hagan, Tarik",JR-3,Ole Miss,20.85m,False,NCAA Division I East First Round,2025-05-28
+Shot Put,m,3,"Landa, Zach",SR-4,Arizona,20.64m,False,65th Annual Mt. SAC Relays,2025-04-18
+Shot Put,m,4,"Lloyd, Brandon",SR-4,Arizona State,20.43m,False,2025 Texas Invitational,2025-04-24
+Shot Put,m,5,"Licata, Christopher",SR-4,South Carolina,20.39m,False,SEC Outdoor Track & Field Championships,2025-05-15
+Shot Put,f,1,"Lesnar, Mya",SR-4,Colorado St.,19.60m,False,Doug Max Invitational,2025-05-03
+Shot Put,f,2,"Odeluga, Akaoma",SO-2,Ole Miss,18.93m,False,LSU Battle on the Bayou,2025-03-28
+Shot Put,f,3,"Smith, Abria",SR-4,Illinois,18.92m,False,Tom Jones Invitational,2025-04-18
+Shot Put,f,4,"Ndubuisi, Nina",SO-2,Texas,18.91m,False,SEC Outdoor Track & Field Championships,2025-05-15
+Shot Put,f,5,"Ulrich, Jayden",SR-4,Louisville,18.52m,False,2025 Jim Click Shootout & Multis,2025-04-04
+Discus,m,1,"Alekna, Mykolas",JR-3,California,72.12m,False,NCAA Division I West First Round,2025-05-28
+Discus,m,2,"Mullings , Ralford",JR-3,Oklahoma,69.13m,False,2025 97th Clyde Littlefield Texas Relays,2025-03-26
+Discus,m,3,"Gunzell, Trevor",JR-3,Alabama,63.88m,False,Tom Jones Invitational,2025-04-18
+Discus,m,4,"Pavlidis, Dimitrios",SR-4,Kansas,63.86m,False,Jayhawk Spring Fling 2025,2025-03-22
+Discus,m,5,"Ugwoke, Vincent",SR-4,South Florida,63.72m,False,East Coast Relays,2025-05-02
+Discus,f,1,"Ulrich, Jayden",SR-4,Louisville,66.14m,False,USF Alumni Invitational,2025-03-21
+Discus,f,2,"Van Daalen, Alida",JR-3,Florida,65.45m,False,East Coast Relays,2025-05-02
+Discus,f,3,"Jackson, Cierra",SR-4,Fresno State,64.42m,False,West Coast Relays,2025-03-28
+Discus,f,4,"Valentin, Michaelle",SR-4,FIU,62.17m,False,South Florida Invitational,2025-04-11
+Discus,f,5,"Frank, Shelby",SR-4,Texas Tech,62.14m,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+Hammer,m,1,"Mantzouranis, Angelos",SO-2,Minnesota,78.61m,False,Meet of the UnSaintly,2025-04-30
+Hammer,m,2,"Zaltos, Kostas",SR-4,Minnesota,77.91m,False,Florida Relays,2025-04-04
+Hammer,m,2,"Knight, Trey",SR-4,CSUN,77.91m,False,Trojan Invite,2025-03-21
+Hammer,m,4,"Tanner, Texas",JR-3,Air Force,75.83m,False,Beach Invite,2025-04-17
+Hammer,m,5,"Robinson-O'Hagan, Tarik",JR-3,Ole Miss,75.72m,False,SEC Outdoor Track & Field Championships,2025-05-15
+Hammer,f,2,"Roberts, Lara",SO-2,Texas State,70.97m,False,65th Annual Mt. SAC Relays,2025-04-18
+Hammer,f,3,"Ratcliffe, Stephanie",SR-4,Georgia,70.72m,False,SEC Outdoor Track & Field Championships,2025-05-15
+Hammer,f,4,"Frank, Shelby",SR-4,Texas Tech,70.37m,False,Big 12 Outdoor Track & Field Championships,2025-05-15
+Hammer,f,5,"Robbins, Emma",SR-4,Oklahoma State,70.02m,False,65th Annual Mt. SAC Relays,2025-04-18
+Javelin,m,1,"Deysel, Devoux",SR-4,Miami (Fla.),82.35m,False,ACC Outdoor Track & Field Championships,2025-05-15
+Javelin,m,2,"Strachan, Keyshawn",JR-3,Nebraska,81.01m,False,Drake Relays,2025-04-23
+Javelin,m,3,"Alsherif, Moustafa",SR-4,Georgia,80.52m,False,Tom Jones Invitational,2025-04-18
+Javelin,m,4,"Rougetet, Remi",SR-4,Miss State,80.49m,False,SEC Outdoor Track & Field Championships,2025-05-15
+Javelin,m,5,"Petersen, Arthur",SR-4,Nebraska,78.91m,False,Big Ten Outdoor Track & Field Championships,2025-05-16
+Javelin,f,1,"Rotundo, Manuela",FR-1,Georgia,64.17m,False,Florida Relays,2025-04-04
+Javelin,f,2,"Davidson, Lianna",SR-4,Georgia,63.79m,False,Yellow Jacket Invitational,2025-03-21
+Javelin,f,3,"Van Der Westhuizen, McKyla",JR-3,Rice,60.29m,False,42nd Victor Lopez Classic,2025-03-27
+Javelin,f,4,"Harris, Maddie",SR-4,Nebraska,59.12m,False,2025 Desert Heat Classic,2025-05-03
+Javelin,f,5,"Jepkemboi, Irene",SO-2,TCU,58.36m,False,NCAA Division I West First Round,2025-05-28
+Heptathlon,f,1,"Iakushina, Sofia",FR-1,Texas A&M,6260,False,2025 Texas A&M 44 Farms Team Invitational,2025-04-11
+Heptathlon,f,2,"Enok, Pippi Lotta",JR-3,Oklahoma,6258,False,65th Annual Mt. SAC Relays,2025-04-18
+Heptathlon,f,3,"O'Brien, Jadin",SR-4,Notre Dame,6231,False,2025 Texas A&M 44 Farms Team Invitational,2025-04-11
+Heptathlon,f,4,"Williams, Annika",SR-4,Oregon,5914,False,Big Ten Outdoor Track & Field Championships,2025-05-16
+Heptathlon,f,5,"Kienast, Lucie",FR-1,Illinois,5851,False,Big Ten Outdoor Track & Field Championships,2025-05-16
+Decathlon,m,1,"Steinforth, Till",JR-3,Nebraska,8265,False,Drake Relays,2025-04-23
+Decathlon,m,2,"Bair, Peyton",JR-3,Miss State,8111,False,2025 Texas A&M 44 Farms Team Invitational,2025-04-11
+Decathlon,m,3,"Thomas, Brad",SR-4,UC Santa Barbara,8108,False,Big West Outdoor Track & Field Championships,2025-05-16
+Decathlon,m,4,"Roskelley, Jaden",SO-2,BYU,8000,False,2025 BYU Robison Invitational,2025-04-30
+Decathlon,m,5,"Kallenberg, Paul",JR-3,Louisville,7944,False,ACC Outdoor Track & Field Championships,2025-05-15

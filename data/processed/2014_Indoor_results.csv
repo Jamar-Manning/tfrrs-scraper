@@ -1,0 +1,153 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+60 Meters,m,1,"Vaughn, Clayton",SR-4,Texas-Arlington,6.55,False,39th Annual Frank Sevigne Husker Invitational,2014-02-07
+60 Meters,m,2,"Hardy, Jr., Prezel",SR-4,Texas A&M,6.56,False,Texas A&M 10 Team Invitational,2014-01-17
+60 Meters,m,3,"Burrell, Cameron",FR-1,Houston,6.57,True,UNM Cherry and Silver Invitational,2014-01-24
+60 Meters,m,3,"Brown, Aaron",SR-4,USC,6.57,True,Don Kirby Elite,2014-02-14
+60 Meters,m,5,"Locke, Dentarius",SR-4,Florida State,6.58,True,UNM Cherry and Silver Invitational,2014-01-24
+60 Meters,f,1,"Bryant, Dezerea",JR-3,Kentucky,7.16,False,Tyson Invitational,2014-02-14
+60 Meters,f,2,"Todd, Jasmine",FR-1,Oregon,7.20,False,UW Indoor Preview,2014-01-18
+60 Meters,f,3,"Burchell, Remona",JR-3,Alabama,7.24,False,SEC Indoor Track & Field Championships,2014-02-27
+60 Meters,f,3,"Prandini, Jenna",SO-2,Oregon,7.24,False,UW Indoor Preview,2014-01-18
+60 Meters,f,3,"Sanders, Shayla",SO-2,Florida,7.24,False,SEC Indoor Track & Field Championships,2014-02-27
+200 Meters,m,1,"Dukes, Dedric",JR-3,Florida,20.55,False,SEC Indoor Track & Field Championships,2014-02-27
+200 Meters,m,2,"Hall, Arman",SO-2,Florida,20.58,False,SEC Indoor Track & Field Championships,2014-02-27
+200 Meters,m,3,"Brown, Aaron",SR-4,USC,20.60,True,Don Kirby Elite,2014-02-14
+200 Meters,m,4,"Hart, Shavez",JR-3,Texas A&M,20.66,False,SEC Indoor Track & Field Championships,2014-02-27
+200 Meters,m,5,"Lendore, Deon",JR-3,Texas A&M,20.68,False,Texas A&M Aggie Invitational,2014-02-07
+200 Meters,f,1,"Brown, Kamaria",JR-3,Texas A&M,22.50,False,SEC Indoor Track & Field Championships,2014-02-27
+200 Meters,f,2,"Bryant, Dezerea",JR-3,Kentucky,22.75,False,SEC Indoor Track & Field Championships,2014-02-27
+200 Meters,f,3,"Jefferson, Kyra",SO-2,Florida,22.87,False,SEC Indoor Track & Field Championships,2014-02-27
+200 Meters,f,4,"Francis, Phyllis",SR-4,Oregon,22.99,True,Don Kirby Elite,2014-02-14
+200 Meters,f,5,"Williams, Regine",FR-1,Arkansas,23.06,False,Razorback Invitational,2014-01-31
+400 Meters,m,1,"Lendore, Deon",JR-3,Texas A&M,45.03,False,SEC Indoor Track & Field Championships,2014-02-27
+400 Meters,m,2,"Hall, Arman",SO-2,Florida,45.28,False,SEC Indoor Track & Field Championships,2014-02-27
+400 Meters,m,3,"Norwood, Vernon",JR-3,LSU,45.39,False,SEC Indoor Track & Field Championships,2014-02-27
+400 Meters,m,4,"Spratling, Brycen",SR-4,Pittsburgh,45.57,False,SPIRE NCAA D-1 Indoor T&F Invitational,2014-02-14
+400 Meters,m,5,"Giesting, Christopher",JR-3,Notre Dame,45.71,True,ACC Indoor Track & Field Championships,2014-02-27
+400 Meters,f,1,"Brown, Kamaria",JR-3,Texas A&M,50.94,False,SEC Indoor Track & Field Championships,2014-02-27
+400 Meters,f,2,"Spencer, Ashley",JR-3,Texas,51.54,False,Big 12 Indoor Track & Field Championships,2014-02-28
+400 Meters,f,3,"Okolo, Courtney",SO-2,Texas,51.56,False,Big 12 Indoor Track & Field Championships,2014-02-28
+400 Meters,f,4,"Reynolds, Robin",SO-2,Florida,51.77,False,SEC Indoor Track & Field Championships,2014-02-27
+400 Meters,f,5,"Little, Shamier",FR-1,Texas A&M,51.86,False,SEC Indoor Track & Field Championships,2014-02-27
+800 Meters,m,1,"Kemboi, Edward",JR-3,Iowa State,1:45.98,False,Iowa State Classic,2014-02-14
+800 Meters,m,2,"Kidder, Brannon",SO-2,Penn State,1:47.45,False,Sykes & Sabock Challenge Cup,2014-02-07
+800 Meters,m,2,"Rutto, Eliud",SO-2,Mid. Tenn. State,1:47.45,True,Hilton Garden Innvitational,2014-01-31
+800 Meters,m,4,"McBride, Brandon",SO-2,Miss State,1:47.51,False,Tyson Invitational,2014-02-14
+800 Meters,m,5,"Obinwa, Sean",SR-4,Florida,1:47.76,False,Iowa State Classic,2014-02-14
+800 Meters,f,1,"Roesler, Laura",SR-4,Oregon,2:01.32,False,Rod McCravy Memorial Track & Field Meet,2014-01-24
+800 Meters,f,2,"Malasarte, Megan",SR-4,Georgia,2:03.08,False,SEC Indoor Track & Field Championships,2014-02-27
+800 Meters,f,3,"Brown, Stephanie",SR-4,Arkansas,2:03.21,False,SEC Indoor Track & Field Championships,2014-02-27
+800 Meters,f,4,"Fedronic, Justine",SR-4,Stanford,2:03.25,False,Penn State National Invitational,2014-01-31
+800 Meters,f,5,"Okoro, Ejiroghene",SR-4,Iowa State,2:03.91,False,Iowa State Classic,2014-02-14
+Mile,m,1,"Lalang, Lawi",SR-4,Arizona,3:52.88,False,Millrose Games,2014-02-15
+Mile,m,2,"Rotich, Anthony",JR-3,UTEP,3:55.86,True,UNM Cherry and Silver Invitational,2014-01-24
+Mile,m,3,"Williamsz, Jordan",SO-2,Villanova,3:56.84,False,Iowa State Classic,2014-02-14
+Mile,m,4,"Hillenbrand, Matt",SR-4,Kentucky,3:57.00,False,Iowa State Classic,2014-02-14
+Mile,m,5,"Rae, Jeremy",SR-4,Notre Dame,3:57.25,False,Meyo Invitational 2014,2014-02-07
+Mile,f,1,"D'Agostino, Abbey",SR-4,Dartmouth,4:28.31,False,Boston University John Thomas Terrier,2014-01-24
+Mile,f,2,"Quigley, Colleen",JR-3,Florida State,4:32.11,True,ACC Indoor Track & Field Championships,2014-02-27
+Mile,f,3,"Hall, Linden",JR-3,Florida State,4:32.25,True,ACC Indoor Track & Field Championships,2014-02-27
+Mile,f,4,"Coogan, Katrina",SO-2,Georgetown,4:33.44,False,Boston University Last Chance Meet,2014-03-02
+Mile,f,5,"Heymsfield, Grace",SR-4,Arkansas,4:34.22,False,Razorback Invitational,2014-01-31
+3000 Meters,m,1,"Lalang, Lawi",SR-4,Arizona,7:44.20,False,UW Invitational,2014-01-31
+3000 Meters,m,2,"Cheserek, Edward",FR-1,Oregon,7:47.20,False,MPSF Indoor Championships,2014-02-28
+3000 Meters,m,3,"Hurysz, Jake",SR-4,Colorado,7:50.50,False,MPSF Indoor Championships,2014-02-28
+3000 Meters,m,4,"Olson, Erik",SR-4,Stanford,7:50.81,False,MPSF Indoor Championships,2014-02-28
+3000 Meters,m,5,"Bosshard, Joe",SR-4,Colorado,7:50.86,False,MPSF Indoor Championships,2014-02-28
+3000 Meters,f,1,"D'Agostino, Abbey",SR-4,Dartmouth,8:51.91,False,Millrose Games,2014-02-15
+3000 Meters,f,2,"Avery, Kate",SO-2,Iona,8:56.20,False,Millrose Games,2014-02-15
+3000 Meters,f,3,"Sisson, Emily",JR-3,Providence,9:00.76,False,Boston University David Hemery Valentine,2014-02-07
+3000 Meters,f,4,"Nagel, Laura",JR-3,Providence,9:01.35,False,Boston University David Hemery Valentine,2014-02-07
+3000 Meters,f,5,"Scott, Dominique",JR-3,Arkansas,9:02.33,False,UW Husky Classic,2014-02-14
+5000 Meters,m,1,"Connor, Reed",SR-4,Wisconsin,13:37.42,False,Iowa State Classic,2014-02-14
+5000 Meters,m,2,"Tiernan, Patrick",FR-1,Villanova,13:37.73,False,Iowa State Classic,2014-02-14
+5000 Meters,m,3,"Cheserek, Edward",FR-1,Oregon,13:40.51,False,UW Husky Classic,2014-02-14
+5000 Meters,m,4,"Lalang, Lawi",SR-4,Arizona,13:41.58,False,MPSF Indoor Championships,2014-02-28
+5000 Meters,m,5,"Ward, Jared",SR-4,BYU,13:42.17,False,UW Husky Classic,2014-02-14
+5000 Meters,f,1,"D'Agostino, Abbey",SR-4,Dartmouth,15:40.55,False,2013 Jay Carisella Track & Field Invitational,2013-12-14
+5000 Meters,f,2,"Sisson, Emily",JR-3,Providence,15:40.62,False,Boston University Season Opener,2013-12-07
+5000 Meters,f,3,"Collins, Sarah",SO-2,Providence,15:41.00,False,Boston University Season Opener,2013-12-07
+5000 Meters,f,4,"Nagel, Laura",JR-3,Providence,15:42.60,False,Boston University Season Opener,2013-12-07
+5000 Meters,f,5,"Stites, Emily",SO-2,William and Mary,15:43.69,False,Boston University Last Chance Meet,2014-03-02
+60 Hurdles,m,1,"Akinmoladun, Oladapo",SO-2,Nebraska,7.61,False,Big Ten Indoor Track and Field Championships,2014-02-28
+60 Hurdles,m,2,"Harris, Aleec",SR-4,USC,7.62,True,Don Kirby Elite,2014-02-14
+60 Hurdles,m,3,"Swift, Greggmar",SR-4,Indiana State,7.64,False,Indiana University Relays,2014-01-31
+60 Hurdles,m,4,"Lovett, Eddie",SR-4,Florida,7.65,False,SEC Indoor Track & Field Championships,2014-02-27
+60 Hurdles,m,4,"Bogle, Demoye",SR-4,Ohio State,7.65,False,Ohio State Buckeye Classic,2014-01-10
+60 Hurdles,m,4,"Robertson, Donovan",FR-1,Ohio State,7.65,False,Big Ten Indoor Track and Field Championships,2014-02-28
+60 Hurdles,f,1,"Harrison, Kendra",JR-3,Kentucky,7.94,False,SEC Indoor Track & Field Championships,2014-02-27
+60 Hurdles,f,2,"Stowers, Jasmin",SR-4,LSU,8.01,True,New Mexico Invite,2014-02-01
+60 Hurdles,f,3,"Nelvis, Sharika",SR-4,Arkansas State,8.03,False,Sun Belt Conference Indoor Track and Field Championships,2014-02-24
+60 Hurdles,f,4,"McReynolds, Tiffani",SR-4,Baylor,8.05,False,Rod McCravy Memorial Track & Field Meet,2014-01-24
+60 Hurdles,f,5,"Ofili, Cindy",SO-2,Michigan,8.08,False,Big Ten Indoor Track and Field Championships,2014-02-28
+High Jump,m,1,"Ross, Nick",SR-4,Arizona,2.31m,False,UNM Cherry and Silver Invitational,2014-01-24
+High Jump,m,2,"Harris, James",SR-4,Florida State,2.27m,False,UNM Cherry and Silver Invitational,2014-01-24
+High Jump,m,2,"Jackson, Marcus",SR-4,Miss State,2.27m,False,Tyson Invitational,2014-02-14
+High Jump,m,4,"Reynolds, Maalik",SR-4,Penn,2.24m,False,Sykes & Sabock Challenge Cup,2014-02-07
+High Jump,m,4,"Blair, Montez",SR-4,Cornell,2.24m,False,2014 Deneault Memorial Cornell,2014-02-22
+High Jump,f,1,"Scheper, Jeannelle",SR-4,South Carolina,1.90m,False,Virginia Tech Invitational,2014-01-17
+High Jump,f,1,"Kallenou, Leontia",FR-1,Georgia,1.90m,False,SEC Indoor Track & Field Championships,2014-02-27
+High Jump,f,3,"Burke, Taylor",JR-3,Florida,1.87m,False,SEC Indoor Track & Field Championships,2014-02-27
+High Jump,f,4,"Smith, Amina",SR-4,Maryland,1.86m,False,ACC Indoor Track & Field Championships,2014-02-27
+High Jump,f,4,"Melville, Amber",JR-3,Maryland,1.86m,False,ACC Indoor Track & Field Championships,2014-02-27
+Pole Vault,m,1,"Kendricks, Sam",JR-3,Mississippi,5.70m,False,Don Kirby Elite,2014-02-14
+Pole Vault,m,2,"Barber, Shawn",SO-2,Akron,5.66m,False,Akron Invitational,2014-02-07
+Pole Vault,m,3,"Irwin, Andrew",JR-3,Arkansas,5.60m,False,Tyson Invitational,2014-02-14
+Pole Vault,m,4,"Cato, Japheth",SR-4,Wisconsin,5.55m,False,Tyson Invitational,2014-02-14
+Pole Vault,m,5,"Blankenship, Jake",SO-2,Tennessee,5.52m,False,Virginia Tech Invitational,2014-01-17
+Pole Vault,f,1,"Grove, Emily",,South Dakota,4.51m,False,USATF Indoor Championships,2014-02-21
+Pole Vault,f,2,"Petrillose, Kaitlin",SO-2,Texas,4.45m,False,New Mexico Classic,2014-02-07
+Pole Vault,f,3,"Clark, Megan",SO-2,Duke,4.40m,False,ACC Indoor Track & Field Championships,2014-02-27
+Pole Vault,f,3,"Schultze, Martina",JR-3,Virginia Tech,4.40m,False,ACC Indoor Track & Field Championships,2014-02-27
+Pole Vault,f,5,"Leleux, Morgann",JR-3,Georgia,4.38m,False,SEC Indoor Track & Field Championships,2014-02-27
+Long Jump,m,1,"Crawford, Corey",JR-3,Rutgers,8.22m,False,The American Indoor Track & Field Championships,2014-02-28
+Long Jump,m,2,"Higgs, Raymond",SR-4,Arkansas,7.99m,False,Tyson Invitational,2014-02-14
+Long Jump,m,3,"Victorin, Guillaume",JR-3,Louisville,7.91m,False,The American Indoor Track & Field Championships,2014-02-28
+Long Jump,m,4,"Dendy, Marquis",JR-3,Florida,7.87m,False,Razorback Invitational,2014-01-31
+Long Jump,m,5,"Lawson, Jarrion",SO-2,Arkansas,7.86m,False,Tyson Invitational,2014-02-14
+Long Jump,m,5,"Raedler, Patrick",JR-3,Nebraska,7.86m,False,Tyson Invitational,2014-02-14
+Long Jump,f,1,"Ugen, Lorraine",SR-4,TCU,6.59m,False,Big 12 Indoor Track & Field Championships,2014-02-28
+Long Jump,f,2,"Todd, Jasmine",FR-1,Oregon,6.50m,False,Don Kirby Elite,2014-02-14
+Long Jump,f,3,"Porter, Chanice",SO-2,Georgia,6.47m,False,Doc Hale Virginia Tech Elite,2014-02-07
+Long Jump,f,4,"Price, Kylie",JR-3,UCLA,6.45m,False,New Mexico Invite,2014-02-01
+Long Jump,f,5,"Farquharson, Rochelle",SR-4,Miss State,6.42m,False,SEC Indoor Track & Field Championships,2014-02-27
+Triple Jump,m,1,"Obi, Felix",SO-2,Baylor,16.44m,False,Tyson Invitational,2014-02-14
+Triple Jump,m,2,"Reid, Jonathan",JR-3,Florida State,16.32m,False,Tyson Invitational,2014-02-14
+Triple Jump,m,3,"Green, Jeremiah",FR-1,Alabama,16.29m,False,SEC Indoor Track & Field Championships,2014-02-27
+Triple Jump,m,4,"Dorsey, Andre",JR-3,Kennesaw State,16.27m,False,2014 Armory Collegiate Invitational,2014-02-07
+Triple Jump,m,5,"Jackson, Mark",SR-4,UTEP,16.21m,False,UNM Cherry and Silver Invitational,2014-01-24
+Triple Jump,f,1,"Thomas, Shanieka",SR-4,San Diego St.,13.79m,False,Don Kirby Elite,2014-02-14
+Triple Jump,f,2,"Brewer, Ciarra",JR-3,Florida,13.59m,False,SEC Indoor Track & Field Championships,2014-02-27
+Triple Jump,f,3,"Franklin, Tori",JR-3,Michigan State,13.56m,False,Big Ten Indoor Track and Field Championships,2014-02-28
+Triple Jump,f,4,"Moen-Davis, LaQue",SO-2,Texas A&M,13.49m,False,Texas A&M 10 Team Invitational,2014-01-17
+Triple Jump,f,5,"Pitts, Lynnika",SR-4,LSU,13.43m,False,SEC Indoor Track & Field Championships,2014-02-27
+Shot Put,m,1,"Crouser, Ryan",SO-2,Texas,21.23m,False,New Mexico Classic,2014-02-07
+Shot Put,m,2,"Mozia, Stephen",JR-3,Cornell,20.79m,False,Ivy League Indoor Track & Field Championships,2014-03-01
+Shot Put,m,3,"Jensen, Curtis",SR-4,Illinois State,20.29m,False,EIU Early Bird,2013-12-06
+Shot Put,m,4,"Finley, Mason",SR-4,Wyoming,20.20m,False,Rocky Mountain Classic,2014-02-21
+Shot Put,m,5,"Weldon, Kole",JR-3,Texas Tech,20.11m,False,New Mexico Classic,2014-02-07
+Shot Put,f,1,"Peoples, Kearsten",JR-3,Missouri,17.81m,False,SEC Indoor Track & Field Championships,2014-02-27
+Shot Put,f,2,"Hillman, Christina",JR-3,Iowa State,17.51m,False,ISU Holiday Preview,2013-12-06
+Shot Put,f,3,"Theisen, Mary",SR-4,Indiana State,17.30m,False,Indiana University Relays,2014-01-31
+Shot Put,f,4,"Bunch, Dani",SR-4,Purdue,17.19m,False,Findlay Open,2014-01-31
+Shot Put,f,5,"Monroe, Amber",JR-3,Miami,17.18m,False,ACC Indoor Track & Field Championships,2014-02-27
+Weight Throw,m,1,"Lihrman, Michael",JR-3,Wisconsin,24.27m,False,Red & White Open,2014-02-21
+Weight Throw,m,2,"Enekwechi, Chukwuebuka",SO-2,Purdue,23.62m,False,Findlay Open,2014-01-31
+Weight Throw,m,3,"Lehman, Jon",SR-4,Minnesota,22.98m,False,Snowshoe Open,2014-02-21
+Weight Throw,m,4,"James, Antonio",JR-3,Michigan State,22.74m,False,Notre Dame Invitational,2014-01-25
+Weight Throw,m,5,"Tayala, Matthias",SO-2,Kent State,22.01m,False,Kent State Golden Flash Gala,2013-12-06
+Weight Throw,f,1,"Garrett, Brea",JR-3,Texas A&M,22.66m,False,Texas A&M Aggie Invitational,2014-02-07
+Weight Throw,f,2,"Hinton, Denise",SR-4,LSU,22.53m,False,SEC Indoor Track & Field Championships,2014-02-27
+Weight Throw,f,3,"Bunch, Dani",SR-4,Purdue,22.35m,False,Purdue & Indiana Dual,2014-01-18
+Weight Throw,f,4,"Padgett, Kayla",JR-3,East Carolina,21.95m,False,Penn State National Invitational,2014-01-31
+Weight Throw,f,5,"Funk, Brittany",SR-4,Akron,21.77m,False,Akron vs. Kent State,2014-01-17
+Pentathlon,f,1,"Bougard, Erica",JR-3,Miss State,4458,False,SEC Indoor Track & Field Championships,2014-02-27
+Pentathlon,f,2,"Williams, Kendell",FR-1,Georgia,4302,False,UNM Cherry and Silver Invitational,2014-01-24
+Pentathlon,f,3,"LaFond, Thea",JR-3,Maryland,4244,False,ACC Indoor Track & Field Championships,2014-02-27
+Pentathlon,f,4,"Ondraschkova, Lucie",SR-4,Georgia,4225,False,SEC Indoor Track & Field Championships,2014-02-27
+Pentathlon,f,5,"Latham, Deanna",JR-3,Wisconsin,4176,False,Big Ten Indoor Track and Field Championships,2014-02-28
+Heptathlon,m,1,"Beach, Curtis",SR-4,Duke,6011,False,ACC Indoor Track & Field Championships,2014-02-27
+Heptathlon,m,2,"Lazas, Kevin",SR-4,Arkansas,5923,False,Razorback Invitational,2014-01-31
+Heptathlon,m,3,"McCune, Alex",JR-3,Akron,5864,False,Akron Invitational,2014-02-07
+Heptathlon,m,4,"Uibo, Maicel",SO-2,Georgia,5859,False,SEC Indoor Track & Field Championships,2014-02-27
+Heptathlon,m,5,"Cato, Japheth",SR-4,Wisconsin,5837,False,Big Ten Indoor Track and Field Championships,2014-02-28

@@ -1,0 +1,198 @@
+event,gender,place,athlete,year,team,result,converted,meet,meet_date
+100 Meters,m,1,"McCallum, T'Mars",FR-1,Tennessee,9.94,False,USC Outdoor Open,2024-04-20
+100 Meters,m,2,"Abdul-Rasheed, Saminu",SO-2,South Florida,9.95,False,South Florida Invitational,2024-04-05
+100 Meters,m,3,"Ashe, Favour",JR-3,Auburn,9.96,False,2024 Tiger Track Classic,2024-04-20
+100 Meters,m,4,"Oghenebrume, Godson",JR-3,LSU,9.99,False,SEC Outdoor Track & Field Championships,2024-05-09
+100 Meters,m,5,"Augustine, Devin",JR-3,Minnesota,10.02,False,LSU Alumni Gold,2024-04-20
+100 Meters,m,5,"Maswanganyi, Shaun",SR-4,Houston,10.02,False,2024 96th Clyde Littlefield Texas Relays,2024-03-27
+100 Meters,m,5,"McCoy, Wanya",JR-3,Florida,10.02,False,SEC Outdoor Track & Field Championships,2024-05-09
+100 Meters,f,1,"Sears, Jacious",SR-4,Tennessee,10.77,False,Tom Jones Memorial Invitational,2024-04-12
+100 Meters,f,2,"Lyston, Brianna",SO-2,LSU,10.84,False,LSU Alumni Gold,2024-04-20
+100 Meters,f,3,"Defrand, Dajaz",SO-2,Florida State,10.88,False,LSU Invitational,2024-04-27
+100 Meters,f,4,"Long, McKenzie",SR-4,Ole Miss,10.89,False,LSU Battle on the Bayou,2024-03-29
+100 Meters,f,5,"Davies, Thelma",SR-4,LSU,10.92,False,LSU Invitational,2024-04-27
+200 Meters,m,1,"Orogot, Tarsis",JR-3,Alabama,19.75,False,SEC Outdoor Track & Field Championships,2024-05-09
+200 Meters,m,2,"McCoy, Wanya",JR-3,Florida,19.93,False,SEC Outdoor Track & Field Championships,2024-05-09
+200 Meters,m,3,"Miller, Cameron",SO-2,Purdue,19.97,False,Big Ten Outdoor Championships,2024-05-10
+200 Meters,m,4,"Charamba, Makanakaishe",JR-3,Auburn,20.00,False,SEC Outdoor Track & Field Championships,2024-05-09
+200 Meters,m,5,"Lang, Lance",SR-4,Arkansas,20.04,False,SEC Outdoor Track & Field Championships,2024-05-09
+200 Meters,f,1,"Long, McKenzie",SR-4,Ole Miss,22.03,False,SEC Outdoor Track & Field Championships,2024-05-09
+200 Meters,f,2,"Ford, JaMeesia",FR-1,South Carolina,22.11,False,SEC Outdoor Track & Field Championships,2024-05-09
+200 Meters,f,3,"Davies, Thelma",SR-4,LSU,22.17,False,SEC Outdoor Track & Field Championships,2024-05-09
+200 Meters,f,4,"Lyston, Brianna",SO-2,LSU,22.31,False,SEC Outdoor Track & Field Championships,2024-05-09
+200 Meters,f,5,"Jackson, Kaila",SO-2,Georgia,22.38,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Meters,m,1,"Morales Williams, Christopher",SO-2,Georgia,44.05,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Meters,m,2,"Ogazi, Samuel",FR-1,Alabama,44.58,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Meters,m,3,"Lincoln IV, Judson",SO-2,Virginia Tech,44.60,False,ACC Outdoor Track & Field Championships,2024-05-09
+400 Meters,m,4,"Blockburger, Johnnie",SR-4,USC,44.62,True,PAC-12 Track and Field Championships,2024-05-10
+400 Meters,m,5,"McRae, Khaleb",SR-4,Alabama,44.68,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Meters,f,1,"Pryce, Nickisha",SR-4,Arkansas,49.32,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Meters,f,2,"Brown, Kaylyn",FR-1,Arkansas,49.47,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Meters,f,3,"Anning, Amber",SR-4,Arkansas,49.51,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Meters,f,4,"Butler, Aaliyah",SO-2,Georgia,49.79,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Meters,f,5,"Onojuvwevwo, Ella",SO-2,LSU,50.57,False,SEC Outdoor Track & Field Championships,2024-05-09
+800 Meters,m,1,"Whitmarsh, Sam",JR-3,Texas A&M,1:44.46,False,LSU Battle on the Bayou,2024-03-29
+800 Meters,m,2,"Sahlman, Colin",SO-2,Northern Arizona,1:45.63,False,Desert Heat Classic 2024,2024-04-27
+800 Meters,m,3,"Kipyego, Darius",JR-3,Iowa State,1:45.76,False,Hurricane Alumni Invitational,2024-04-05
+800 Meters,m,3,"Reid, Tyrese",SR-4,Miss State,1:45.76,False,LSU Battle on the Bayou,2024-03-29
+800 Meters,m,5,"Dolan, Sean",SR-4,Villanova,1:45.83,False,BIG EAST Outdoor Track & Field Championships,2024-05-09
+800 Meters,f,1,"Rose, Michaela",JR-3,LSU,1:58.37,False,2024 Bryan Clay Invitational,2024-04-11
+800 Meters,f,2,"Jallow, Sanu",SO-2,Arkansas,1:59.29,False,SEC Outdoor Track & Field Championships,2024-05-09
+800 Meters,f,3,"Willis, Roisin",SO-2,Stanford,2:00.24,True,PAC-12 Track and Field Championships,2024-05-10
+800 Meters,f,4,"Galvydyte, Gabija",JR-3,Oklahoma State,2:00.42,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+800 Meters,f,5,"Chepngetich, Gladys",FR-1,Clemson,2:00.53,False,Tom Jones Memorial Invitational,2024-04-12
+1500 Meters,m,1,"Sahlman, Colin",SO-2,Northern Arizona,3:33.96,False,2024 Bryan Clay Invitational,2024-04-11
+1500 Meters,m,2,"Young, Nico",JR-3,Northern Arizona,3:34.56,False,2024 Oxy Invitational (College/University),2024-05-04
+1500 Meters,m,3,"Green, Nathan",SO-2,Washington,3:34.79,False,2024 Bryan Clay Invitational,2024-04-11
+1500 Meters,m,4,"Strand, Ethan",SO-2,North Carolina,3:35.60,False,Duke Invitational,2024-04-11
+1500 Meters,m,5,"Messaoudi, Fouad",JR-3,Oklahoma State,3:36.08,False,2024 Bryan Clay Invitational,2024-04-11
+1500 Meters,f,1,"Ramsden, Maia",JR-3,Harvard,4:07.30,False,Wake Forest Invitational,2024-04-19
+1500 Meters,f,2,"Kosgei, Judy",FR-1,South Carolina,4:07.65,False,Wake Forest Invitational,2024-04-19
+1500 Meters,f,3,"Riggins, Melissa",JR-3,Georgetown,4:07.96,False,2024 Bryan Clay Invitational,2024-04-11
+1500 Meters,f,3,"Foerster, Chloe",SO-2,Washington,4:07.96,False,2024 Bryan Clay Invitational,2024-04-11
+1500 Meters,f,3,"Butler, Lindsey",JR-3,Virginia Tech,4:07.96,False,Wake Forest Invitational,2024-04-19
+5000 Meters,m,1,"Musau, Brian",FR-1,Oklahoma State,13:13.29,False,2024 Bryan Clay Invitational,2024-04-11
+5000 Meters,m,2,"Samuel, Habtom",FR-1,New Mexico,13:13.34,False,2024 Bryan Clay Invitational,2024-04-11
+5000 Meters,m,3,"Wolfe, Parker",JR-3,North Carolina,13:19.38,False,ACC Outdoor Track & Field Championships,2024-05-09
+5000 Meters,m,4,"Kiprop, Victor",JR-3,Alabama,13:24.44,False,2024 Bryan Clay Invitational,2024-04-11
+5000 Meters,m,5,"Hamlin, Jesse",JR-3,Butler,13:27.26,False,2024 Bryan Clay Invitational,2024-04-11
+5000 Meters,f,1,"Olemomoi, Hilda",JR-3,Alabama,15:06.42,False,2024 Bryan Clay Invitational,2024-04-11
+5000 Meters,f,2,"Valby, Parker",JR-3,Florida,15:07.86,False,SEC Outdoor Track & Field Championships,2024-05-09
+5000 Meters,f,3,"Elmore, Maddy",SO-2,Oregon,15:15.79,False,Stanford Invitational,2024-03-29
+5000 Meters,f,4,"Ayyildiz, Silan",SO-2,Oregon,15:15.84,False,2024 Bryan Clay Invitational,2024-04-11
+5000 Meters,f,5,"Appleton, Margot",JR-3,Virginia,15:18.21,False,Raleigh Relays,2024-03-28
+"10,000 Meters",m,1,"Phillip, Alex",SR-4,North Carolina,27:51.26,False,2024 Bryan Clay Invitational,2024-04-11
+"10,000 Meters",m,2,"Cheruiyot, Ernest",FR-1,Texas Tech,27:52.13,False,2024 Bryan Clay Invitational,2024-04-11
+"10,000 Meters",m,3,"Samuel, Habtom",FR-1,New Mexico,28:03.30,True,Don Kirby Tailwind Open,2024-04-19
+"10,000 Meters",m,4,"Jenkins, Evan",FR-1,Washington,28:04.58,False,Stanford Invitational,2024-03-29
+"10,000 Meters",m,5,"Smith, Wil",JR-3,Gonzaga,28:04.77,False,Stanford Invitational,2024-03-29
+"10,000 Meters",f,1,"Valby, Parker",JR-3,Florida,30:50.43,False,2024 Bryan Clay Invitational,2024-04-11
+"10,000 Meters",f,2,"Olemomoi, Hilda",JR-3,Alabama,32:22.20,False,Stanford Invitational,2024-03-29
+"10,000 Meters",f,3,"Hartman, Grace",SO-2,NC State,32:28.89,False,Raleigh Relays,2024-03-28
+"10,000 Meters",f,4,"Markezich, Andrea",SR-4,Notre Dame,32:36.16,False,Raleigh Relays,2024-03-28
+"10,000 Meters",f,5,"Scrimgeour, Chloe",JR-3,Georgetown,32:36.25,False,BIG EAST Outdoor Track & Field Championships,2024-05-09
+100 Hurdles,f,1,"Stark, Grace",SR-4,Florida,12.53,False,SEC Outdoor Track & Field Championships,2024-05-09
+100 Hurdles,f,2,"Caicedo, Maribel",SR-4,Washington St.,12.65,True,PAC-12 Track and Field Championships,2024-05-10
+100 Hurdles,f,3,"Armstrong, Alia",SR-4,LSU,12.66,False,SEC Outdoor Track & Field Championships,2024-05-09
+100 Hurdles,f,4,"Phillips, Leah",SR-4,LSU,12.71,False,LSU Invitational,2024-04-27
+100 Hurdles,f,5,"Laurencin, Aasia",SR-4,Michigan,12.72,False,Tom Jones Memorial Invitational,2024-04-12
+110 Hurdles,m,1,"Tharp, Ja'Kobe",FR-1,Auburn,13.18,False,SEC Outdoor Track & Field Championships,2024-05-09
+110 Hurdles,m,2,"Luff, Darius",SR-4,Nebraska,13.25,False,114th Drake Relays,2024-04-24
+110 Hurdles,m,3,"Eloji, Stephen",JR-3,Mid. Tenn. State,13.32,True,2024 Conference USA Outdoor Championships,2024-05-10
+110 Hurdles,m,4,"Snow, Malachi",FR-1,San Jose St.,13.33,False,Tom Jones Memorial Invitational,2024-04-12
+110 Hurdles,m,5,"Scott, Jaqualon",JR-3,Texas A&M,13.34,False,LSU Battle on the Bayou,2024-03-29
+400 Hurdles,m,1,"Robinson, Chris",SR-4,Alabama,47.95,False,Tom Jones Memorial Invitational,2024-04-12
+400 Hurdles,m,2,"Ezekiel, Nathaniel",JR-3,Baylor,48.00,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+400 Hurdles,m,3,"Ducos, Clement",SR-4,Tennessee,48.26,False,Tom Jones Memorial Invitational,2024-04-12
+400 Hurdles,m,4,"Dean, Caleb",JR-3,Texas Tech,48.43,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+400 Hurdles,m,5,"Griffith, Rasheeme",SR-4,Tennessee,48.79,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Hurdles,f,1,"Jones, Jasmine",JR-3,USC,53.98,True,PAC-12 Track and Field Championships,2024-05-10
+400 Hurdles,f,2,"Glenn, Rachel",JR-3,Arkansas,54.02,False,SEC Outdoor Track & Field Championships,2024-05-09
+400 Hurdles,f,3,"Garrett, Akala",FR-1,Texas,54.73,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+400 Hurdles,f,4,"Sutherland, Savannah",JR-3,Michigan,54.86,False,Tom Jones Memorial Invitational,2024-04-12
+400 Hurdles,f,5,"Townsend, Sydni",SR-4,Houston,55.00,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+3000 Steeplechase,m,1,"Mountain, Nathan",JR-3,Virginia,8:20.68,False,Virginia Challenge,2024-04-19
+3000 Steeplechase,m,2,"Abouzouhir, Abdelhakim",SR-4,Eastern Kentucky,8:25.37,False,2024 Bryan Clay Invitational,2024-04-11
+3000 Steeplechase,m,3,"Kibiego, Victor",JR-3,Texas A&M,8:25.48,False,2024 Bryan Clay Invitational,2024-04-11
+3000 Steeplechase,m,4,"Sieperda, Gable",SR-4,Iowa State,8:26.58,False,Virginia Challenge,2024-04-19
+3000 Steeplechase,m,5,"Stokes, Parker",SR-4,Georgetown,8:26.61,False,Virginia Challenge,2024-04-19
+3000 Steeplechase,f,1,"Lemngole, Doris",FR-1,Alabama,9:22.31,False,Wake Forest Invitational,2024-04-19
+3000 Steeplechase,f,2,"Thorner, Elise",SR-4,Florida,9:28.49,False,2024 Bryan Clay Invitational,2024-04-11
+3000 Steeplechase,f,3,"Markezich, Olivia",SR-4,Notre Dame,9:36.33,False,Wake Forest Invitational,2024-04-19
+3000 Steeplechase,f,4,"Karinauskaite, Greta",SR-4,CBU,9:37.31,False,2024 Bryan Clay Invitational,2024-04-11
+3000 Steeplechase,f,5,"Novak, Sophie",JR-3,Notre Dame,9:48.00,False,ACC Outdoor Track & Field Championships,2024-05-09
+High Jump,m,1,"Wilson, Tyus",JR-3,Nebraska,2.29m,False,Big Ten Outdoor Championships,2024-05-10
+High Jump,m,2,"Snowden, Caleb",SR-4,Arkansas-Pine Bluff,2.27m,False,Memphis Tiger Invitational,2024-04-26
+High Jump,m,3,"Bajoit, Carter",JR-3,Texas A&M,2.25m,False,18th Spring Break Classic,2024-03-14
+High Jump,m,4,"Loudermilk, Devin",JR-3,Kansas,2.24m,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+High Jump,m,5,"Beckford, Romaine",SR-4,Arkansas,2.23m,False,LSU Invitational,2024-04-27
+High Jump,m,5,"Stephens, Brion",SO-2,Louisville,2.23m,False,2024 96th Clyde Littlefield Texas Relays,2024-03-27
+High Jump,f,1,"Distin, Lamara",SR-4,Texas A&M,1.96m,False,44 Farms Team Invitational,2024-04-05
+High Jump,f,2,"Kulichenko, Elena",JR-3,Georgia,1.95m,False,SEC Outdoor Track & Field Championships,2024-05-09
+High Jump,f,3,"Glenn, Rachel",JR-3,Arkansas,1.92m,False,SEC Outdoor Track & Field Championships,2024-05-09
+High Jump,f,4,"Sajdokova, Bara",JR-3,Illinois,1.91m,False,Fighting Illini Tune-Up,2024-05-04
+High Jump,f,4,"Taylor, Alice",SO-2,Rice,1.91m,False,The American Outdoor Track & Field Championships,2024-05-10
+High Jump,f,4,"Yeboah, Rose",JR-3,Illinois,1.91m,False,Fighting Illini Tune-Up,2024-05-04
+Pole Vault,m,1,"Garretson, Hunter",SR-4,Akron,5.83m,False,2024 96th Clyde Littlefield Texas Relays,2024-03-27
+Pole Vault,m,2,"McClure, Conner",SO-2,Virginia Tech,5.75m,False,2024 96th Clyde Littlefield Texas Relays,2024-03-27
+Pole Vault,m,3,"Daniel, Keaton",SR-4,Kentucky,5.67m,False,Tom Jones Memorial Invitational,2024-04-12
+Pole Vault,m,4,"Rademeyer, Kyle",SR-4,South Alabama,5.65m,False,Sun Belt Outdoor Track & Field Championships,2024-05-09
+Pole Vault,m,4,"Guttormsen, Simen",SR-4,Duke,5.65m,False,ACC Outdoor Track & Field Championships,2024-05-09
+Pole Vault,m,4,"Sampy, Christyan",SR-4,Houston,5.65m,False,Texas Invitational,2024-04-26
+Pole Vault,f,1,"Moll, Hana",FR-1,Washington,4.60m,False,64th Annual Mt. SAC Relays,2024-04-17
+Pole Vault,f,1,"Timberg, Chloe",JR-3,Rutgers,4.60m,False,Penn Relays,2024-04-25
+Pole Vault,f,3,"Felts, Riley",SR-4,Charlotte,4.55m,False,USC Outdoor Open,2024-04-20
+Pole Vault,f,4,"Moll, Amanda",FR-1,Washington,4.53m,False,PAC-12 Track and Field Championships,2024-05-10
+Pole Vault,f,5,"Thomas, Tori",JR-3,Illinois,4.52m,False,Fighting Illini Tune-Up,2024-05-04
+Long Jump,m,1,"Pinnock, Wayne",JR-3,Arkansas,8.25m,False,LSU Invitational,2024-04-27
+Long Jump,m,2,"Stevenson, Chrstyn John (JC)",SO-2,USC,8.21m,False,44 Farms Team Invitational,2024-04-05
+Long Jump,m,3,"Godfred, Charles",FR-1,Minnesota,8.19m,False,44 Farms Team Invitational,2024-04-05
+Long Jump,m,4,"Washington, Solomon",JR-3,Texas,8.02m,False,Texas Invitational,2024-04-26
+Long Jump,m,5,"Clemons, Malcolm",JR-3,Florida,8.00m,False,Pepsi Florida Relays,2024-03-29
+Long Jump,f,1,"Smith, Ackelia",JR-3,Texas,7.10m,False,Texas Invitational,2024-04-26
+Long Jump,f,2,"Beckmon, Sophia",FR-1,Illinois,6.86m,False,Fighting Illini Tune-Up,2024-05-04
+Long Jump,f,3,"Brown, Alexis",SR-4,Baylor,6.83m,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+Long Jump,f,4,"Humphrey, Tacoria",JR-3,Illinois,6.81m,False,Fighting Illini Tune-Up,2024-05-04
+Long Jump,f,5,"Breigan, Ida",FR-1,UTSA,6.74m,False,Beach Invitational 2024,2024-04-12
+Triple Jump,m,1,"Green Jr, Brandon",SO-2,Oklahoma,16.76m,False,64th Annual Mt. SAC Relays,2024-04-17
+Triple Jump,m,2,"Davis, Jeremiah",SR-4,Florida State,16.71m,False,ACC Outdoor Track & Field Championships,2024-05-09
+Triple Jump,m,3,"Dixon-Bodie, Sean",SR-4,Florida,16.68m,False,Pepsi Florida Relays,2024-03-29
+Triple Jump,m,4,"Robinson, Russell",SR-4,Miami (Fla.),16.61m,False,ACC Outdoor Track & Field Championships,2024-05-09
+Triple Jump,m,5,"Mane, Salif",SR-4,FDU,16.50m,False,2024 IC4A/ECAC Outdoor T&F Championships,2024-05-10
+Triple Jump,f,1,"Smith, Ackelia",JR-3,Texas,13.92m,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+Triple Jump,f,2,"Lasmane, Ruta",SR-4,Texas Tech,13.88m,False,2024 96th Clyde Littlefield Texas Relays,2024-03-27
+Triple Jump,f,3,"Ojora, Temitope",SR-4,USC,13.82m,False,44 Farms Team Invitational,2024-04-05
+Triple Jump,f,4,"Sjostrand, Emilia",JR-3,San Jose St.,13.67m,False,Mountain West Outdoor Track & Field Championships,2024-05-09
+Triple Jump,f,5,"Fosther-Katta, Anne-Suzanna",SR-4,Texas Tech,13.62m,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+Shot Put,m,1,"Robinson-O'Hagan, Tarik",SO-2,Ole Miss,20.85m,False,SEC Outdoor Track & Field Championships,2024-05-09
+Shot Put,m,2,"Licata, Christopher",JR-3,South Carolina,20.51m,False,USC Outdoor Open,2024-04-20
+Shot Put,m,3,"Targgart, Dylan",JR-3,South Carolina,20.45m,False,Tom Jones Memorial Invitational,2024-04-12
+Shot Put,m,4,"Gumbs, Djimon",SR-4,Northwestern St.,20.29m,False,Corky/Crofoot Shootout,2024-04-26
+Shot Put,m,5,"Swarens, Jason",JR-3,Wisconsin,20.05m,False,Badger Challenge,2024-05-03
+Shot Put,m,5,"Jones, Cam",JR-3,Iowa State,20.05m,False,Jim Duncan Invitational,2024-04-12
+Shot Put,f,1,"Ross, Jaida",JR-3,Oregon,19.71m,False,Triton Invite,2024-04-05
+Shot Put,f,2,"Lesnar, Mya",JR-3,Colorado St.,19.08m,False,Mountain West Outdoor Track & Field Championships,2024-05-09
+Shot Put,f,3,"Johansson, Axelina",JR-3,Nebraska,18.82m,False,Michael Johnson Invitational,2024-04-19
+Shot Put,f,4,"Davis, Jalani",SR-4,Ole Miss,18.54m,False,LSU Battle on the Bayou,2024-03-29
+Shot Put,f,5,"Murrell-Ross, Kelsie",JR-3,Georgia,18.33m,False,LSU Battle on the Bayou,2024-03-29
+Discus,m,1,"Romero, Claudio",SR-4,LSU,67.29m,False,LSU Alumni Gold,2024-04-20
+Discus,m,2,"Prinsloo, Francois",SR-4,South Alabama,67.26m,False,Golden Eagle Invitational,2024-04-26
+Discus,m,3,"Pavlidis, Dimitrios",JR-3,Kansas,63.72m,False,Rock Chalk Invite,2024-04-27
+Discus,m,4,"Shurts, Dallin",SR-4,BYU,63.26m,False,Triton Invite,2024-04-05
+Discus,m,5,"Broderick, Racquil",FR-1,USC,62.34m,False,Beach Opener 2024,2024-03-01
+Discus,f,1,"Ulrich, Jayden",JR-3,Louisville,64.29m,False,Pacific Coast Invitational 2024,2024-04-11
+Discus,f,2,"Van Daalen, Alida",SO-2,Florida,62.58m,False,Tom Jones Memorial Invitational,2024-04-12
+Discus,f,3,"Fraley, Veronica",SR-4,Vanderbilt,61.62m,False,SEC Outdoor Track & Field Championships,2024-05-09
+Discus,f,4,"Lindfors , Caisa-Marie",JR-3,California,61.44m,False,Stanford Invitational,2024-03-29
+Discus,f,5,"Hawkins , Michaela",SR-4,Colorado St.,61.24m,False,Beach Invitational 2024,2024-04-12
+Hammer,m,1,"Hamilton , Rowan",SR-4,California,77.16m,False,64th Annual Mt. SAC Relays,2024-04-17
+Hammer,m,2,"Knight, Trey",JR-3,CSUN,76.99m,False,64th Annual Mt. SAC Relays,2024-04-17
+Hammer,m,3,"Mantzouranis, Angelos",FR-1,Minnesota,75.55m,False,114th Drake Relays,2024-04-24
+Hammer,m,4,"Polychroniou, Nikolaos",JR-3,USC,75.24m,False,UCLA vs. USC Dual 2024,2024-04-27
+Hammer,m,5,"Oloyede, Israel",SR-4,Grand Canyon,74.84m,False,64th Annual Mt. SAC Relays,2024-04-17
+Hammer,f,1,"Rut Runarsdottir, Elisabet",SO-2,Texas State,70.33m,False,Bobcat Invitational & Multi,2024-03-28
+Hammer,f,2,"Simpson, Amber",SR-4,Illinois,70.21m,False,Gary Wieneke Memorial,2024-04-13
+Hammer,f,3,"Moran, Shelby",SR-4,Oregon,70.02m,False,Desert Heat Classic 2024,2024-04-27
+Hammer,f,4,"Hallgrimsdottir, Gudrun",JR-3,VCU,69.76m,False,Bobcat Invitational & Multi,2024-03-28
+Hammer,f,5,"Mitchell, Jasmine",SR-4,Ole Miss,69.37m,False,Joe Walker Invitational,2024-04-05
+Javelin,m,1,"Minichello, Marc",SR-4,Georgia,82.32m,False,Hurricane Collegiate Invite,2024-03-23
+Javelin,m,2,"Stein, Mike",SO-2,Iowa,81.19m,False,Big Ten Outdoor Championships,2024-05-10
+Javelin,m,3,"Sirmon, Dash",SO-2,Nebraska,80.86m,False,Big Ten Outdoor Championships,2024-05-10
+Javelin,m,4,"Nnamdi , Chinecherem Prosper",JR-3,Baylor,80.02m,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+Javelin,m,5,"Canard, Cody",SR-4,Weber State,78.07m,False,Utah Tech Invitational,2024-03-22
+Javelin,f,1,"Otabor, Rhema",SR-4,Nebraska,59.12m,False,114th Drake Relays,2024-04-24
+Javelin,f,2,"Botter, Federica",SR-4,UCLA,58.72m,False,PAC-12 Track and Field Championships,2024-05-10
+Javelin,f,3,"Davidson, Lianna",JR-3,Texas A&M,57.89m,False,SEC Outdoor Track & Field Championships,2024-05-09
+Javelin,f,4,"Morais, Arianne",SR-4,UTEP,57.26m,False,64th Annual Mt. SAC Relays,2024-04-17
+Javelin,f,5,"Jepkemboi, Irene",FR-1,TCU,57.23m,False,Texas A&M Invite,2024-03-23
+Heptathlon,f,1,"Chapman, Timara",SR-4,Texas A&M,6219,False,44 Farms Team Invitational,2024-04-05
+Heptathlon,f,2,"O'Brien, Jadin",JR-3,Notre Dame,6115,False,64th Annual Mt. SAC Relays,2024-04-17
+Heptathlon,f,3,"Enok, Pippi Lotta",SO-2,Oklahoma,6011,False,64th Annual Mt. SAC Relays,2024-04-17
+Heptathlon,f,4,"Blazevica, Kristine",SR-4,Texas,5954,False,Big 12 Outdoor Track & Field Championship,2024-05-09
+Heptathlon,f,5,"Hufnagel, Charity",SR-4,Kentucky,5914,False,SEC Outdoor Track & Field Championships,2024-05-09
+Heptathlon,f,5,"Thomas, Joniar",SR-4,Texas A&M,5914,False,44 Farms Team Invitational,2024-04-05
+Decathlon,m,1,"Neugebauer , Leo",SR-4,Texas,8708,False,2024 96th Clyde Littlefield Texas Relays,2024-03-27
+Decathlon,m,2,"Baldwin, Heath",SR-4,Michigan State,8470,False,64th Annual Mt. SAC Relays,2024-04-17
+Decathlon,m,3,"West, Austin",SR-4,Iowa,8024,False,64th Annual Mt. SAC Relays,2024-04-17
+Decathlon,m,4,"Campre, Edgar",SO-2,Miami (Fla.),7975,False,64th Annual Mt. SAC Relays,2024-04-17
+Decathlon,m,5,"Turner, Jack",SR-4,Arkansas,7935,False,SEC Outdoor Track & Field Championships,2024-05-09

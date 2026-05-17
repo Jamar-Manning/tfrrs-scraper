@@ -11,6 +11,18 @@ def get_season(url):
     season_type = "Indoor" if "Indoor" in parts else "Outdoor"
     return f"{year}_{season_type}"
 
+def get_division(url):
+    if "_I_" in url:
+        return 1
+    elif "_II_" in url:
+        return 2
+    elif "_III_" in url:
+        return 3
+    elif "NAIA" in url:
+        return 4
+    else:
+        return None
+
 
 def fetch_page(url):
     # Spoof as a browser to avoid being blocked
@@ -23,6 +35,7 @@ def scrape_list(url, parse_event):
     # Parse season info from URL
     season = get_season(url)
     season_year, season_type = season.split("_")
+    division = get_division(url)
 
     # Fetch and parse the page
     soup = fetch_page(url)
@@ -57,7 +70,27 @@ def scrape_list(url, parse_event):
         gender = "m" if "gender_m" in classes else "f"
 
         # Parse the event and collect results
-        result = parse_event(event_container, event_name, gender, season_year, season_type)
+        result = parse_event(event_container, division, event_name, gender, season_year, season_type)
         all_results.append(result)
 
     return all_results
+
+def get_division_urls(division):
+    soup = fetch_page("https://www.tfrrs.org/archives.html")
+
+    available_seasons = []
+    for tag in soup.find_all("a", href=True):
+        label = tag.text.strip()
+        if label[:4].isnumeric() and int(label[:4]) >= 2012:
+            available_seasons.append(label[:4])
+
+    division_urls = []
+    for i, season in enumerate(available_seasons):
+        outdoor_flag = i % 2
+        url = f"https://www.tfrrs.org/college_archives_tab.html?outdoor={outdoor_flag}&year={season}"
+        season_soup = fetch_page(url)
+        tag = season_soup.find("a", string=re.compile(division))
+        if tag:
+            division_urls.append(tag["href"])
+
+    return division_urls

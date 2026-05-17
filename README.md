@@ -83,4 +83,4 @@ The result limit in `config/settings.py` controls how many results are fetched p
 
 Data goes back to 2012 as earlier seasons are excluded due to inconsistent formatting.
 
-Relay events are excluded therefore, individual performances only. Names not stored in Last, First format are kept as a full string in the athlete column.
+Relay events are excluded therefore, individual performances only.

@@ -2,6 +2,8 @@
 
 Scrapes NCAA Division I track and field performance lists from TFRRS going back to 2012. One CSV per season, all individual events, both men and women.
 
+Data feeds into the [tfrrs-dbt](https://github.com/Jamar-Manning/tfrrs-dbt) project for transformation and analysis in Snowflake.
+
 ## Setup
 
 ```
@@ -20,11 +22,13 @@ CSVs land in `data/processed/`.
 
 | Column | Description |
 |--------|-------------|
+| season_year | Season year (e.g. 2026) |
+| season_type | Indoor or Outdoor |
 | event | Event name (e.g. 60 Meters, Long Jump) |
 | gender | m or f |
 | place | Finishing place |
 | athlete | Athlete name |
-| year | Academic year (e.g. JR-3) |
+| academic_year | Academic year (e.g. JR-3) |
 | team | School name |
 | result | Performance mark or time |
 | converted | True if altitude or track-size adjusted |
@@ -51,4 +55,4 @@ tfrrs-scraper/
 
 The result limit in `config/settings.py` controls how many results are fetched per event per page. At `500` (max), scraping all years takes roughly 5–10 minutes. At `5`, it runs in seconds. Adjust based on your needs.
 
-Relay events are excluded therefore, individual performances only. Marks flagged with `@` (altitude) or `#` (track size) are noted in the `converted` column. Names not stored in Last, First format are kept as a full string in the athlete column.
+Relay events are excluded — individual performances only. Marks flagged with `@` (altitude) or `#` (track size) are noted in the `converted` column. Names not stored in Last, First format are kept as a full string in the athlete column.

@@ -47,7 +47,7 @@ tfrrs-scraper/
 │   └── processed/        # output CSVs, one per season
 └── src/
     ├── scraper.py        # entry point
-    ├── utils.py          # fetching and orchestration
+    ├── utils.py          
     └── parsers/
         └── parser.py     # event parsing logic
 ```

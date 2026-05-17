@@ -1,6 +1,7 @@
 # TFRRS Scraper
 
-Scrapes NCAA Division I track and field performance lists from TFRRS going back to 2012. One CSV per season, all individual events, both men and women.
+Scrapes NCAA Division I track and field performance lists from TFRRS going back to 2012. 
+One CSV per season, all individual events, both men and women.
 
 Data feeds into the [tfrrs-dbt](https://github.com/Jamar-Manning/tfrrs-dbt) project for transformation and analysis in Snowflake.
 

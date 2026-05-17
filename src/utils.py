@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 
 def get_season(url):
-    # Parse season from URL — grab last 4-digit year and detect Indoor/Outdoor
+    # Parse season from URL. grab last 4-digit year and detect Indoor/Outdoor
     parts = url.split("/")[-1].split("_")
     year = [p for p in parts if p.isdigit() and len(p) == 4][-1]
     season_type = "Indoor" if "Indoor" in parts else "Outdoor"
@@ -20,6 +20,10 @@ def fetch_page(url):
 
 
 def scrape_list(url, parse_event):
+    # Parse season info from URL
+    season = get_season(url)
+    season_year, season_type = season.split("_")
+
     # Fetch and parse the page
     soup = fetch_page(url)
 
@@ -36,7 +40,11 @@ def scrape_list(url, parse_event):
         if event_container is None or event_container.name == "a":
             continue
 
-        event_name = event_container.find("h3").text.strip()
+        h3 = event_container.find("h3")
+        if h3 is None:
+            continue
+
+        event_name = h3.text.strip()
         event_name = event_name.split("(")[0].strip()
         header = event_container.find("div", class_="performance-list-header")
 
@@ -49,7 +57,7 @@ def scrape_list(url, parse_event):
         gender = "m" if "gender_m" in classes else "f"
 
         # Parse the event and collect results
-        result = parse_event(event_container, event_name, gender)
+        result = parse_event(event_container, event_name, gender, season_year, season_type)
         all_results.append(result)
 
     return all_results

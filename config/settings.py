@@ -1,2 +1,2 @@
-# Options: 5, 10, 20, 25, 30, 50, 100, 200, 500
+# Options: 1-500
 RESULT_LIMIT = 500

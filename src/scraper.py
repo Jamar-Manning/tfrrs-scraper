@@ -8,6 +8,8 @@ from utils import get_season, scrape_list
 # If All, scrape every division, otherwise just the selected one
 divisions = list(DIVISION_MAP.values())[:-1] if DIVISION == "All" else [DIVISION]
 
+all_divisions_df = []
+
 for division in divisions:
     # Read all URLs from config file
     with open(f"../config/urls_{division}.txt", "r") as f:
@@ -25,3 +27,12 @@ for division in divisions:
         df = pd.concat([pd.DataFrame(result) for result in all_results])
         df.to_csv(output_path, index=False)
         print(f"Exported {season}_{division}_results.csv")
+
+        # Collect for master CSV
+        all_divisions_df.append(df)
+
+# Write master CSV combining all divisions and seasons
+master_df = pd.concat(all_divisions_df, ignore_index=True)
+master_path = "../data/processed/master_results.csv"
+master_df.to_csv(master_path, index=False)
+print(f"Exported master_results.csv with {len(master_df)} rows")

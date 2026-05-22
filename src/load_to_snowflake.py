@@ -33,6 +33,8 @@ conn = snowflake.connector.connect(
 # Read master CSV
 master_path = "../data/processed/master_results.csv"
 df = pd.read_csv(master_path)
+# Uppercase all column names before loading
+df.columns = df.columns.str.upper()
 
 # Write to Snowflake, replacing existing data each run
 success, nchunks, nrows, _ = write_pandas(
